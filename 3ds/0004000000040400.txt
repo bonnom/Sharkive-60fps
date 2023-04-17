@@ -1,0 +1,110 @@
+[60FPS]
+0028A714 00000001
+{Game runs faster.}
+
+[Default 30FPS]
+0028A714 00000002
+{Game runs faster.}[60FPS]
+0028A714 00000001
+{Game runs faster.}
+
+[Default 30FPS]
+0028A714 00000002
+{Game runs faster.}[60FPS]
+0028A714 00000001
+{Game runs faster.}
+
+[Default 30FPS]
+0028A714 00000002
+{Game runs faster.}[60FPS]
+0028A714 00000001
+{Game runs faster.}
+
+[Default 30FPS]
+0028A714 00000002
+{Game runs faster.}[60FPS]
+0028A714 00000001
+{Game runs faster.}
+
+[Default 30FPS]
+0028A714 00000002
+{Game runs faster.}[60FPS]
+0028A714 00000001
+{Game runs faster.}
+
+[Default 30FPS]
+0028A714 00000002
+{Game runs faster.}[60FPS]
+0028A714 00000001
+{Game runs faster.}
+
+[Default 30FPS]
+0028A714 00000002
+{Game runs faster.}[60FPS]
+0028A714 00000001
+{Game runs faster.}
+
+[Default 30FPS]
+0028A714 00000002
+{Game runs faster.}[60FPS]
+0028A714 00000001
+{Game runs faster.}
+
+[Default 30FPS]
+0028A714 00000002
+{Game runs faster.}[60FPS]
+0028A714 00000001
+{Game runs faster.}
+
+[Default 30FPS]
+0028A714 00000002
+{Game runs faster.}[60FPS]
+0028A714 00000001
+{Game runs faster.}
+
+[Default 30FPS]
+0028A714 00000002
+{Game runs faster.}[60FPS]
+0028A714 00000001
+{Game runs faster.}
+
+[Default 30FPS]
+0028A714 00000002
+{Game runs faster.}[60FPS]
+0028A714 00000001
+{Game runs faster.}
+
+[Default 30FPS]
+0028A714 00000002
+{Game runs faster.}[60FPS]
+0028A714 00000001
+{Game runs faster.}
+
+[Default 30FPS]
+0028A714 00000002
+{Game runs faster.}[60FPS]
+0028A714 00000001
+{Game runs faster.}
+
+[Default 30FPS]
+0028A714 00000002
+{Game runs faster.}[60FPS]
+0028A714 00000001
+{Game runs faster.}
+
+[Default 30FPS]
+0028A714 00000002
+{Game runs faster.}[60FPS]
+0028A714 00000001
+{Game runs faster.}
+
+[Default 30FPS]
+0028A714 00000002
+{Game runs faster.}[60FPS]
+0028A714 00000001
+{Game runs faster.}
+
+[Default 30FPS]
+0028A714 00000002
+{Game runs faster.}[60FPS]
+0028A714 0000000

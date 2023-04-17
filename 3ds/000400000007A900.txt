@@ -7,3 +7,144 @@ B03254A0 00000000
 50000000 0000FF00
 200000A0 000000C8
 D2000000 00000000
+[30 FPS]
+0032FDA0 00000002
+
+[60 FPS]
+0032FDA0 00000001
+{Is not very stable, suffer constantly fps drops and dont work on certain areas.}[30 FPS]
+0032FDA0 00000002
+
+[60 FPS]
+0032FDA0 00000001
+{Is not very stable, suffer constantly fps drops and dont work on certain areas.}[30 FPS]
+0032FDA0 00000002
+
+[60 FPS]
+0032FDA0 00000001
+{Is not very stable, suffer constantly fps drops and dont work on certain areas.}[30 FPS]
+0032FDA0 00000002
+
+[60 FPS]
+0032FDA0 00000001
+{Is not very stable, suffer constantly fps drops and dont work on certain areas.}[30 FPS]
+0032FDA0 00000002
+
+[60 FPS]
+0032FDA0 00000001
+{Is not very stable, suffer constantly fps drops and dont work on certain areas.}[30 FPS]
+0032FDA0 00000002
+
+[60 FPS]
+0032FDA0 00000001
+{Is not very stable, suffer constantly fps drops and dont work on certain areas.}[30 FPS]
+0032FDA0 00000002
+
+[60 FPS]
+0032FDA0 00000001
+{Is not very stable, suffer constantly fps drops and dont work on certain areas.}[30 FPS]
+0032FDA0 00000002
+
+[60 FPS]
+0032FDA0 00000001
+{Is not very stable, suffer constantly fps drops and dont work on certain areas.}[30 FPS]
+0032FDA0 00000002
+
+[60 FPS]
+0032FDA0 00000001
+{Is not very stable, suffer constantly fps drops and dont work on certain areas.}[30 FPS]
+0032FDA0 00000002
+
+[60 FPS]
+0032FDA0 00000001
+{Is not very stable, suffer constantly fps drops and dont work on certain areas.}[30 FPS]
+0032FDA0 00000002
+
+[60 FPS]
+0032FDA0 00000001
+{Is not very stable, suffer constantly fps drops and dont work on certain areas.}[30 FPS]
+0032FDA0 00000002
+
+[60 FPS]
+0032FDA0 00000001
+{Is not very stab[30 FPS]
+0032FDA0 00000002
+
+[60 FPS]
+0032FDA0 00000001
+{Is not very stable, suffer constantly fps drops and dont work on certain areas.}[30 FPS]
+0032FDA0 00000002
+
+[60 FPS]
+0032FDA0 00000001
+{Is not very stable, suffer constantly fps drops and dont work on certain areas.}[30 FPS]
+0032FDA0 00000002
+
+[60 FPS]
+0032FDA0 00000001
+{Is not very stable, suffer constantly fps drops and dont work on certain areas.}[30 FPS]
+0032FDA0 00000002
+
+[60 FPS]
+0032FDA0 00000001
+{Is not very stable, suffer constantly fps drops and dont work on certain areas.}[30 FPS]
+0032FDA0 00000002
+
+[60 FPS]
+0032FDA0 00000001
+{Is not very stable, suffer constantly fps drops and dont work on certain areas.}[30 FPS]
+0032FDA0 00000002
+
+[60 FPS]
+0032FDA0 00000001
+{Is not very stable, suffer constantly fps drops and dont work on certain areas.}[30 FPS]
+0032FDA0 00000002
+
+[60 FPS]
+0032FDA0 00000001
+{Is not very stable, suffer constantly fps drops and dont work on certain areas.}[30 FPS]
+0032FDA0 00000002
+
+[60 FPS]
+0032FDA0 00000001
+{Is not very stable, suffer constantly fps drops and dont work on certain areas.}[30 FPS]
+0032FDA0 00000002
+
+[60 FPS]
+0032FDA0 00000001
+{Is not very stable, suffer constantly fps drops and dont work on certain areas.}[30 FPS]
+0032FDA0 00000002
+
+[60 FPS]
+0032FDA0 00000001
+{Is not very stable, suffer constantly fps drops and dont work on certain areas.}[30 FPS]
+0032FDA0 00000002
+
+[60 FPS]
+0032FDA0 00000001
+{Is not very stable, suffer constantly fps drops and dont work on certain areas.}[30 FPS]
+0032FDA0 00000002
+
+[60 FPS]
+0032FDA0 00000001
+{Is not very stab[30 FPS]
+0032FDA0 00000002
+
+[60 FPS]
+0032FDA0 00000001
+{Is not very stable, suffer constantly fps drops and dont work on certain areas.}[30 FPS]
+0032FDA0 00000002
+
+[60 FPS]
+0032FDA0 00000001
+{Is not very stable, suffer constantly fps drops and dont work on certain areas.}[30 FPS]
+0032FDA0 00000002
+
+[60 FPS]
+0032FDA0 00000001
+{Is not very stable, suffer constantly fps drops and dont work on certain areas.}[30 FPS]
+0032FDA0 00000002
+
+[60 FPS]
+0032FDA0 00000001
+{Is not very stab

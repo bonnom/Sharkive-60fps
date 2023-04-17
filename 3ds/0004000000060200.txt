@@ -25,3 +25,468 @@ B0000030 00000000
 90000DB6 000000AA
 10000DC4 000003E7
 D2000000 00000000
+[Default 30 FPS v1.0]
+0932B2A0 41F00000
+
+[60 FPS v1.0]
+0932B2A0 42700000
+{Bugs}
+
+[Default Game Speed v1.0]
+0932B29C 41F00000
+
+[Game Speed Slower v1.0]
+0932B29C 41700000
+
+[Game Speed Faster v1.0]
+0932B29C 42700000
+
+[Default Rendering v1.0]
+084EBDB4 281F056E
+
+[Disable AA type-1 v1.0]
+084EBDB4 281F016E
+{doesn't work on RER for some reason}
+
+[Disable AA type-2 v1.0]
+084EBDB4 281F052E
+{Will disable 3D slider}
+
+[Trinity Disabler v1.0]
+084EBDB4 280F412E
+{Disable AA, No Dithering, Disable AA on Lower (2nd) Screen.}[Default 30 FPS v1.0]
+0932B2A0 41F00000
+
+[60 FPS v1.0]
+0932B2A0 42700000
+{Bugs}
+
+[Default Game Speed v1.0]
+0932B29C 41F00000
+
+[Game Speed Slower v1.0]
+0932B29C 41700000
+
+[Game Speed Faster v1.0]
+0932B29C 42700000
+
+[Default Rendering v1.0]
+084EBDB4 281F056E
+
+[Disable AA type-1 v1.0]
+084EBDB4 281F016E
+{doesn't work on RER for some reason}
+
+[Disable AA type-2 v1.0]
+084EBDB4 281F052E
+{Will disable 3D slider}
+
+[Trinity Disabler v1.0]
+084EBDB4 280F412E
+{Disable AA, No Dithering, Disable AA on Lower (2nd) Screen.}[Default 30 FPS v1.0]
+0932B2A0 41F00000
+
+[60 FPS v1.0]
+0932B2A0 42700000
+{Bugs}
+
+[Default Game Speed v1.0]
+0932B29C 41F00000
+
+[Game Speed Slower v1.0]
+0932B29C 41700000
+
+[Game Speed Faster v1.0]
+0932B29C 42700000
+
+[Default Rendering v1.0]
+084EBDB4 281F056E
+
+[Disable AA type-1 v1.0]
+084EBDB4 281F016E
+{doesn't work on RER for some reason}
+
+[Disable AA type-2 v1.0]
+084EBDB4 281F052E
+{Will disable 3D slider}
+
+[Trinity Disabler v1.0]
+084EBDB4 280F412E
+{Disable AA, No Dithering, Disable AA on Lower (2nd) Screen.}[Default 30 FPS v1.0]
+0932B2A0 41F00000
+
+[60 FPS v1.0]
+0932B2A0 42700000
+{Bugs}
+
+[Default Game Speed v1.0]
+0932B29C 41F00000
+
+[Game Speed Slower v1.0]
+0932B29C 41700000
+
+[Game Speed Faster v1.0]
+0932B29C 42700000
+
+[Default Rendering v1.0]
+084EBDB4 281F056E
+
+[Disable AA type-1 v1.0]
+084EBDB4 281F016E
+{doesn't work on RER for some reason}
+
+[Disable AA type-2 v1.0]
+084EBDB4 281F052E
+{Will disable 3D slider}
+
+[Trinity Disabler v1.0]
+084EBDB4 280F412E
+{Disable AA, No Dithering, Disable AA on Lower (2nd) Screen.}[Default 30 FPS v1.0]
+0932B2A0 41F00000
+
+[60 FPS v1.0]
+0932B2A0 42700000
+{Bugs}
+
+[Default Game Speed v1.0]
+0932B29C 41F00000
+
+[Game Speed Slower v1.0]
+0932B29C 41700000
+
+[Game Speed Faster v1.0]
+0932B29C 42700000
+
+[Default Rendering v1.0]
+084EBDB4 281F056E
+
+[Disable AA type-1 v1.0]
+084EBDB4 281F016E
+{doesn't work on RER for some reason}
+
+[Disable AA type-2 v1.0]
+084EBDB4 281F052E
+{Will disable 3D slider}
+
+[Trinity Disabler v1.0]
+084EBDB4 280F412E
+{Disable AA, No Dithering, Disable AA on Lower (2nd) Screen.}[Default 30 FPS v1.0]
+0932B2A0 41F00000
+
+[60 FPS v1.0]
+0932B2A0 42700000
+{Bugs}
+
+[Default Game Speed v1.0]
+0932B29C 41F00000
+
+[Game Speed Slower v1.0]
+0932B29C 41700000
+
+[Game Speed Faster v1.0]
+0932B29C 42700000
+
+[Default Rendering v1.0]
+084EBDB4 281F056E
+
+[Disable AA type-1 v1.0]
+084EBDB4 281F016E
+{doesn't work on RER for some reason}
+
+[Disable AA type-2 v1.0]
+084EBDB4 281F052E
+{Will disable 3D slider}
+
+[Trinity Disabler v1.0]
+084EBDB4 280F412E
+{Disable AA, No Dithering, Disable AA on Lower (2nd) Screen.}[Default 30 FPS v1.0]
+0932B2A0 41F00000
+
+[60 FPS v1.0]
+0932B2A0 42700000
+{Bugs}
+
+[Default Game Speed v1.0]
+0932B29C 41F00000
+
+[Game Speed Slower v1.0]
+0932B29C 41700000
+
+[Game Speed Faster v1.0]
+0932B29C 42700000
+
+[Default Rendering v1.0]
+084EBDB4 281F056E
+
+[Disable AA type-1 v1.0]
+084EBDB4 281F016E
+{doesn't work on RER for some reason}
+
+[Disable AA type-2 v1.0]
+084EBDB4 281F052E
+{Will disable 3D slider}
+
+[Trinity Disabler v1.0]
+084EBDB4 280F412E
+{Disable AA, No Dithering, Disable AA on Lower (2nd) Screen.}[Default 30 FPS v1.0]
+0932B2A0 41F00000
+
+[60 FPS v1.0]
+0932B2A0 42700000
+{Bugs}
+
+[Default Game Speed v1.0]
+0932B29C 41F00000
+
+[Game Speed Slower v1.0]
+0932B29C 41700000
+
+[Game Speed Faster v1.0]
+0932B29C 42700000
+
+[Default Rendering v1.0]
+084EBDB4 281F056E
+
+[Disable AA type-1 v1.0]
+084EBDB4 281F016E
+{doesn't work on RER for some reason}
+
+[Disable AA type-2 v1.0]
+084EBDB4 281F052E
+{Will disable 3D slider}
+
+[Trinity Disabler v1.0]
+084EBDB4 280F412E
+{Disable AA, No Dithering, Disable AA on Lower (2nd) Screen.}[Default 30 FPS v1.0]
+0932B2A0 41F00000
+
+[60 FPS v1.0]
+0932B2A0 42700000
+{Bugs}
+
+[Default Game Speed v1.0]
+0932B29C 41F00000
+
+[Game Speed Slower v1.0]
+0932B29C 41700000
+
+[Game Speed Faster v1.0]
+0932B29C 42700000
+
+[Default Rendering v1.0]
+084EBDB4 281F056E
+
+[Disable AA type-1 v1.0]
+084EBDB4 281F016E
+{doesn't work on RER for some reason}
+
+[Disable AA type-2 v1.0]
+084EBDB4 281F052E
+{Will disable 3D slider}
+
+[Trinity Disabler v1.0]
+084EBDB4 280F412E
+{Disable AA, No Dithering, Disable AA on Lower (2nd) Screen.}[Default 30 FPS v1.0]
+0932B2A0 41F00000
+
+[60 FPS v1.0]
+0932B2A0 42700000
+{Bugs}
+
+[Default Game Speed v1.0]
+0932B29C 41F00000
+
+[Game Speed Slower v1.0]
+0932B29C 41700000
+
+[Game Speed Faster v1.0]
+0932B29C 42700000
+
+[Default Rendering v1.0]
+084EBDB4 281F056E
+
+[Disable AA type-1 v1.0]
+084EBDB4 281F016E
+{doesn't work on RER for some reason}
+
+[Disable AA type-2 v1.0]
+084EBDB4 281F052E
+{Will disable 3D slider}
+
+[Trinity Disabler v1.0]
+084EBDB4 280F412E
+{Disable AA, No Dithering, Disable AA on Lower (2nd) Screen.}[Default 30 FPS v1.0]
+0932B2A0 41F00000
+
+[60 FPS v1.0]
+0932B2A0 42700000
+{Bugs}
+
+[Default Game Speed v1.0]
+0932B29C 41F00000
+
+[Game Speed Slower v1.0]
+0932B29C 41700000
+
+[Game Speed Faster v1.0]
+0932B29C 42700000
+
+[Default Rendering v1.0]
+084EBDB4 281F056E
+
+[Disable AA type-1 v1.0]
+084EBDB4 281F016E
+{doesn't work on RER for some reason}
+
+[Disable AA type-2 v1.0]
+084EBDB4 281F052E
+{Will disable 3D slider}
+
+[Trinity Disabler v1.0]
+084EBDB4 280F412E
+{Disable AA, No Dithering, Disable AA on Lower (2nd) Screen.}[Default 30 FPS v1.0]
+0932B2A0 41F00000
+
+[60 FPS v1.0]
+0932B2A0 42700000
+{Bugs}
+
+[Default Game Speed v1.0]
+0932B29C 41F00000
+
+[Game Speed Slower v1.0]
+0932B29C 41700000
+
+[Game Speed Faster v1.0]
+0932B29C 42700000
+
+[Default Rendering v1.0]
+084EBDB4 281F056E
+
+[Disable AA type-1 v1.0]
+084EBDB4 281F016E
+{doesn't work on RER for some reason}
+
+[Disable AA type-2 v1.0]
+084EBDB4 281F052E
+{Will disable 3D slider}
+
+[Trinity Disabler v1.0]
+084EBDB4 280F412E
+{Disable AA, No Dithering, Disable AA on Lower (2nd) Screen.}[Default 30 FPS v1.0]
+0932B2A0 41F00000
+
+[60 FPS v1.0]
+0932B2A0 42700000
+{Bugs}
+
+[Default Game Speed v1.0]
+0932B29C 41F00000
+
+[Game Speed Slower v1.0]
+0932B29C 41700000
+
+[Game Speed Faster v1.0]
+0932B29C 42700000
+
+[Default Rendering v1.0]
+084EBDB4 281F056E
+
+[Disable AA type-1 v1.0]
+084EBDB4 281F016E
+{doesn't work on RER for some reason}
+
+[Disable AA type-2 v1.0]
+084EBDB4 281F052E
+{Will disable 3D slider}
+
+[Trinity Disabler v1.0]
+084EBDB4 280F412E
+{Disable AA, No Dithering, Disable AA on Lower (2nd) Screen.}[Default 30 FPS v1.0]
+0932B2A0 41F00000
+
+[60 FPS v1.0]
+0932B2A0 42700000
+{Bugs}
+
+[Default Game Speed v1.0]
+0932B29C 41F00000
+
+[Game Speed Slower v1.0]
+0932B29C 41700000
+
+[Game Speed Faster v1.0]
+0932B29C 42700000
+
+[Default Rendering v1.0]
+084EBDB4 281F056E
+
+[Disable AA type-1 v1.0]
+084EBDB4 281F016E
+{doesn't work on RER for some reason}
+
+[Disable AA type-2 v1.0]
+084EBDB4 281F052E
+{Will disable 3D slider}
+
+[Trinity Disabler v1.0]
+084EBDB4 280F412E
+{Disable AA, No Dithering, Disable AA on Lower (2nd) Screen.}[Default 30 FPS v1.0]
+0932B2A0 41F00000
+
+[60 FPS v1.0]
+0932B2A0 42700000
+{Bugs}
+
+[Default Game Speed v1.0]
+0932B29C 41F00000
+
+[Game Speed Slower v1.0]
+0932B29C 41700000
+
+[Game Speed Faster v1.0]
+0932B29C 42700000
+
+[Default Rendering v1.0]
+084EBDB4 281F056E
+
+[Disable AA type-1 v1.0]
+084EBDB4 281F016E
+{doesn't work on RER for some reason}
+
+[Disable AA type-2 v1.0]
+084EBDB4 281F052E
+{Will disable 3D slider}
+
+[Trinity Disabler v1.0]
+084EBDB4 280F412E
+{Disable AA, No Dithering, Disable AA on Lower (2nd) Screen.}[Default 30 FPS v1.0]
+0932B2A0 41F00000
+
+[60 FPS v1.0]
+0932B2A0 42700000
+{Bugs}
+
+[Default Game Speed v1.0]
+0932B29C 41F00000
+
+[Game Speed Slower v1.0]
+0932B29C 41700000
+
+[Game Speed Faster v1.0]
+0932B29C 42700000
+
+[Default Rendering v1.0]
+084EBDB4 281F056E
+
+[Disable AA type-1 v1.0]
+084EBDB4 281F016E
+{doesn't work on RER for some reason}
+
+[Disable AA type-2 v1.0]
+084EBDB4 281F052E
+{Will disable 3D slider}
+
+[Trinity Disabler v1.0]
+084EBDB4 280F412E
+{Disable AA, No Dithering, Disable AA on Lower (2nd) Screen.}

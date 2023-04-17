@@ -16,3 +16,114 @@
 0808F118 012C012C
 0808F11C 012C012C
 1808F120 0000012C
+[30 FPS]
+005FBA40 0000001E
+
+[60 FPS]
+005FBA40 0000003C
+{Only works on menus and certain areas.Will make the game runs faster (game speed x2), character moves at double speed.}[30 FPS]
+005FBA40 0000001E
+
+[60 FPS]
+005FBA40 0000003C
+{Only works on menus and certain areas.Will make the game runs faster (game speed x2), character moves at double speed.}[30 FPS]
+005FBA40 0000001E
+
+[60 FPS]
+005FBA40 0000003C
+{Only works on menus and certain areas.Will make the game runs faster (game speed x2), character moves at double speed.}[30 FPS]
+005FBA40 0000001E
+
+[60 FPS]
+005FBA40 0000003C
+{Only works on menus and certain areas.Will make the game runs faster (game speed x2), character moves at double speed.}[30 FPS]
+005FBA40 0000001E
+
+[60 FPS]
+005FBA40 0000003C
+{Only works on menus and certain areas.Will make the game runs faster (game speed x2), character moves at double speed.}[30 FPS]
+005FBA40 0000001E
+
+[60 FPS]
+005FBA40 0000003C
+{Only works on menus and certain areas.Will make the game runs faster (game speed x2), character moves at double speed.}[30 FPS]
+005FBA40 0000001E
+
+[60 FPS]
+005FBA40 0000003C
+{Only works on menus and certain areas.Will make the game runs faster (game speed x2), character moves at double speed.}[30 FPS]
+005FBA40 0000001E
+
+[60 FPS]
+005FBA40 0000003C
+{Only works on menus and certain areas.Will make the game runs faster (game speed x2), character moves at double speed.}[30 FPS]
+005FBA40 0000001E
+
+[60 FPS]
+005FBA40 0000003C
+{Only works on menus and certain areas.Will make the game runs faster (game speed x2), character moves at double speed.}[30 FPS]
+005FBA40 0000001E
+
+[60 FPS]
+005FBA40 0000003C
+{Only works on menus and certain areas.Will make the game runs faster (game speed x2), charact[30 FPS]
+005FBA40 0000001E
+
+[60 FPS]
+005FBA40 0000003C
+{Only works on menus and certain areas.Will make the game runs faster (game speed x2), character moves at double speed.}[30 FPS]
+005FBA40 0000001E
+
+[60 FPS]
+005FBA40 0000003C
+{Only works on menus and certain areas.Will make the game runs faster (game speed x2), character moves at double speed.}[30 FPS]
+005FBA40 0000001E
+
+[60 FPS]
+005FBA40 0000003C
+{Only works on menus and certain areas.Will make the game runs faster (game speed x2), character moves at double speed.}[30 FPS]
+005FBA40 0000001E
+
+[60 FPS]
+005FBA40 0000003C
+{Only works on menus and certain areas.Will make the game runs faster (game speed x2), character moves at double speed.}[30 FPS]
+005FBA40 0000001E
+
+[60 FPS]
+005FBA40 0000003C
+{Only works on menus and certain areas.Will make the game runs faster (game speed x2), character moves at double speed.}[30 FPS]
+005FBA40 0000001E
+
+[60 FPS]
+005FBA40 0000003C
+{Only works on menus and certain areas.Will make the game runs faster (game speed x2), character moves at double speed.}[30 FPS]
+005FBA40 0000001E
+
+[60 FPS]
+005FBA40 0000003C
+{Only works on menus and certain areas.Will make the game runs faster (game speed x2), character moves at double speed.}[30 FPS]
+005FBA40 0000001E
+
+[60 FPS]
+005FBA40 0000003C
+{Only works on menus and certain areas.Will make the game runs faster (game speed x2), character moves at double speed.}[30 FPS]
+005FBA40 0000001E
+
+[60 FPS]
+005FBA40 0000003C
+{Only works on menus and certain areas.Will make the game runs faster (game speed x2), character moves at double speed.}[30 FPS]
+005FBA40 0000001E
+
+[60 FPS]
+005FBA40 0000003C
+{Only works on menus and certain areas.Will make the game runs faster (game speed x2), charact[30 FPS]
+005FBA40 0000001E
+
+[60 FPS]
+005FBA40 0000003C
+{Only works on menus and certain areas.Will make the game runs faster (game speed x2), character moves at double speed.}[30 FPS]
+005FBA40 0000001E
+
+[60 FPS]
+005FBA40 0000003C
+{Only works on menus and certain areas.Will make the game runs faster (game speed x2), charact

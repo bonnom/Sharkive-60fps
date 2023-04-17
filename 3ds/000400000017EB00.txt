@@ -107,3 +107,738 @@ D1000000 00000000
 [Adventure Mode Rupee 9,999,999 v1.4 O3DS]
 0855A044 0098967F
 08AA2304 0098967F
+[60 FPS v1.0]
+207D3354 00000001
+{Unlike other games, the 60fps code of this game is not fast.}
+
+[Default 30 FPS v1.0]
+207D3354 00000002
+
+[20 FPS v1.0]
+207D3354 00000003
+{Game Runs Faster.}
+
+[15 fps v1.6.0]
+007F8954 00000004
+
+[20 fps v1.6.0]
+007F8954 00000003
+
+[30 fps v1.6.0]
+007F8954 00000002
+
+[60 fps v1.6.0]
+007F8954 00000001
+
+[200 fps v1.6.0]
+007F8954 00000000
+
+[30 fps v2 for v1.6.0]
+080662E8 00000001
+{On  battle: 30 fps , outside of battle (like on menu) : 60 fps.}
+
+[60 fps v2 for v1.6.0]
+080662E8 00000000
+{Will make the game runs faster (game speed x2), character moves at double speed.On battle: 42-55-60 fps (is not very stable, but at least works better than the old code) , outside of battle (like on menu) : 100 fps.}
+
+[60 FPS , Game Speed+ v1.6.0]
+007F8954 00000002
+080662E8 00000000
+
+[60 FPS , Game Speed++ v1.6.0]
+007F8954 00000003
+080662E8 00000000
+
+[60 FPS , Game Speed+++ v1.6.0]
+007F8954 00000004
+080662E8 00000000[60 FPS v1.0]
+207D3354 00000001
+{Unlike other games, the 60fps code of this game is not fast.}
+
+[Default 30 FPS v1.0]
+207D3354 00000002
+
+[20 FPS v1.0]
+207D3354 00000003
+{Game Runs Faster.}
+
+[15 fps v1.6.0]
+007F8954 00000004
+
+[20 fps v1.6.0]
+007F8954 00000003
+
+[30 fps v1.6.0]
+007F8954 00000002
+
+[60 fps v1.6.0]
+007F8954 00000001
+
+[200 fps v1.6.0]
+007F8954 00000000
+
+[30 fps v2 for v1.6.0]
+080662E8 00000001
+{On  battle: 30 fps , outside of battle (like on menu) : 60 fps.}
+
+[60 fps v2 for v1.6.0]
+080662E8 00000000
+{Will make the game runs faster (game speed x2), character moves at double speed.On battle: 42-55-60 fps (is not very stable, but at least works better than the old code) , outside of battle (like on menu) : 100 fps.}
+
+[60 FPS , Game Speed+ v1.6.0]
+007F8954 00000002
+080662E8 00000000
+
+[60 FPS , Game Speed++ v1.6.0]
+007F8954 00000003
+080662E8 00000000
+
+[60 FPS , Game Speed+++ v1.6.0]
+007F8954 00000004
+080662E8 00000000[60 FPS v1.0]
+207D3354 00000001
+{Unlike other games, the 60fps code of this game is not [60 FPS v1.0]
+207D3354 00000001
+{Unlike other games, the 60fps code of this game is not fast.}
+
+[Default 30 FPS v1.0]
+207D3354 00000002
+
+[20 FPS v1.0]
+207D3354 00000003
+{Game Runs Faster.}
+
+[15 fps v1.6.0]
+007F8954 00000004
+
+[20 fps v1.6.0]
+007F8954 00000003
+
+[30 fps v1.6.0]
+007F8954 00000002
+
+[60 fps v1.6.0]
+007F8954 00000001
+
+[200 fps v1.6.0]
+007F8954 00000000
+
+[30 fps v2 for v1.6.0]
+080662E8 00000001
+{On  battle: 30 fps , outside of battle (like on menu) : 60 fps.}
+
+[60 fps v2 for v1.6.0]
+080662E8 00000000
+{Will make the game runs faster (game speed x2), character moves at double speed.On battle: 42-55-60 fps (is not very stable, but at least works better than the old code) , outside of battle (like on menu) : 100 fps.}
+
+[60 FPS , Game Speed+ v1.6.0]
+007F8954 00000002
+080662E8 00000000
+
+[60 FPS , Game Speed++ v1.6.0]
+007F8954 00000003
+080662E8 00000000
+
+[60 FPS , Game Speed+++ v1.6.0]
+007F8954 00000004
+080662E8 00000000[60 FPS v1.0]
+207D3354 00000001
+{Unlike other games, the 60fps code of this game is not fast.}
+
+[Default 30 FPS v1.0]
+207D3354 00000002
+
+[20 FPS v1.0]
+207D3354 00000003
+{Game Runs Faster.}
+
+[15 fps v1.6.0]
+007F8954 00000004
+
+[20 fps v1.6.0]
+007F8954 00000003
+
+[30 fps v1.6.0]
+007F8954 00000002
+
+[60 fps v1.6.0]
+007F8954 00000001
+
+[200 fps v1.6.0]
+007F8954 00000000
+
+[30 fps v2 for v1.6.0]
+080662E8 00000001
+{On  battle: 30 fps , outside of battle (like on menu) : 60 fps.}
+
+[60 fps v2 for v1.6.0]
+080662E8 00000000
+{Will make the game runs faster (game speed x2), character moves at double speed.On battle: 42-55-60 fps (is not very stable, but at least works better than the old code) , outside of battle (like on menu) : 100 fps.}
+
+[60 FPS , Game Speed+ v1.6.0]
+007F8954 00000002
+080662E8 00000000
+
+[60 FPS , Game Speed++ v1.6.0]
+007F8954 00000003
+080662E8 00000000
+
+[60 FPS , Game Speed+++ v1.6.0]
+007F8954 00000004
+080662E8 00000000[60 FPS v1.0]
+207D3354 00000001
+{Unlike other games, the 60fps code of this game is not [60 FPS v1.0]
+207D3354 00000001
+{Unlike other games, the 60fps code of this game is not [60 FPS v1.0]
+207D3354 00000001
+{Unlike other games, the 60fps code of this game is not fast.}
+
+[Default 30 FPS v1.0]
+207D3354 00000002
+
+[20 FPS v1.0]
+207D3354 00000003
+{Game Runs Faster.}
+
+[15 fps v1.6.0]
+007F8954 00000004
+
+[20 fps v1.6.0]
+007F8954 00000003
+
+[30 fps v1.6.0]
+007F8954 00000002
+
+[60 fps v1.6.0]
+007F8954 00000001
+
+[200 fps v1.6.0]
+007F8954 00000000
+
+[30 fps v2 for v1.6.0]
+080662E8 00000001
+{On  battle: 30 fps , outside of battle (like on menu) : 60 fps.}
+
+[60 fps v2 for v1.6.0]
+080662E8 00000000
+{Will make the game runs faster (game speed x2), character moves at double speed.On battle: 42-55-60 fps (is not very stable, but at least works better than the old code) , outside of battle (like on menu) : 100 fps.}
+
+[60 FPS , Game Speed+ v1.6.0]
+007F8954 00000002
+080662E8 00000000
+
+[60 FPS , Game Speed++ v1.6.0]
+007F8954 00000003
+080662E8 00000000
+
+[60 FPS , Game Speed+++ v1.6.0]
+007F8954 00000004
+080662E8 00000000[60 FPS v1.0]
+207D3354 00000001
+{Unlike other games, the 60fps code of this game is not fast.}
+
+[Default 30 FPS v1.0]
+207D3354 00000002
+
+[20 FPS v1.0]
+207D3354 00000003
+{Game Runs Faster.}
+
+[15 fps v1.6.0]
+007F8954 00000004
+
+[20 fps v1.6.0]
+007F8954 00000003
+
+[30 fps v1.6.0]
+007F8954 00000002
+
+[60 fps v1.6.0]
+007F8954 00000001
+
+[200 fps v1.6.0]
+007F8954 00000000
+
+[30 fps v2 for v1.6.0]
+080662E8 00000001
+{On  battle: 30 fps , outside of battle (like on menu) : 60 fps.}
+
+[60 fps v2 for v1.6.0]
+080662E8 00000000
+{Will make the game runs faster (game speed x2), character moves at double speed.On battle: 42-55-60 fps (is not very stable, but at least works better than the old code) , outside of battle (like on menu) : 100 fps.}
+
+[60 FPS , Game Speed+ v1.6.0]
+007F8954 00000002
+080662E8 00000000
+
+[60 FPS , Game Speed++ v1.6.0]
+007F8954 00000003
+080662E8 00000000
+
+[60 FPS , Game Speed+++ v1.6.0]
+007F8954 00000004
+080662E8 00000000[60 FPS v1.0]
+207D3354 00000001
+{Unlike other games, the 60fps code of this game is not [60 FPS v1.0]
+207D3354 00000001
+{Unlike other games, the 60fps code of this game is not fast.}
+
+[Default 30 FPS v1.0]
+207D3354 00000002
+
+[20 FPS v1.0]
+207D3354 00000003
+{Game Runs Faster.}
+
+[15 fps v1.6.0]
+007F8954 00000004
+
+[20 fps v1.6.0]
+007F8954 00000003
+
+[30 fps v1.6.0]
+007F8954 00000002
+
+[60 fps v1.6.0]
+007F8954 00000001
+
+[200 fps v1.6.0]
+007F8954 00000000
+
+[30 fps v2 for v1.6.0]
+080662E8 00000001
+{On  battle: 30 fps , outside of battle (like on menu) : 60 fps.}
+
+[60 fps v2 for v1.6.0]
+080662E8 00000000
+{Will make the game runs faster (game speed x2), character moves at double speed.On battle: 42-55-60 fps (is not very stable, but at least works better than the old code) , outside of battle (like on menu) : 100 fps.}
+
+[60 FPS , Game Speed+ v1.6.0]
+007F8954 00000002
+080662E8 00000000
+
+[60 FPS , Game Speed++ v1.6.0]
+007F8954 00000003
+080662E8 00000000
+
+[60 FPS , Game Speed+++ v1.6.0]
+007F8954 00000004
+080662E8 00000000[60 FPS v1.0]
+207D3354 00000001
+{Unlike other games, the 60fps code of this game is not fast.}
+
+[Default 30 FPS v1.0]
+207D3354 00000002
+
+[20 FPS v1.0]
+207D3354 00000003
+{Game Runs Faster.}
+
+[15 fps v1.6.0]
+007F8954 00000004
+
+[20 fps v1.6.0]
+007F8954 00000003
+
+[30 fps v1.6.0]
+007F8954 00000002
+
+[60 fps v1.6.0]
+007F8954 00000001
+
+[200 fps v1.6.0]
+007F8954 00000000
+
+[30 fps v2 for v1.6.0]
+080662E8 00000001
+{On  battle: 30 fps , outside of battle (like on menu) : 60 fps.}
+
+[60 fps v2 for v1.6.0]
+080662E8 00000000
+{Will make the game runs faster (game speed x2), character moves at double speed.On battle: 42-55-60 fps (is not very stable, but at least works better than the old code) , outside of battle (like on menu) : 100 fps.}
+
+[60 FPS , Game Speed+ v1.6.0]
+007F8954 00000002
+080662E8 00000000
+
+[60 FPS , Game Speed++ v1.6.0]
+007F8954 00000003
+080662E8 00000000
+
+[60 FPS , Game Speed+++ v1.6.0]
+007F8954 00000004
+080662E8 00000000[60 FPS v1.0]
+207D3354 00000001
+{Unlike other games, the 60fps code of this game is not [60 FPS v1.0]
+207D3354 00000001
+{Unlike other games, the 60fps code of this game is not [60 FPS v1.0]
+207D3354 00000001
+{Unlike other games, the 60fps code of this game is not [60 FPS v1.0]
+207D3354 00000001
+{Unlike other games, the 60fps code of this game is not fast.}
+
+[Default 30 FPS v1.0]
+207D3354 00000002
+
+[20 FPS v1.0]
+207D3354 00000003
+{Game Runs Faster.}
+
+[15 fps v1.6.0]
+007F8954 00000004
+
+[20 fps v1.6.0]
+007F8954 00000003
+
+[30 fps v1.6.0]
+007F8954 00000002
+
+[60 fps v1.6.0]
+007F8954 00000001
+
+[200 fps v1.6.0]
+007F8954 00000000
+
+[30 fps v2 for v1.6.0]
+080662E8 00000001
+{On  battle: 30 fps , outside of battle (like on menu) : 60 fps.}
+
+[60 fps v2 for v1.6.0]
+080662E8 00000000
+{Will make the game runs faster (game speed x2), character moves at double speed.On battle: 42-55-60 fps (is not very stable, but at least works better than the old code) , outside of battle (like on menu) : 100 fps.}
+
+[60 FPS , Game Speed+ v1.6.0]
+007F8954 00000002
+080662E8 00000000
+
+[60 FPS , Game Speed++ v1.6.0]
+007F8954 00000003
+080662E8 00000000
+
+[60 FPS , Game Speed+++ v1.6.0]
+007F8954 00000004
+080662E8 00000000[60 FPS v1.0]
+207D3354 00000001
+{Unlike other games, the 60fps code of this game is not fast.}
+
+[Default 30 FPS v1.0]
+207D3354 00000002
+
+[20 FPS v1.0]
+207D3354 00000003
+{Game Runs Faster.}
+
+[15 fps v1.6.0]
+007F8954 00000004
+
+[20 fps v1.6.0]
+007F8954 00000003
+
+[30 fps v1.6.0]
+007F8954 00000002
+
+[60 fps v1.6.0]
+007F8954 00000001
+
+[200 fps v1.6.0]
+007F8954 00000000
+
+[30 fps v2 for v1.6.0]
+080662E8 00000001
+{On  battle: 30 fps , outside of battle (like on menu) : 60 fps.}
+
+[60 fps v2 for v1.6.0]
+080662E8 00000000
+{Will make the game runs faster (game speed x2), character moves at double speed.On battle: 42-55-60 fps (is not very stable, but at least works better than the old code) , outside of battle (like on menu) : 100 fps.}
+
+[60 FPS , Game Speed+ v1.6.0]
+007F8954 00000002
+080662E8 00000000
+
+[60 FPS , Game Speed++ v1.6.0]
+007F8954 00000003
+080662E8 00000000
+
+[60 FPS , Game Speed+++ v1.6.0]
+007F8954 00000004
+080662E8 00000000[60 FPS v1.0]
+207D3354 00000001
+{Unlike other games, the 60fps code of this game is not [60 FPS v1.0]
+207D3354 00000001
+{Unlike other games, the 60fps code of this game is not fast.}
+
+[Default 30 FPS v1.0]
+207D3354 00000002
+
+[20 FPS v1.0]
+207D3354 00000003
+{Game Runs Faster.}
+
+[15 fps v1.6.0]
+007F8954 00000004
+
+[20 fps v1.6.0]
+007F8954 00000003
+
+[30 fps v1.6.0]
+007F8954 00000002
+
+[60 fps v1.6.0]
+007F8954 00000001
+
+[200 fps v1.6.0]
+007F8954 00000000
+
+[30 fps v2 for v1.6.0]
+080662E8 00000001
+{On  battle: 30 fps , outside of battle (like on menu) : 60 fps.}
+
+[60 fps v2 for v1.6.0]
+080662E8 00000000
+{Will make the game runs faster (game speed x2), character moves at double speed.On battle: 42-55-60 fps (is not very stable, but at least works better than the old code) , outside of battle (like on menu) : 100 fps.}
+
+[60 FPS , Game Speed+ v1.6.0]
+007F8954 00000002
+080662E8 00000000
+
+[60 FPS , Game Speed++ v1.6.0]
+007F8954 00000003
+080662E8 00000000
+
+[60 FPS , Game Speed+++ v1.6.0]
+007F8954 00000004
+080662E8 00000000[60 FPS v1.0]
+207D3354 00000001
+{Unlike other games, the 60fps code of this game is not fast.}
+
+[Default 30 FPS v1.0]
+207D3354 00000002
+
+[20 FPS v1.0]
+207D3354 00000003
+{Game Runs Faster.}
+
+[15 fps v1.6.0]
+007F8954 00000004
+
+[20 fps v1.6.0]
+007F8954 00000003
+
+[30 fps v1.6.0]
+007F8954 00000002
+
+[60 fps v1.6.0]
+007F8954 00000001
+
+[200 fps v1.6.0]
+007F8954 00000000
+
+[30 fps v2 for v1.6.0]
+080662E8 00000001
+{On  battle: 30 fps , outside of battle (like on menu) : 60 fps.}
+
+[60 fps v2 for v1.6.0]
+080662E8 00000000
+{Will make the game runs faster (game speed x2), character moves at double speed.On battle: 42-55-60 fps (is not very stable, but at least works better than the old code) , outside of battle (like on menu) : 100 fps.}
+
+[60 FPS , Game Speed+ v1.6.0]
+007F8954 00000002
+080662E8 00000000
+
+[60 FPS , Game Speed++ v1.6.0]
+007F8954 00000003
+080662E8 00000000
+
+[60 FPS , Game Speed+++ v1.6.0]
+007F8954 00000004
+080662E8 00000000[60 FPS v1.0]
+207D3354 00000001
+{Unlike other games, the 60fps code of this game is not [60 FPS v1.0]
+207D3354 00000001
+{Unlike other games, the 60fps code of this game is not [60 FPS v1.0]
+207D3354 00000001
+{Unlike other games, the 60fps code of this game is not fast.}
+
+[Default 30 FPS v1.0]
+207D3354 00000002
+
+[20 FPS v1.0]
+207D3354 00000003
+{Game Runs Faster.}
+
+[15 fps v1.6.0]
+007F8954 00000004
+
+[20 fps v1.6.0]
+007F8954 00000003
+
+[30 fps v1.6.0]
+007F8954 00000002
+
+[60 fps v1.6.0]
+007F8954 00000001
+
+[200 fps v1.6.0]
+007F8954 00000000
+
+[30 fps v2 for v1.6.0]
+080662E8 00000001
+{On  battle: 30 fps , outside of battle (like on menu) : 60 fps.}
+
+[60 fps v2 for v1.6.0]
+080662E8 00000000
+{Will make the game runs faster (game speed x2), character moves at double speed.On battle: 42-55-60 fps (is not very stable, but at least works better than the old code) , outside of battle (like on menu) : 100 fps.}
+
+[60 FPS , Game Speed+ v1.6.0]
+007F8954 00000002
+080662E8 00000000
+
+[60 FPS , Game Speed++ v1.6.0]
+007F8954 00000003
+080662E8 00000000
+
+[60 FPS , Game Speed+++ v1.6.0]
+007F8954 00000004
+080662E8 00000000[60 FPS v1.0]
+207D3354 00000001
+{Unlike other games, the 60fps code of this game is not fast.}
+
+[Default 30 FPS v1.0]
+207D3354 00000002
+
+[20 FPS v1.0]
+207D3354 00000003
+{Game Runs Faster.}
+
+[15 fps v1.6.0]
+007F8954 00000004
+
+[20 fps v1.6.0]
+007F8954 00000003
+
+[30 fps v1.6.0]
+007F8954 00000002
+
+[60 fps v1.6.0]
+007F8954 00000001
+
+[200 fps v1.6.0]
+007F8954 00000000
+
+[30 fps v2 for v1.6.0]
+080662E8 00000001
+{On  battle: 30 fps , outside of battle (like on menu) : 60 fps.}
+
+[60 fps v2 for v1.6.0]
+080662E8 00000000
+{Will make the game runs faster (game speed x2), character moves at double speed.On battle: 42-55-60 fps (is not very stable, but at least works better than the old code) , outside of battle (like on menu) : 100 fps.}
+
+[60 FPS , Game Speed+ v1.6.0]
+007F8954 00000002
+080662E8 00000000
+
+[60 FPS , Game Speed++ v1.6.0]
+007F8954 00000003
+080662E8 00000000
+
+[60 FPS , Game Speed+++ v1.6.0]
+007F8954 00000004
+080662E8 00000000[60 FPS v1.0]
+207D3354 00000001
+{Unlike other games, the 60fps code of this game is not [60 FPS v1.0]
+207D3354 00000001
+{Unlike other games, the 60fps code of this game is not fast.}
+
+[Default 30 FPS v1.0]
+207D3354 00000002
+
+[20 FPS v1.0]
+207D3354 00000003
+{Game Runs Faster.}
+
+[15 fps v1.6.0]
+007F8954 00000004
+
+[20 fps v1.6.0]
+007F8954 00000003
+
+[30 fps v1.6.0]
+007F8954 00000002
+
+[60 fps v1.6.0]
+007F8954 00000001
+
+[200 fps v1.6.0]
+007F8954 00000000
+
+[30 fps v2 for v1.6.0]
+080662E8 00000001
+{On  battle: 30 fps , outside of battle (like on menu) : 60 fps.}
+
+[60 fps v2 for v1.6.0]
+080662E8 00000000
+{Will make the game runs faster (game speed x2), character moves at double speed.On battle: 42-55-60 fps (is not very stable, but at least works better than the old code) , outside of battle (like on menu) : 100 fps.}
+
+[60 FPS , Game Speed+ v1.6.0]
+007F8954 00000002
+080662E8 00000000
+
+[60 FPS , Game Speed++ v1.6.0]
+007F8954 00000003
+080662E8 00000000
+
+[60 FPS , Game Speed+++ v1.6.0]
+007F8954 00000004
+080662E8 00000000[60 FPS v1.0]
+207D3354 00000001
+{Unlike other games, the 60fps code of this game is not fast.}
+
+[Default 30 FPS v1.0]
+207D3354 00000002
+
+[20 FPS v1.0]
+207D3354 00000003
+{Game Runs Faster.}
+
+[15 fps v1.6.0]
+007F8954 00000004
+
+[20 fps v1.6.0]
+007F8954 00000003
+
+[30 fps v1.6.0]
+007F8954 00000002
+
+[60 fps v1.6.0]
+007F8954 00000001
+
+[200 fps v1.6.0]
+007F8954 00000000
+
+[30 fps v2 for v1.6.0]
+080662E8 00000001
+{On  battle: 30 fps , outside of battle (like on menu) : 60 fps.}
+
+[60 fps v2 for v1.6.0]
+080662E8 00000000
+{Will make the game runs faster (game speed x2), character moves at double speed.On battle: 42-55-60 fps (is not very stable, but at least works better than the old code) , outside of battle (like on menu) : 100 fps.}
+
+[60 FPS , Game Speed+ v1.6.0]
+007F8954 00000002
+080662E8 00000000
+
+[60 FPS , Game Speed++ v1.6.0]
+007F8954 00000003
+080662E8 00000000
+
+[60 FPS , Game Speed+++ v1.6.0]
+007F8954 00000004
+080662E8 00000000[60 FPS v1.0]
+207D3354 00000001
+{Unlike other games, the 60fps code of this game is not [60 FPS v1.0]
+207D3354 00000001
+{Unlike other games, the 60fps code of this game is not [60 FPS v1.0]
+207D3354 00000001
+{Unlike other games, the 60fps code of this game is not [60 FPS v1.0]
+207D3354 00000001
+{Unlike other games, the 60fps code of this game is not 

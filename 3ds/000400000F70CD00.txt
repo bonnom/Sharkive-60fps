@@ -1,0 +1,29 @@
+[Game Speed+ v1.0]
+2059B2FC 00000003
+
+[Game Speed++v1.0]
+2059B2FC 00000004
+
+[Game Speed+++ v1.0]
+2059B2FC 00000005
+
+[Default Game Speed v1.0]
+2059B2FC 00000002
+
+[Game Speed- v1.0]
+2059B2FC 00000001
+
+[Game Speed+ v1.5]
+205D93C4 00000003
+
+[Game Speed++v1.5]
+205D93C4 00000004
+
+[Game Speed+++ v1.5]
+205D93C4 00000005
+
+[Default Game Speed v1.5]
+205D93C4 00000002
+
+[Game Speed- v1.5]
+205D93C4 00000001

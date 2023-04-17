@@ -1,0 +1,44 @@
+[Game Speed+ v1.0]
+2059B2FC 00000003
+
+[Game Speed++v1.0]
+2059B2FC 00000004
+
+[Game Speed+++ v1.0]
+2059B2FC 00000005
+
+[Default Game Speed v1.0]
+2059B2FC 00000002
+
+[Game Speed- v1.0]
+2059B2FC 00000001
+
+[Game Speed+ v1.3] 
+205C6064 00000003
+
+[Game Speed++v1.3]
+205C6064 00000004
+
+[Game Speed+++ v1.3]
+205C6064 00000005
+
+[Default Game Speed v1.3]
+205C6064 00000002
+
+[Game Speed- v1.3]
+205C6064 00000001
+
+[Game Speed+ v1.5]
+205D83BC 00000003
+
+[Game Speed++v1.5]
+205D83BC 00000004
+
+[Game Speed+++ v1.5]
+205D83BC 00000005
+
+[Default Game Speed v1.5]
+205D83BC 00000002
+
+[Game Speed- v1.5]
+205D83BC 00000001

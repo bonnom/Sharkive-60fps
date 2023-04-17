@@ -95,3 +95,94 @@ D1000000 00000000
 282676E5 00000001
 282676E6 00000002
 282676E7 00000003
+[30 FPS]
+005C5CD4 00000001
+
+[60 FPS]
+005C5CD4 00000000
+{Will make the game runs faster (game speed x2).}[30 FPS]
+005C5CD4 00000001
+
+[60 FPS]
+005C5CD4 00000000
+{Will make the game runs faster (game speed x2).}[30 FPS]
+005C5CD4 00000001
+
+[60 FPS]
+005C5CD4 00000000
+{Will make the game runs faster (game speed x2).}[30 FPS]
+005C5CD4 00000001
+
+[60 FPS]
+005C5CD4 00000000
+{Will make the game runs faster (game speed x2).}[30 FPS]
+005C5CD4 00000001
+
+[60 FPS]
+005C5CD4 00000000
+{Will make the game runs faster (game speed x2).}[30 FPS]
+005C5CD4 00000001
+
+[60 FPS]
+005C5CD4 00000000
+{Will make the game runs faster (game speed x2).}[30 FPS]
+005C5CD4 00000001
+
+[60 FPS]
+005C5CD4 00000000
+{Will make the game runs faster (game speed x2).}[30 FPS]
+005C5CD4 00000001
+
+[60 FPS]
+005C5CD4 00000000
+{Will make the game runs faster (game speed x2).}[30 FPS]
+005C5CD4 00000001
+
+[60 FPS]
+005C5CD4 00000000
+{Will make the game runs faster (game speed x2).}[30 FPS]
+005C5CD4 00000001
+
+[60 FPS]
+005C5CD4 00000000
+{Will make the game runs faster (game speed x2).}[30 FPS]
+005C5CD4 00000001
+
+[60 FPS]
+005C5CD4 00000000
+{Will make the game runs faster (game speed x2).}[30 FPS]
+005C5CD4 00000001
+
+[60 FPS]
+005C5CD4 00000000
+{Will make the game runs faster (game speed x2).}[30 FPS]
+005C5CD4 00000001
+
+[60 FPS]
+005C5CD4 00000000
+{Will make the game runs faster (game speed x2).}[30 FPS]
+005C5CD4 00000001
+
+[60 FPS]
+005C5CD4 00000000
+{Will make the game runs faster (game speed x2).}[30 FPS]
+005C5CD4 00000001
+
+[60 FPS]
+005C5CD4 00000000
+{Will make the game runs faster (game speed x2).}[30 FPS]
+005C5CD4 00000001
+
+[60 FPS]
+005C5CD4 00000000
+{Will make the game runs faster (game speed x2).}[30 FPS]
+005C5CD4 00000001
+
+[60 FPS]
+005C5CD4 00000000
+{Will make the game runs faster (game speed x2).}[30 FPS]
+005C5CD4 00000001
+
+[60 FPS]
+005C5CD4 00000000
+{Will make the game runs faster (

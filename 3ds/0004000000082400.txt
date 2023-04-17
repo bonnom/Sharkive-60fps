@@ -358,3 +358,767 @@
 [0 Meals Eaten]
 20A47D3E 00000000
 20A4752C 00000000
+[True 60 FPS v1.0]
+10908698 0000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.0]
+10908698 00000404
+{Game Runs Faster. Not stable for 3DS.}
+
+[30 FPS v1.0]
+10908698 00000101
+{Best for Citra. Not stable for 3DS.}
+
+[Default 20 FPS v1.0]
+10908698 00000202
+
+[True 60 FPS v1.1]
+10947FC0 00000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.1]
+10947FC0 00000404
+{Game Runs Faster. Not stable for 3DS.}
+
+[30 FPS v1.1]
+10947FC0 00000101
+{Best for Citra. Not stable for 3DS.}
+
+[Default 20 FPS v1.1]
+10947FC0 00000202[True 60 FPS v1.0]
+10908698 0000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.0]
+10908698 00000404
+{Game Runs Faster. Not stable for 3DS.}
+
+[30 FPS v1.0]
+10908698 00000101
+{Best for Citra. Not stable for 3DS.}
+
+[Default 20 FPS v1.0]
+10908698 00000202
+
+[True 60 FPS v1.1]
+10947FC0 00000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.1]
+10947FC0 00000404
+{Game Runs Faster. Not stable for 3DS.}
+
+[30 FPS v1.1]
+10947FC0 00000101
+{Best for Citra. Not stable for 3DS.}
+
+[Default 20 FPS v1.1]
+10947FC0 00000202[True 60 FPS v1.0]
+10908698 0000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.0]
+10908698 00000404
+{Game Runs Faster. Not stable for 3DS.}
+
+[30 FPS v1.0]
+10908698 00000101
+{Best for Citra. Not stable for 3DS.}
+
+[Default 20 FPS v1.0]
+10908698 00000202
+
+[True 60 FPS v1.1]
+10947FC0 00000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.1]
+10947FC0 00000404
+{Game Runs Fa[True 60 FPS v1.0]
+10908698 0000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.0]
+10908698 00000404
+{Game Runs Faster. Not stable for 3DS.}
+
+[30 FPS v1.0]
+10908698 00000101
+{Best for Citra. Not stable for 3DS.}
+
+[Default 20 FPS v1.0]
+10908698 00000202
+
+[True 60 FPS v1.1]
+10947FC0 00000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.1]
+10947FC0 00000404
+{Game Runs Faster. Not stable for 3DS.}
+
+[30 FPS v1.1]
+10947FC0 00000101
+{Best for Citra. Not stable for 3DS.}
+
+[Default 20 FPS v1.1]
+10947FC0 00000202[True 60 FPS v1.0]
+10908698 0000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.0]
+10908698 00000404
+{Game Runs Faster. Not stable for 3DS.}
+
+[30 FPS v1.0]
+10908698 00000101
+{Best for Citra. Not stable for 3DS.}
+
+[Default 20 FPS v1.0]
+10908698 00000202
+
+[True 60 FPS v1.1]
+10947FC0 00000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.1]
+10947FC0 00000404
+{Game Runs Faster. Not stable for 3DS.}
+
+[30 FPS v1.1]
+10947FC0 00000101
+{Best for Citra. Not stable for 3DS.}
+
+[Default 20 FPS v1.1]
+10947FC0 00000202[True 60 FPS v1.0]
+10908698 0000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.0]
+10908698 00000404
+{Game Runs Faster. Not stable for 3DS.}
+
+[30 FPS v1.0]
+10908698 00000101
+{Best for Citra. Not stable for 3DS.}
+
+[Default 20 FPS v1.0]
+10908698 00000202
+
+[True 60 FPS v1.1]
+10947FC0 00000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.1]
+10947FC0 00000404
+{Game Runs Fa[True 60 FPS v1.0]
+10908698 0000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.0]
+10908698 00000404
+{Game Runs Faster. Not stable for 3DS.}
+
+[30 FPS v1.0]
+10908698 00000101
+{Best for Citra. Not stable for 3DS.}
+
+[Default 20 FPS v1.0]
+10908698 00000202
+
+[True 60 FPS v1.1]
+10947FC0 00000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.1]
+10947FC0 00000404
+{Game Runs Fa[True 60 FPS v1.0]
+10908698 0000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.0]
+10908698 00000404
+{Game Runs Faster. Not stable for 3DS.}
+
+[30 FPS v1.0]
+10908698 00000101
+{Best for Citra. Not stable for 3DS.}
+
+[Default 20 FPS v1.0]
+10908698 00000202
+
+[True 60 FPS v1.1]
+10947FC0 00000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.1]
+10947FC0 00000404
+{Game Runs Faster. Not stable for 3DS.}
+
+[30 FPS v1.1]
+10947FC0 00000101
+{Best for Citra. Not stable for 3DS.}
+
+[Default 20 FPS v1.1]
+10947FC0 00000202[True 60 FPS v1.0]
+10908698 0000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.0]
+10908698 00000404
+{Game Runs Faster. Not stable for 3DS.}
+
+[30 FPS v1.0]
+10908698 00000101
+{Best for Citra. Not stable for 3DS.}
+
+[Default 20 FPS v1.0]
+10908698 00000202
+
+[True 60 FPS v1.1]
+10947FC0 00000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.1]
+10947FC0 00000404
+{Game Runs Faster. Not stable for 3DS.}
+
+[30 FPS v1.1]
+10947FC0 00000101
+{Best for Citra. Not stable for 3DS.}
+
+[Default 20 FPS v1.1]
+10947FC0 00000202[True 60 FPS v1.0]
+10908698 0000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.0]
+10908698 00000404
+{Game Runs Faster. Not stable for 3DS.}
+
+[30 FPS v1.0]
+10908698 00000101
+{Best for Citra. Not stable for 3DS.}
+
+[Default 20 FPS v1.0]
+10908698 00000202
+
+[True 60 FPS v1.1]
+10947FC0 00000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.1]
+10947FC0 00000404
+{Game Runs Fa[True 60 FPS v1.0]
+10908698 0000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.0]
+10908698 00000404
+{Game Runs Faster. Not stable for 3DS.}
+
+[30 FPS v1.0]
+10908698 00000101
+{Best for Citra. Not stable for 3DS.}
+
+[Default 20 FPS v1.0]
+10908698 00000202
+
+[True 60 FPS v1.1]
+10947FC0 00000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.1]
+10947FC0 00000404
+{Game Runs Faster. Not stable for 3DS.}
+
+[30 FPS v1.1]
+10947FC0 00000101
+{Best for Citra. Not stable for 3DS.}
+
+[Default 20 FPS v1.1]
+10947FC0 00000202[True 60 FPS v1.0]
+10908698 0000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.0]
+10908698 00000404
+{Game Runs Faster. Not stable for 3DS.}
+
+[30 FPS v1.0]
+10908698 00000101
+{Best for Citra. Not stable for 3DS.}
+
+[Default 20 FPS v1.0]
+10908698 00000202
+
+[True 60 FPS v1.1]
+10947FC0 00000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.1]
+10947FC0 00000404
+{Game Runs Faster. Not stable for 3DS.}
+
+[30 FPS v1.1]
+10947FC0 00000101
+{Best for Citra. Not stable for 3DS.}
+
+[Default 20 FPS v1.1]
+10947FC0 00000202[True 60 FPS v1.0]
+10908698 0000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.0]
+10908698 00000404
+{Game Runs Faster. Not stable for 3DS.}
+
+[30 FPS v1.0]
+10908698 00000101
+{Best for Citra. Not stable for 3DS.}
+
+[Default 20 FPS v1.0]
+10908698 00000202
+
+[True 60 FPS v1.1]
+10947FC0 00000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.1]
+10947FC0 00000404
+{Game Runs Fa[True 60 FPS v1.0]
+10908698 0000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.0]
+10908698 00000404
+{Game Runs Faster. Not stable for 3DS.}
+
+[30 FPS v1.0]
+10908698 00000101
+{Best for Citra. Not stable for 3DS.}
+
+[Default 20 FPS v1.0]
+10908698 00000202
+
+[True 60 FPS v1.1]
+10947FC0 00000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.1]
+10947FC0 00000404
+{Game Runs Fa[True 60 FPS v1.0]
+10908698 0000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.0]
+10908698 00000404
+{Game Runs Faster. Not stable for 3DS.}
+
+[30 FPS v1.0]
+10908698 00000101
+{Best for Citra. Not stable for 3DS.}
+
+[Default 20 FPS v1.0]
+10908698 00000202
+
+[True 60 FPS v1.1]
+10947FC0 00000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.1]
+10947FC0 00000404
+{Game Runs Fa[True 60 FPS v1.0]
+10908698 0000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.0]
+10908698 00000404
+{Game Runs Faster. Not stable for 3DS.}
+
+[30 FPS v1.0]
+10908698 00000101
+{Best for Citra. Not stable for 3DS.}
+
+[Default 20 FPS v1.0]
+10908698 00000202
+
+[True 60 FPS v1.1]
+10947FC0 00000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.1]
+10947FC0 00000404
+{Game Runs Faster. Not stable for 3DS.}
+
+[30 FPS v1.1]
+10947FC0 00000101
+{Best for Citra. Not stable for 3DS.}
+
+[Default 20 FPS v1.1]
+10947FC0 00000202[True 60 FPS v1.0]
+10908698 0000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.0]
+10908698 00000404
+{Game Runs Faster. Not stable for 3DS.}
+
+[30 FPS v1.0]
+10908698 00000101
+{Best for Citra. Not stable for 3DS.}
+
+[Default 20 FPS v1.0]
+10908698 00000202
+
+[True 60 FPS v1.1]
+10947FC0 00000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.1]
+10947FC0 00000404
+{Game Runs Faster. Not stable for 3DS.}
+
+[30 FPS v1.1]
+10947FC0 00000101
+{Best for Citra. Not stable for 3DS.}
+
+[Default 20 FPS v1.1]
+10947FC0 00000202[True 60 FPS v1.0]
+10908698 0000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.0]
+10908698 00000404
+{Game Runs Faster. Not stable for 3DS.}
+
+[30 FPS v1.0]
+10908698 00000101
+{Best for Citra. Not stable for 3DS.}
+
+[Default 20 FPS v1.0]
+10908698 00000202
+
+[True 60 FPS v1.1]
+10947FC0 00000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.1]
+10947FC0 00000404
+{Game Runs Fa[True 60 FPS v1.0]
+10908698 0000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.0]
+10908698 00000404
+{Game Runs Faster. Not stable for 3DS.}
+
+[30 FPS v1.0]
+10908698 00000101
+{Best for Citra. Not stable for 3DS.}
+
+[Default 20 FPS v1.0]
+10908698 00000202
+
+[True 60 FPS v1.1]
+10947FC0 00000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.1]
+10947FC0 00000404
+{Game Runs Faster. Not stable for 3DS.}
+
+[30 FPS v1.1]
+10947FC0 00000101
+{Best for Citra. Not stable for 3DS.}
+
+[Default 20 FPS v1.1]
+10947FC0 00000202[True 60 FPS v1.0]
+10908698 0000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.0]
+10908698 00000404
+{Game Runs Faster. Not stable for 3DS.}
+
+[30 FPS v1.0]
+10908698 00000101
+{Best for Citra. Not stable for 3DS.}
+
+[Default 20 FPS v1.0]
+10908698 00000202
+
+[True 60 FPS v1.1]
+10947FC0 00000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.1]
+10947FC0 00000404
+{Game Runs Faster. Not stable for 3DS.}
+
+[30 FPS v1.1]
+10947FC0 00000101
+{Best for Citra. Not stable for 3DS.}
+
+[Default 20 FPS v1.1]
+10947FC0 00000202[True 60 FPS v1.0]
+10908698 0000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.0]
+10908698 00000404
+{Game Runs Faster. Not stable for 3DS.}
+
+[30 FPS v1.0]
+10908698 00000101
+{Best for Citra. Not stable for 3DS.}
+
+[Default 20 FPS v1.0]
+10908698 00000202
+
+[True 60 FPS v1.1]
+10947FC0 00000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.1]
+10947FC0 00000404
+{Game Runs Fa[True 60 FPS v1.0]
+10908698 0000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.0]
+10908698 00000404
+{Game Runs Faster. Not stable for 3DS.}
+
+[30 FPS v1.0]
+10908698 00000101
+{Best for Citra. Not stable for 3DS.}
+
+[Default 20 FPS v1.0]
+10908698 00000202
+
+[True 60 FPS v1.1]
+10947FC0 00000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.1]
+10947FC0 00000404
+{Game Runs Fa[True 60 FPS v1.0]
+10908698 0000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.0]
+10908698 00000404
+{Game Runs Faster. Not stable for 3DS.}
+
+[30 FPS v1.0]
+10908698 00000101
+{Best for Citra. Not stable for 3DS.}
+
+[Default 20 FPS v1.0]
+10908698 00000202
+
+[True 60 FPS v1.1]
+10947FC0 00000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.1]
+10947FC0 00000404
+{Game Runs Faster. Not stable for 3DS.}
+
+[30 FPS v1.1]
+10947FC0 00000101
+{Best for Citra. Not stable for 3DS.}
+
+[Default 20 FPS v1.1]
+10947FC0 00000202[True 60 FPS v1.0]
+10908698 0000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.0]
+10908698 00000404
+{Game Runs Faster. Not stable for 3DS.}
+
+[30 FPS v1.0]
+10908698 00000101
+{Best for Citra. Not stable for 3DS.}
+
+[Default 20 FPS v1.0]
+10908698 00000202
+
+[True 60 FPS v1.1]
+10947FC0 00000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.1]
+10947FC0 00000404
+{Game Runs Faster. Not stable for 3DS.}
+
+[30 FPS v1.1]
+10947FC0 00000101
+{Best for Citra. Not stable for 3DS.}
+
+[Default 20 FPS v1.1]
+10947FC0 00000202[True 60 FPS v1.0]
+10908698 0000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.0]
+10908698 00000404
+{Game Runs Faster. Not stable for 3DS.}
+
+[30 FPS v1.0]
+10908698 00000101
+{Best for Citra. Not stable for 3DS.}
+
+[Default 20 FPS v1.0]
+10908698 00000202
+
+[True 60 FPS v1.1]
+10947FC0 00000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.1]
+10947FC0 00000404
+{Game Runs Fa[True 60 FPS v1.0]
+10908698 0000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.0]
+10908698 00000404
+{Game Runs Faster. Not stable for 3DS.}
+
+[30 FPS v1.0]
+10908698 00000101
+{Best for Citra. Not stable for 3DS.}
+
+[Default 20 FPS v1.0]
+10908698 00000202
+
+[True 60 FPS v1.1]
+10947FC0 00000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.1]
+10947FC0 00000404
+{Game Runs Faster. Not stable for 3DS.}
+
+[30 FPS v1.1]
+10947FC0 00000101
+{Best for Citra. Not stable for 3DS.}
+
+[Default 20 FPS v1.1]
+10947FC0 00000202[True 60 FPS v1.0]
+10908698 0000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.0]
+10908698 00000404
+{Game Runs Faster. Not stable for 3DS.}
+
+[30 FPS v1.0]
+10908698 00000101
+{Best for Citra. Not stable for 3DS.}
+
+[Default 20 FPS v1.0]
+10908698 00000202
+
+[True 60 FPS v1.1]
+10947FC0 00000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.1]
+10947FC0 00000404
+{Game Runs Faster. Not stable for 3DS.}
+
+[30 FPS v1.1]
+10947FC0 00000101
+{Best for Citra. Not stable for 3DS.}
+
+[Default 20 FPS v1.1]
+10947FC0 00000202[True 60 FPS v1.0]
+10908698 0000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.0]
+10908698 00000404
+{Game Runs Faster. Not stable for 3DS.}
+
+[30 FPS v1.0]
+10908698 00000101
+{Best for Citra. Not stable for 3DS.}
+
+[Default 20 FPS v1.0]
+10908698 00000202
+
+[True 60 FPS v1.1]
+10947FC0 00000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.1]
+10947FC0 00000404
+{Game Runs Fa[True 60 FPS v1.0]
+10908698 0000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.0]
+10908698 00000404
+{Game Runs Faster. Not stable for 3DS.}
+
+[30 FPS v1.0]
+10908698 00000101
+{Best for Citra. Not stable for 3DS.}
+
+[Default 20 FPS v1.0]
+10908698 00000202
+
+[True 60 FPS v1.1]
+10947FC0 00000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.1]
+10947FC0 00000404
+{Game Runs Fa[True 60 FPS v1.0]
+10908698 0000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.0]
+10908698 00000404
+{Game Runs Faster. Not stable for 3DS.}
+
+[30 FPS v1.0]
+10908698 00000101
+{Best for Citra. Not stable for 3DS.}
+
+[Default 20 FPS v1.0]
+10908698 00000202
+
+[True 60 FPS v1.1]
+10947FC0 00000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.1]
+10947FC0 00000404
+{Game Runs Fa[True 60 FPS v1.0]
+10908698 0000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.0]
+10908698 00000404
+{Game Runs Faster. Not stable for 3DS.}
+
+[30 FPS v1.0]
+10908698 00000101
+{Best for Citra. Not stable for 3DS.}
+
+[Default 20 FPS v1.0]
+10908698 00000202
+
+[True 60 FPS v1.1]
+10947FC0 00000000
+{Power Hungry / High Performance Demanding. Not stable for 3DS.}
+
+[60 FPS'ish v1.1]
+10947FC0 00000404
+{Game Runs Fa

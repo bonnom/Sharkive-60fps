@@ -1,0 +1,173 @@
+[60 FPS]
+D3000000 10000000
+24036818 00000000
+D2000000 00000000
+{Only works occasionally on 3DS.}
+
+[Default 30 FPS]
+D3000000 10000000
+24036818 00000001
+D2000000 00000000
+{Not really the default but it's the framerate during gameplay/racing.}[60 FPS]
+D3000000 10000000
+24036818 00000000
+D2000000 00000000
+{Only works occasionally on 3DS.}
+
+[Default 30 FPS]
+D3000000 10000000
+24036818 00000001
+D2000000 00000000
+{Not really the default but it's the framerate during gameplay/racing.}[60 FPS]
+D3000000 10000000
+24036818 00000000
+D2000000 00000000
+{Only works occasionally on 3DS.}
+
+[Default 30 FPS]
+D3000000 10000000
+24036818 00000001
+D2000000 00000000
+{Not really the default but it's the framerate during gameplay/racing.}[60 FPS]
+D3000000 10000000
+24036818 00000000
+D2000000 00000000
+{Only works occasionally on 3DS.}
+
+[Default 30 FPS]
+D3000000 10000000
+24036818 00000001
+D2000000 00000000
+{Not really the default but it's the framerate during gameplay/racing.}[60 FPS]
+D3000000 10000000
+24036818 00000000
+D2000000 00000000
+{Only works occasionally on 3DS.}
+
+[Default 30 FPS]
+D3000000 10000000
+24036818 00000001
+D2000000 00000000
+{Not really the default but it's the framerate during gameplay/racing.}[60 FPS]
+D3000000 10000000
+24036818 00000000
+D2000000 00000000
+{Only works occasionally on 3DS.}
+
+[Default 30 FPS]
+D3000000 10000000
+24036818 00000001
+D2000000 00000000
+{Not really the default but it's the framerate during gameplay/racing.}[60 FPS]
+D3000000 10000000
+24036818 00000000
+D2000000 00000000
+{Only works occasionally on 3DS.}
+
+[Default 30 FPS]
+D3000000 10000000
+24036818 00000001
+D2000000 00000000
+{Not really the default but it's the framerate during gameplay/racing.}[60 FPS]
+D3000000 10000000
+24036818 00000000
+D2000000 00000000
+{Only works occasionally on 3DS.}
+
+[Default 30 FPS]
+D3000000 10000000
+24036818 00000001
+D2000000 00000000
+{Not really the default but it's the framerate during gameplay/racing.}[60 FPS]
+D3000000 10000000
+24036818 00000000
+D2000000 00000000
+{[60 FPS]
+D3000000 10000000
+24036818 00000000
+D2000000 00000000
+{Only works occasionally on 3DS.}
+
+[Default 30 FPS]
+D3000000 10000000
+24036818 00000001
+D2000000 00000000
+{Not really the default but it's the framerate during gameplay/racing.}[60 FPS]
+D3000000 10000000
+24036818 00000000
+D2000000 00000000
+{Only works occasionally on 3DS.}
+
+[Default 30 FPS]
+D3000000 10000000
+24036818 00000001
+D2000000 00000000
+{Not really the default but it's the framerate during gameplay/racing.}[60 FPS]
+D3000000 10000000
+24036818 00000000
+D2000000 00000000
+{Only works occasionally on 3DS.}
+
+[Default 30 FPS]
+D3000000 10000000
+24036818 00000001
+D2000000 00000000
+{Not really the default but it's the framerate during gameplay/racing.}[60 FPS]
+D3000000 10000000
+24036818 00000000
+D2000000 00000000
+{Only works occasionally on 3DS.}
+
+[Default 30 FPS]
+D3000000 10000000
+24036818 00000001
+D2000000 00000000
+{Not really the default but it's the framerate during gameplay/racing.}[60 FPS]
+D3000000 10000000
+24036818 00000000
+D2000000 00000000
+{Only works occasionally on 3DS.}
+
+[Default 30 FPS]
+D3000000 10000000
+24036818 00000001
+D2000000 00000000
+{Not really the default but it's the framerate during gameplay/racing.}[60 FPS]
+D3000000 10000000
+24036818 00000000
+D2000000 00000000
+{Only works occasionally on 3DS.}
+
+[Default 30 FPS]
+D3000000 10000000
+24036818 00000001
+D2000000 00000000
+{Not really the default but it's the framerate during gameplay/racing.}[60 FPS]
+D3000000 10000000
+24036818 00000000
+D2000000 00000000
+{Only works occasionally on 3DS.}
+
+[Default 30 FPS]
+D3000000 10000000
+24036818 00000001
+D2000000 00000000
+{Not really the default but it's the framerate during gameplay/racing.}[60 FPS]
+D3000000 10000000
+24036818 00000000
+D2000000 00000000
+{Only works occasionally on 3DS.}
+
+[Default 30 FPS]
+D3000000 10000000
+24036818 00000001
+D2000000 00000000
+{Not really the default but it's the framerate during gameplay/racing.}[60 FPS]
+D3000000 10000000
+24036818 00000000
+D2000000 00000000
+{[60 FPS]
+D3000000 10000000
+24036818 00000000
+D2000000 00000000
+{

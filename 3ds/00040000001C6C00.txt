@@ -1,0 +1,211 @@
+[Default 20 FPS]
+201FA960 00000032
+
+[30 FPS]
+201FA960 00000022
+{Will make the game runs faster}
+
+[60 FPS]
+201FA960 00000011
+{Will make the game runs even faster}[Default 20 FPS]
+201FA960 00000032
+
+[30 FPS]
+201FA960 00000022
+{Will make the game runs faster}
+
+[60 FPS]
+201FA960 00000011
+{Will make the game runs even faster}[Default 20 FPS]
+201FA960 00000032
+
+[30 FPS]
+201FA960 00000022
+{Will make the game runs faster}
+
+[60 FPS]
+201FA960 00000011
+{Will make the game runs even faster}[Default 20 FPS]
+201FA960 00000032
+
+[30 FPS]
+201FA960 00000022
+{Will make the game runs faster}
+
+[60 FPS]
+201FA960 00000011
+{Will make the game runs even faster}[Default 20 FPS]
+201FA960 00000032
+
+[30 FPS]
+201FA960 00000022
+{Will make the game runs faster}
+
+[60 FPS]
+201FA960 00000011
+{Will make the game runs even faster}[Default 20 FPS]
+201FA960 00000032
+
+[30 FPS]
+201FA960 00000022
+{Will make the game runs faster}
+
+[60 FPS]
+201FA960 00000011
+{Will make the game runs even faster}[Default 20 FPS]
+201FA960 00000032
+
+[30 FPS]
+201FA960 00000022
+{Will make the game runs faster}
+
+[60 FPS]
+201FA960 00000011
+{Will make the game runs even faster}[Default 20 FPS]
+201FA960 00000032
+
+[30 FPS]
+201FA960 00000022
+{Will make the game runs faster}
+
+[60 FPS]
+201FA960 00000011
+{Will make the game runs even faster}[Default 20 FPS]
+201FA960 00000032
+
+[30 FPS]
+201FA960 00000022
+{Will make the game runs faster}
+
+[60 FPS]
+201FA960 00000011
+{Will make the game runs even faster}[Default 20 FPS]
+201FA960 00000032
+
+[30 FPS]
+201FA960 00000022
+{Will make the game runs faster}
+
+[60 FPS]
+201FA960 00000011
+{Will make the game runs even faster}[Default 20 FPS]
+201FA960 00000032
+
+[30 FPS]
+201FA960 0000[Default 20 FPS]
+201FA960 00000032
+
+[30 FPS]
+201FA960 00000022
+{Will make the game runs faster}
+
+[60 FPS]
+201FA960 00000011
+{Will make the game runs even faster}[Default 20 FPS]
+201FA960 00000032
+
+[30 FPS]
+201FA960 00000022
+{Will make the game runs faster}
+
+[60 FPS]
+201FA960 00000011
+{Will make the game runs even faster}[Default 20 FPS]
+201FA960 00000032
+
+[30 FPS]
+201FA960 00000022
+{Will make the game runs faster}
+
+[60 FPS]
+201FA960 00000011
+{Will make the game runs even faster}[Default 20 FPS]
+201FA960 00000032
+
+[30 FPS]
+201FA960 00000022
+{Will make the game runs faster}
+
+[60 FPS]
+201FA960 00000011
+{Will make the game runs even faster}[Default 20 FPS]
+201FA960 00000032
+
+[30 FPS]
+201FA960 00000022
+{Will make the game runs faster}
+
+[60 FPS]
+201FA960 00000011
+{Will make the game runs even faster}[Default 20 FPS]
+201FA960 00000032
+
+[30 FPS]
+201FA960 00000022
+{Will make the game runs faster}
+
+[60 FPS]
+201FA960 00000011
+{Will make the game runs even faster}[Default 20 FPS]
+201FA960 00000032
+
+[30 FPS]
+201FA960 00000022
+{Will make the game runs faster}
+
+[60 FPS]
+201FA960 00000011
+{Will make the game runs even faster}[Default 20 FPS]
+201FA960 00000032
+
+[30 FPS]
+201FA960 00000022
+{Will make the game runs faster}
+
+[60 FPS]
+201FA960 00000011
+{Will make the game runs even faster}[Default 20 FPS]
+201FA960 00000032
+
+[30 FPS]
+201FA960 00000022
+{Will make the game runs faster}
+
+[60 FPS]
+201FA960 00000011
+{Will make the game runs even faster}[Default 20 FPS]
+201FA960 00000032
+
+[30 FPS]
+201FA960 00000022
+{Will make the game runs faster}
+
+[60 FPS]
+201FA960 00000011
+{Will make the game runs even faster}[Default 20 FPS]
+201FA960 00000032
+
+[30 FPS]
+201FA960 0000[Default 20 FPS]
+201FA960 00000032
+
+[30 FPS]
+201FA960 00000022
+{Will make the game runs faster}
+
+[60 FPS]
+201FA960 00000011
+{Will make the game runs even faster}[Default 20 FPS]
+201FA960 00000032
+
+[30 FPS]
+201FA960 00000022
+{Will make the game runs faster}
+
+[60 FPS]
+201FA960 00000011
+{Will make the game runs even faster}[Default 20 FPS]
+201FA960 00000032
+
+[30 FPS]
+201FA960 0000

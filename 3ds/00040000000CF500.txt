@@ -95,3 +95,347 @@ D1000000 00000000
 003A74B0 23500001
 003AAA04 E3500001
 003AAA0C 23500001
+For v1.0
+
+[60 FPS]
+080D82CC 00000001
+{The game runs faster.}
+
+[30 FPS]
+080D82CC 00000002
+
+For v1.1
+
+[60 FPS]
+080D9900 00000001
+{The game runs faster.}
+
+[30 FPS]
+080D9900 00000002For v1.0
+
+[60 FPS]
+080D82CC 00000001
+{The game runs faster.}
+
+[30 FPS]
+080D82CC 00000002
+
+For v1.1
+
+[60 FPS]
+080D9900 00000001
+{The game runs faster.}
+
+[30 FPS]
+080D9900 00000002For v1.0
+
+[60 FPS]
+080D82CC 00000001
+{The game runs faster.}
+
+[30 FPS]
+080D82CC 00000002
+
+For v1.1
+
+[60 FPS]
+080D9900 00000001
+{The game runs faster.}
+
+[30 FPS]
+080D9900 00000002For v1.0
+
+[60 FPS]
+080D82CC 00000001
+{The game runs faster.}
+
+[30 FPS]
+080D82CC 00000002
+
+For v1.1
+
+[60 FPS]
+080D9900 00000001
+{The game runs faster.}
+
+[30 FPS]
+080D9900 00000002For v1.0
+
+[60 FPS]
+080D82CC 00000001
+{The game runs faster.}
+
+[30 FPS]
+080D82CC 00000002
+
+For v1.1
+
+[60 FPS]
+080D9900 00000001
+{The game runs faster.}
+
+[30 FPS]
+080D9900 00000002For v1.0
+
+[60 FPS]
+080D82CC 00000001
+{The game runs faster.}
+
+[30 FPS]
+080D82CC 00000002
+
+For v1.1
+
+[60 FPS]
+080D9900 00000001
+{The game runs faster.}
+
+[30 FPS]
+080D9900 00000002For v1.0
+
+[60 FPS]
+080D82CC 00000001
+{The game runs faster.}
+
+[30 FPS]
+080D82CC 00000002
+
+For v1.1
+
+[60 FPS]
+080D9900 00000001
+{The game runs faster.}
+
+[30 FPS]
+080D9900 00000002For v1.0
+
+[60 FPS]
+080D82CC 00000001
+{The game runs faster.}
+
+[30 FPS]
+080D82CC 00000002
+
+For v1.1
+
+[60 FPS]
+080D9900 00000001
+{The game runs faster.}
+
+[30 FPS]
+080D9900 00000002For v1.0
+
+[60 FPS]
+080D82CC 00000001
+{The game runs faster.}
+
+[30 FPS]
+080D82CC 00000002
+
+For v1.1
+
+[60 FPS]
+080D9900 00000001
+{The game runs faster.}
+
+[30 FPS]
+080D9900 00000002For v1.0
+
+[60 FPS]
+080D82CC 00000001
+{The game runs faster.}
+
+[30 FPS]
+080D82CC 00000002
+
+For v1.1
+
+[60 FPS]
+080D9900 00000001
+{The gaFor v1.0
+
+[60 FPS]
+080D82CC 00000001
+{The game runs faster.}
+
+[30 FPS]
+080D82CC 00000002
+
+For v1.1
+
+[60 FPS]
+080D9900 00000001
+{The game runs faster.}
+
+[30 FPS]
+080D9900 00000002For v1.0
+
+[60 FPS]
+080D82CC 00000001
+{The game runs faster.}
+
+[30 FPS]
+080D82CC 00000002
+
+For v1.1
+
+[60 FPS]
+080D9900 00000001
+{The game runs faster.}
+
+[30 FPS]
+080D9900 00000002For v1.0
+
+[60 FPS]
+080D82CC 00000001
+{The game runs faster.}
+
+[30 FPS]
+080D82CC 00000002
+
+For v1.1
+
+[60 FPS]
+080D9900 00000001
+{The game runs faster.}
+
+[30 FPS]
+080D9900 00000002For v1.0
+
+[60 FPS]
+080D82CC 00000001
+{The game runs faster.}
+
+[30 FPS]
+080D82CC 00000002
+
+For v1.1
+
+[60 FPS]
+080D9900 00000001
+{The game runs faster.}
+
+[30 FPS]
+080D9900 00000002For v1.0
+
+[60 FPS]
+080D82CC 00000001
+{The game runs faster.}
+
+[30 FPS]
+080D82CC 00000002
+
+For v1.1
+
+[60 FPS]
+080D9900 00000001
+{The game runs faster.}
+
+[30 FPS]
+080D9900 00000002For v1.0
+
+[60 FPS]
+080D82CC 00000001
+{The game runs faster.}
+
+[30 FPS]
+080D82CC 00000002
+
+For v1.1
+
+[60 FPS]
+080D9900 00000001
+{The game runs faster.}
+
+[30 FPS]
+080D9900 00000002For v1.0
+
+[60 FPS]
+080D82CC 00000001
+{The game runs faster.}
+
+[30 FPS]
+080D82CC 00000002
+
+For v1.1
+
+[60 FPS]
+080D9900 00000001
+{The game runs faster.}
+
+[30 FPS]
+080D9900 00000002For v1.0
+
+[60 FPS]
+080D82CC 00000001
+{The game runs faster.}
+
+[30 FPS]
+080D82CC 00000002
+
+For v1.1
+
+[60 FPS]
+080D9900 00000001
+{The game runs faster.}
+
+[30 FPS]
+080D9900 00000002For v1.0
+
+[60 FPS]
+080D82CC 00000001
+{The game runs faster.}
+
+[30 FPS]
+080D82CC 00000002
+
+For v1.1
+
+[60 FPS]
+080D9900 00000001
+{The game runs faster.}
+
+[30 FPS]
+080D9900 00000002For v1.0
+
+[60 FPS]
+080D82CC 00000001
+{The game runs faster.}
+
+[30 FPS]
+080D82CC 00000002
+
+For v1.1
+
+[60 FPS]
+080D9900 00000001
+{The gaFor v1.0
+
+[60 FPS]
+080D82CC 00000001
+{The game runs faster.}
+
+[30 FPS]
+080D82CC 00000002
+
+For v1.1
+
+[60 FPS]
+080D9900 00000001
+{The game runs faster.}
+
+[30 FPS]
+080D9900 00000002For v1.0
+
+[60 FPS]
+080D82CC 00000001
+{The game runs faster.}
+
+[30 FPS]
+080D82CC 00000002
+
+For v1.1
+
+[60 FPS]
+080D9900 00000001
+{The ga

@@ -83,3 +83,96 @@ B072E168 00000000
 DC000000 FFFF2828
 00000000 000001E0
 D2000000 00000000
+[60 FPS]
+280927E8 00000001
+{Not always for 3DS and Game Runs Faster.}
+
+[30 FPS]
+280927E8 00000002[60 FPS]
+280927E8 00000001
+{Not always for 3DS and Game Runs Faster.}
+
+[30 FPS]
+280927E8 00000002[60 FPS]
+280927E8 00000001
+{Not always for 3DS and Game Runs Faster.}
+
+[30 FPS]
+280927E8 00000002[60 FPS]
+280927E8 00000001
+{Not always for 3DS and Game Runs Faster.}
+
+[30 FPS]
+280927E8 00000002[60 FPS]
+280927E8 00000001
+{Not always for 3DS and Game Runs Faster.}
+
+[30 FPS]
+280927E8 00000002[60 FPS]
+280927E8 00000001
+{Not always for 3DS and Game Runs Faster.}
+
+[30 FPS]
+280927E8 00000002[60 FPS]
+280927E8 00000001
+{Not always for 3DS and Game Runs Faster.}
+
+[30 FPS]
+280927E8 00000002[60 FPS]
+280927E8 00000001
+{Not always for 3DS and Game Runs Faster.}
+
+[30 FPS]
+280927E8 00000002[60 FPS]
+280927E8 00000001
+{Not always for 3DS and Game Runs Faster.}
+
+[30 FPS]
+280927E8 00000002[60 FPS]
+280927E8 00000001
+{Not always for 3DS and Game Runs Faster.}
+
+[30 FPS]
+280927E8 00000002[60 FPS]
+280927E8 00000001
+{Not always for 3DS and Game Runs Faster.}
+
+[30 FPS]
+280927E8 00000002[60 FPS]
+280927E8 00000001
+{Not always for 3DS and Game Runs Faster.}
+
+[30 FPS]
+280927E8 00000002[60 FPS]
+280927E8 00000001
+{Not always for 3DS and Game Runs Faster.}
+
+[30 FPS]
+280927E8 00000002[60 FPS]
+280927E8 00000001
+{Not always for 3DS and Game Runs Faster.}
+
+[30 FPS]
+280927E8 00000002[60 FPS]
+280927E8 00000001
+{Not always for 3DS and Game Runs Faster.}
+
+[30 FPS]
+280927E8 00000002[60 FPS]
+280927E8 00000001
+{Not always for 3DS and Game Runs Faster.}
+
+[30 FPS]
+280927E8 00000002[60 FPS]
+280927E8 00000001
+{Not always for 3DS and Game Runs Faster.}
+
+[30 FPS]
+280927E8 00000002[60 FPS]
+280927E8 00000001
+{Not always for 3DS and Game Runs Faster.}
+
+[30 FPS]
+280927E8 00000002[60 FPS]
+280927E8 00000001
+{Not always for 3DS and Gam

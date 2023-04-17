@@ -110,3 +110,251 @@ D2000000 00000000
 B86F1178 00000000
 100023F6 000003E8
 D2000000 00000000
+[60 FPS]
+08F91A10 42F00000
+{The game runs faster}
+
+[30 FPS]
+08F91A10 42700000
+
+[Disable FSAA]
+28582D04 00000009
+{Will disable 3D slider}
+
+[Disable FSAA and dithering]
+08582D04 006F0309
+{Will disable 3D slider}[60 FPS]
+08F91A10 42F00000
+{The game runs faster}
+
+[30 FPS]
+08F91A10 42700000
+
+[Disable FSAA]
+28582D04 00000009
+{Will disable 3D slider}
+
+[Disable FSAA and dithering]
+08582D04 006F0309
+{Will disable 3D slider}[60 FPS]
+08F91A10 42F00000
+{The game runs faster}
+
+[30 FPS]
+08F91A10 42700000
+
+[Disable FSAA]
+28582D04 00000009
+{Will disable 3D slider}
+
+[Disable FSAA and dithering]
+08582D04 006F0309
+{Will disable 3D slider}[60 FPS]
+08F91A10 42F00000
+{The game runs faster}
+
+[30 FPS]
+08F91A10 42700000
+
+[Disable FSAA]
+28582D04 00000009
+{Will disable 3D slider}
+
+[Disable FSAA and dithering]
+08582D04 006F0309
+{Will disable 3D slider}[60 FPS]
+08F91A10 42F00000
+{The game runs faster}
+
+[30 FPS]
+08F91A10 42700000
+
+[Disable FSAA]
+28582D04 00000009
+{Will disable 3D slider}
+
+[Disable FSAA and dithering]
+08582D04 006F0309
+{Will disable 3D slider}[60 FPS]
+08F91A10 42F00000
+{The game runs faster}
+
+[30 FPS]
+08F91A10 42700000
+
+[Disable FSAA]
+28582D04 00000009
+{Will disable 3D slider}
+
+[Disable FSAA and dithering]
+08582D04 006F0309
+{Will disable 3D slider}[60 FPS]
+08F91A10 42F00000
+{The game runs faster}
+
+[30 FPS]
+08F91A10 42700000
+
+[Disable FSAA]
+28582D04 00000009
+{Will disable 3D slider}
+
+[Disable FSAA and dithering]
+08582D04 006F0309
+{Will disable 3D slider}[60 FPS]
+08F91A10 42F00000
+{The game runs faster}
+
+[30 FPS]
+08F91A10 42700000
+
+[Disable FSAA]
+28582D04 00000009
+{Will disable 3D slider}
+
+[Disable FSAA and dithering]
+08582D04 006F0309
+{Will disable 3D slider}[60 FPS]
+08F91A10 42F00000
+{The game runs faster}
+
+[30 FPS]
+08F91A10 42700000
+
+[Disable FSAA]
+28582D04 00000009
+{Will disable 3D slider}
+
+[Disable FSAA and dithering]
+08582D04 006F0309
+{Wi[60 FPS]
+08F91A10 42F00000
+{The game runs faster}
+
+[30 FPS]
+08F91A10 42700000
+
+[Disable FSAA]
+28582D04 00000009
+{Will disable 3D slider}
+
+[Disable FSAA and dithering]
+08582D04 006F0309
+{Will disable 3D slider}[60 FPS]
+08F91A10 42F00000
+{The game runs faster}
+
+[30 FPS]
+08F91A10 42700000
+
+[Disable FSAA]
+28582D04 00000009
+{Will disable 3D slider}
+
+[Disable FSAA and dithering]
+08582D04 006F0309
+{Will disable 3D slider}[60 FPS]
+08F91A10 42F00000
+{The game runs faster}
+
+[30 FPS]
+08F91A10 42700000
+
+[Disable FSAA]
+28582D04 00000009
+{Will disable 3D slider}
+
+[Disable FSAA and dithering]
+08582D04 006F0309
+{Will disable 3D slider}[60 FPS]
+08F91A10 42F00000
+{The game runs faster}
+
+[30 FPS]
+08F91A10 42700000
+
+[Disable FSAA]
+28582D04 00000009
+{Will disable 3D slider}
+
+[Disable FSAA and dithering]
+08582D04 006F0309
+{Will disable 3D slider}[60 FPS]
+08F91A10 42F00000
+{The game runs faster}
+
+[30 FPS]
+08F91A10 42700000
+
+[Disable FSAA]
+28582D04 00000009
+{Will disable 3D slider}
+
+[Disable FSAA and dithering]
+08582D04 006F0309
+{Will disable 3D slider}[60 FPS]
+08F91A10 42F00000
+{The game runs faster}
+
+[30 FPS]
+08F91A10 42700000
+
+[Disable FSAA]
+28582D04 00000009
+{Will disable 3D slider}
+
+[Disable FSAA and dithering]
+08582D04 006F0309
+{Will disable 3D slider}[60 FPS]
+08F91A10 42F00000
+{The game runs faster}
+
+[30 FPS]
+08F91A10 42700000
+
+[Disable FSAA]
+28582D04 00000009
+{Will disable 3D slider}
+
+[Disable FSAA and dithering]
+08582D04 006F0309
+{Will disable 3D slider}[60 FPS]
+08F91A10 42F00000
+{The game runs faster}
+
+[30 FPS]
+08F91A10 42700000
+
+[Disable FSAA]
+28582D04 00000009
+{Will disable 3D slider}
+
+[Disable FSAA and dithering]
+08582D04 006F0309
+{Will disable 3D slider}[60 FPS]
+08F91A10 42F00000
+{The game runs faster}
+
+[30 FPS]
+08F91A10 42700000
+
+[Disable FSAA]
+28582D04 00000009
+{Will disable 3D slider}
+
+[Disable FSAA and dithering]
+08582D04 006F0309
+{Wi[60 FPS]
+08F91A10 42F00000
+{The game runs faster}
+
+[30 FPS]
+08F91A10 42700000
+
+[Disable FSAA]
+28582D04 00000009
+{Will disable 3D slider}
+
+[Disable FSAA and dithering]
+08582D04 006F0309
+{Wi

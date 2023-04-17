@@ -48,3 +48,185 @@ D2000000 00000000
 [BIG OR SMALL CPU 3]
 00C967E4 3FE0E03F
 00C967E8 3FE0E03F
+[Default 60 FPS v1.0 Rev0 3dsiso dump]
+20B467D8 00000001
+
+[30 FPS v1.0 Rev0 3dsiso dump]
+20B467D8 00000002
+
+[Default 60 FPS v1.17 Rev0 3dsiso dump]
+20C3A940 00000001
+
+[30 FPS v1.17 Rev0 3dsiso dump]
+20C3A940 00000002[Default 60 FPS v1.0 Rev0 3dsiso dump]
+20B467D8 00000001
+
+[30 FPS v1.0 Rev0 3dsiso dump]
+20B467D8 00000002
+
+[Default 60 FPS v1.17 Rev0 3dsiso dump]
+20C3A940 00000001
+
+[30 FPS v1.17 Rev0 3dsiso dump]
+20C3A940 00000002[Default 60 FPS v1.0 Rev0 3dsiso dump]
+20B467D8 00000001
+
+[30 FPS v1.0 Rev0 3dsiso dump]
+20B467D8 00000002
+
+[Default 60 FPS v1.17 Rev0 3dsiso dump]
+20C3A940 00000001
+
+[30 FPS v1.17 Rev0 3dsiso dump]
+20C3A940 00000002[Default 60 FPS v1.0 Rev0 3dsiso dump]
+20B467D8 00000001
+
+[30 FPS v1.0 Rev0 3dsiso dump]
+20B467D8 00000002
+
+[Default 60 FPS v1.17 Rev0 3dsiso dump]
+20C3A940 00000001
+
+[30 FPS v1.17 Rev0 3dsiso dump]
+20C3A940 00000002[Default 60 FPS v1.0 Rev0 3dsiso dump]
+20B467D8 00000001
+
+[30 FPS v1.0 Rev0 3dsiso dump]
+20B467D8 00000002
+
+[Default 60 FPS v1.17 Rev0 3dsiso dump]
+20C3A940 00000001
+
+[30 FPS v1.17 Rev0 3dsiso dump]
+20C3A940 00000002[Default 60 FPS v1.0 Rev0 3dsiso dump]
+20B467D8 00000001
+
+[30 FPS v1.0 Rev0 3dsiso dump]
+20B467D8 00000002
+
+[Default 60 FPS v1.17 Rev0 3dsiso dump]
+20C3A940 00000001
+
+[30 FPS v1.17 Rev0 3dsiso dump]
+20C3A940 00000002[Default 60 FPS v1.0 Rev0 3dsiso dump]
+20B467D8 00000001
+
+[30 FPS v1.0 Rev0 3dsiso dump]
+20B467D8 00000002
+
+[Default 60 FPS v1.17 Rev0 3dsiso dump]
+20C3A940 00000001
+
+[30 FPS v1.17 Rev0 3dsiso dump]
+20C3A940 00000002[Default 60 FPS v1.0 Rev0 3dsiso dump]
+20B467D8 00000001
+
+[30 FPS v1.0 Rev0 3dsiso dump]
+20B467D8 00000002
+
+[Default 60 FPS v1.17 Rev0 3dsiso dump]
+20C3A940 00000001
+
+[30 FPS v1.17 Rev0 3dsiso dump]
+20C3A940 00000002[Default 60 FPS v1.0 Rev0 3dsiso dump]
+20B467D8 00000001
+
+[30 FPS v1.0 Rev0 3dsiso dump]
+20B467D8 00000002
+
+[Default 60 FPS v1.17 Rev0 3dsiso dump]
+20C3A940 000[Default 60 FPS v1.0 Rev0 3dsiso dump]
+20B467D8 00000001
+
+[30 FPS v1.0 Rev0 3dsiso dump]
+20B467D8 00000002
+
+[Default 60 FPS v1.17 Rev0 3dsiso dump]
+20C3A940 00000001
+
+[30 FPS v1.17 Rev0 3dsiso dump]
+20C3A940 00000002[Default 60 FPS v1.0 Rev0 3dsiso dump]
+20B467D8 00000001
+
+[30 FPS v1.0 Rev0 3dsiso dump]
+20B467D8 00000002
+
+[Default 60 FPS v1.17 Rev0 3dsiso dump]
+20C3A940 00000001
+
+[30 FPS v1.17 Rev0 3dsiso dump]
+20C3A940 00000002[Default 60 FPS v1.0 Rev0 3dsiso dump]
+20B467D8 00000001
+
+[30 FPS v1.0 Rev0 3dsiso dump]
+20B467D8 00000002
+
+[Default 60 FPS v1.17 Rev0 3dsiso dump]
+20C3A940 00000001
+
+[30 FPS v1.17 Rev0 3dsiso dump]
+20C3A940 00000002[Default 60 FPS v1.0 Rev0 3dsiso dump]
+20B467D8 00000001
+
+[30 FPS v1.0 Rev0 3dsiso dump]
+20B467D8 00000002
+
+[Default 60 FPS v1.17 Rev0 3dsiso dump]
+20C3A940 00000001
+
+[30 FPS v1.17 Rev0 3dsiso dump]
+20C3A940 00000002[Default 60 FPS v1.0 Rev0 3dsiso dump]
+20B467D8 00000001
+
+[30 FPS v1.0 Rev0 3dsiso dump]
+20B467D8 00000002
+
+[Default 60 FPS v1.17 Rev0 3dsiso dump]
+20C3A940 00000001
+
+[30 FPS v1.17 Rev0 3dsiso dump]
+20C3A940 00000002[Default 60 FPS v1.0 Rev0 3dsiso dump]
+20B467D8 00000001
+
+[30 FPS v1.0 Rev0 3dsiso dump]
+20B467D8 00000002
+
+[Default 60 FPS v1.17 Rev0 3dsiso dump]
+20C3A940 00000001
+
+[30 FPS v1.17 Rev0 3dsiso dump]
+20C3A940 00000002[Default 60 FPS v1.0 Rev0 3dsiso dump]
+20B467D8 00000001
+
+[30 FPS v1.0 Rev0 3dsiso dump]
+20B467D8 00000002
+
+[Default 60 FPS v1.17 Rev0 3dsiso dump]
+20C3A940 00000001
+
+[30 FPS v1.17 Rev0 3dsiso dump]
+20C3A940 00000002[Default 60 FPS v1.0 Rev0 3dsiso dump]
+20B467D8 00000001
+
+[30 FPS v1.0 Rev0 3dsiso dump]
+20B467D8 00000002
+
+[Default 60 FPS v1.17 Rev0 3dsiso dump]
+20C3A940 00000001
+
+[30 FPS v1.17 Rev0 3dsiso dump]
+20C3A940 00000002[Default 60 FPS v1.0 Rev0 3dsiso dump]
+20B467D8 00000001
+
+[30 FPS v1.0 Rev0 3dsiso dump]
+20B467D8 00000002
+
+[Default 60 FPS v1.17 Rev0 3dsiso dump]
+20C3A940 000[Default 60 FPS v1.0 Rev0 3dsiso dump]
+20B467D8 00000001
+
+[30 FPS v1.0 Rev0 3dsiso dump]
+20B467D8 00000002
+
+[Default 60 FPS v1.17 Rev0 3dsiso dump]
+20C3A940 000

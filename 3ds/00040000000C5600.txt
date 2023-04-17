@@ -53,3 +53,94 @@ D1000000 00000000
 
 [9999 D-Soul for Nemechi]
 105F9144 0000270F
+[30 FPS]
+0033C614 00000001
+
+[60 FPS]
+0033C614 00000000
+{Will make the game runs faster (game speed x2).}[30 FPS]
+0033C614 00000001
+
+[60 FPS]
+0033C614 00000000
+{Will make the game runs faster (game speed x2).}[30 FPS]
+0033C614 00000001
+
+[60 FPS]
+0033C614 00000000
+{Will make the game runs faster (game speed x2).}[30 FPS]
+0033C614 00000001
+
+[60 FPS]
+0033C614 00000000
+{Will make the game runs faster (game speed x2).}[30 FPS]
+0033C614 00000001
+
+[60 FPS]
+0033C614 00000000
+{Will make the game runs faster (game speed x2).}[30 FPS]
+0033C614 00000001
+
+[60 FPS]
+0033C614 00000000
+{Will make the game runs faster (game speed x2).}[30 FPS]
+0033C614 00000001
+
+[60 FPS]
+0033C614 00000000
+{Will make the game runs faster (game speed x2).}[30 FPS]
+0033C614 00000001
+
+[60 FPS]
+0033C614 00000000
+{Will make the game runs faster (game speed x2).}[30 FPS]
+0033C614 00000001
+
+[60 FPS]
+0033C614 00000000
+{Will make the game runs faster (game speed x2).}[30 FPS]
+0033C614 00000001
+
+[60 FPS]
+0033C614 00000000
+{Will make the game runs faster (game speed x2).}[30 FPS]
+0033C614 00000001
+
+[60 FPS]
+0033C614 00000000
+{Will make the game runs faster (game speed x2).}[30 FPS]
+0033C614 00000001
+
+[60 FPS]
+0033C614 00000000
+{Will make the game runs faster (game speed x2).}[30 FPS]
+0033C614 00000001
+
+[60 FPS]
+0033C614 00000000
+{Will make the game runs faster (game speed x2).}[30 FPS]
+0033C614 00000001
+
+[60 FPS]
+0033C614 00000000
+{Will make the game runs faster (game speed x2).}[30 FPS]
+0033C614 00000001
+
+[60 FPS]
+0033C614 00000000
+{Will make the game runs faster (game speed x2).}[30 FPS]
+0033C614 00000001
+
+[60 FPS]
+0033C614 00000000
+{Will make the game runs faster (game speed x2).}[30 FPS]
+0033C614 00000001
+
+[60 FPS]
+0033C614 00000000
+{Will make the game runs faster (game speed x2).}[30 FPS]
+0033C614 00000001
+
+[60 FPS]
+0033C614 00000000
+{Will make the game runs faster (

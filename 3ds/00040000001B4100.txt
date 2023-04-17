@@ -902,3 +902,1227 @@ E4C25001 E1530002
 00527CEC 11A06002
 00527CF0 E12FFF1E
 00453974 EB0350D7
+[60+ FPS v1.0]
+205C84F8 00000000
+{In theory, it is the fastest, but it will affect the (Game Speed) code, leading to failure and freezing.}
+
+[60 FPS v1.0]
+205C84F8 00000001
+{Game Runs Faster.}
+
+[Default 30 FPS v1.0]
+205C84F8 00000002
+
+[20 FPS v1.0]
+205C84F8 00000003
+
+[10 FPS v1.0]
+205C84F8 00000006
+
+[Game Speed∞ v1.0]
+205C8500 000000FF
+{The fastest, but no practical value, like in fast forward movies. And it will freeze.}
+
+[Game Speed∞- v1.0]
+205C8500 00000064
+{ditto.}
+
+[Game Speed++++++ v1.0]
+205C8500 00000032
+{It works normally, but it's still too fast. You can't control it.}
+
+[Game Speed+++++ v1.0]
+205C8500 00000016
+{Very fast, if the equipment is weak, you can try it.}
+
+[Game Speed++++ v1.0]
+205C8500 00000009
+{Faster. If you feel uncomfortable too soon, Then use the following code.}
+
+[Game Speed+++ v1.0]
+205C8500 00000006
+{ditto.}
+
+[Game Speed++ v1.0]
+205C8500 00000003
+{Faster.}
+
+[Game Speed+ v1.0]
+205C8500 00000002
+{A little faster.}
+
+[Default Game Speed v1.0]
+205C8500 00000001
+
+[Game Speed- v1.0]
+205C8500 00000000[60+ FPS v1.0]
+205C84F8 00000000
+{In theory, it is the fastest, but it will affect the (Game Speed) code, leading to failure and freezing.}
+
+[60 FPS v1.0]
+205C84F8 00000001
+{Game Runs Faster.}
+
+[Default 30 FPS v1.0]
+205C84F8 00000002
+
+[20 FPS v1.0]
+205C84F8 00000003
+
+[10 FPS v1.0]
+205C84F8 00000006
+
+[Game Speed∞ v1.0]
+205C8500 000000FF
+{The fastest, but no practical value, like in fast forward movies. And it will freeze.}
+
+[Game Speed∞- v1.0]
+205C8500 00000064
+{ditto.}
+
+[Game Speed++++++ v1.0]
+205C8500 00000032
+{It works normally, but it's still too fast. You can't control it.}
+
+[Game Speed+++++ v1.0]
+205C8500 00000016
+{Very fast, if the equipment is weak, you can try it.}
+
+[Game Speed++++ v1.0]
+205C8500 00000009
+{Faster. If you feel uncomfortable too soon, Then use the following code.}
+
+[Game Speed+++ v1.0]
+205C8500 00000006
+{ditto.}
+
+[Game Speed++ v1.0]
+205C8500 00000003
+{Faster.}
+
+[Game Speed+ v1.0]
+205C8500 00000002
+{A little faster.}
+
+[Default Game Speed v1.0]
+205C8500 00000001
+
+[Game Speed- v1.0]
+205C8500 00000000[60+ FPS v1.0]
+205C84F8 00000000
+{In theory, it is the fastest, but it will affect the (Game Speed) code, leading to failure and freezing.}
+
+[60 FPS v1.0]
+205C84F8 00000001
+{Game Runs Faster.}
+
+[Default 30 FPS v1.0]
+205C84F8 00000002
+
+[20 FPS v1.0]
+205C84F8 00000003
+
+[10 FPS v1.0]
+205C84F8 00000006
+
+[Game Speed∞ v1.0]
+205C8500 000000FF
+{The fastest, but no practical value, like in fast forward movies. And it will freeze.}
+
+[Game Speed∞- v1.0]
+205C8500 00000064
+{ditto.}
+
+[Game Speed++++++ [60+ FPS v1.0]
+205C84F8 00000000
+{In theory, it is the fastest, but it will affect the (Game Speed) code, leading to failure and freezing.}
+
+[60 FPS v1.0]
+205C84F8 00000001
+{Game Runs Faster.}
+
+[Default 30 FPS v1.0]
+205C84F8 00000002
+
+[20 FPS v1.0]
+205C84F8 00000003
+
+[10 FPS v1.0]
+205C84F8 00000006
+
+[Game Speed∞ v1.0]
+205C8500 000000FF
+{The fastest, but no practical value, like in fast forward movies. And it will freeze.}
+
+[Game Speed∞- v1.0]
+205C8500 00000064
+{ditto.}
+
+[Game Speed++++++ v1.0]
+205C8500 00000032
+{It works normally, but it's still too fast. You can't control it.}
+
+[Game Speed+++++ v1.0]
+205C8500 00000016
+{Very fast, if the equipment is weak, you can try it.}
+
+[Game Speed++++ v1.0]
+205C8500 00000009
+{Faster. If you feel uncomfortable too soon, Then use the following code.}
+
+[Game Speed+++ v1.0]
+205C8500 00000006
+{ditto.}
+
+[Game Speed++ v1.0]
+205C8500 00000003
+{Faster.}
+
+[Game Speed+ v1.0]
+205C8500 00000002
+{A little faster.}
+
+[Default Game Speed v1.0]
+205C8500 00000001
+
+[Game Speed- v1.0]
+205C8500 00000000[60+ FPS v1.0]
+205C84F8 00000000
+{In theory, it is the fastest, but it will affect the (Game Speed) code, leading to failure and freezing.}
+
+[60 FPS v1.0]
+205C84F8 00000001
+{Game Runs Faster.}
+
+[Default 30 FPS v1.0]
+205C84F8 00000002
+
+[20 FPS v1.0]
+205C84F8 00000003
+
+[10 FPS v1.0]
+205C84F8 00000006
+
+[Game Speed∞ v1.0]
+205C8500 000000FF
+{The fastest, but no practical value, like in fast forward movies. And it will freeze.}
+
+[Game Speed∞- v1.0]
+205C8500 00000064
+{ditto.}
+
+[Game Speed++++++ v1.0]
+205C8500 00000032
+{It works normally, but it's still too fast. You can't control it.}
+
+[Game Speed+++++ v1.0]
+205C8500 00000016
+{Very fast, if the equipment is weak, you can try it.}
+
+[Game Speed++++ v1.0]
+205C8500 00000009
+{Faster. If you feel uncomfortable too soon, Then use the following code.}
+
+[Game Speed+++ v1.0]
+205C8500 00000006
+{ditto.}
+
+[Game Speed++ v1.0]
+205C8500 00000003
+{Faster.}
+
+[Game Speed+ v1.0]
+205C8500 00000002
+{A little faster.}
+
+[Default Game Speed v1.0]
+205C8500 00000001
+
+[Game Speed- v1.0]
+205C8500 00000000[60+ FPS v1.0]
+205C84F8 00000000
+{In theory, it is the fastest, but it will affect the (Game Speed) code, leading to failure and freezing.}
+
+[60 FPS v1.0]
+205C84F8 00000001
+{Game Runs Faster.}
+
+[Default 30 FPS v1.0]
+205C84F8 00000002
+
+[20 FPS v1.0]
+205C84F8 00000003
+
+[10 FPS v1.0]
+205C84F8 00000006
+
+[Game Speed∞ v1.0]
+205C8500 000000FF
+{The fastest, but no practical value, like in fast forward movies. And it will freeze.}
+
+[Game Speed∞- v1.0]
+205C8500 00000064
+{ditto.}
+
+[Game Speed++++++ [60+ FPS v1.0]
+205C84F8 00000000
+{In theory, it is the fastest, but it will affect the (Game Speed) code, leading to failure and freezing.}
+
+[60 FPS v1.0]
+205C84F8 00000001
+{Game Runs Faster.}
+
+[Default 30 FPS v1.0]
+205C84F8 00000002
+
+[20 FPS v1.0]
+205C84F8 00000003
+
+[10 FPS v1.0]
+205C84F8 00000006
+
+[Game Speed∞ v1.0]
+205C8500 000000FF
+{The fastest, but no practical value, like in fast forward movies. And it will freeze.}
+
+[Game Speed∞- v1.0]
+205C8500 00000064
+{ditto.}
+
+[Game Speed++++++ [60+ FPS v1.0]
+205C84F8 00000000
+{In theory, it is the fastest, but it will affect the (Game Speed) code, leading to failure and freezing.}
+
+[60 FPS v1.0]
+205C84F8 00000001
+{Game Runs Faster.}
+
+[Default 30 FPS v1.0]
+205C84F8 00000002
+
+[20 FPS v1.0]
+205C84F8 00000003
+
+[10 FPS v1.0]
+205C84F8 00000006
+
+[Game Speed∞ v1.0]
+205C8500 000000FF
+{The fastest, but no practical value, like in fast forward movies. And it will freeze.}
+
+[Game Speed∞- v1.0]
+205C8500 00000064
+{ditto.}
+
+[Game Speed++++++ v1.0]
+205C8500 00000032
+{It works normally, but it's still too fast. You can't control it.}
+
+[Game Speed+++++ v1.0]
+205C8500 00000016
+{Very fast, if the equipment is weak, you can try it.}
+
+[Game Speed++++ v1.0]
+205C8500 00000009
+{Faster. If you feel uncomfortable too soon, Then use the following code.}
+
+[Game Speed+++ v1.0]
+205C8500 00000006
+{ditto.}
+
+[Game Speed++ v1.0]
+205C8500 00000003
+{Faster.}
+
+[Game Speed+ v1.0]
+205C8500 00000002
+{A little faster.}
+
+[Default Game Speed v1.0]
+205C8500 00000001
+
+[Game Speed- v1.0]
+205C8500 00000000[60+ FPS v1.0]
+205C84F8 00000000
+{In theory, it is the fastest, but it will affect the (Game Speed) code, leading to failure and freezing.}
+
+[60 FPS v1.0]
+205C84F8 00000001
+{Game Runs Faster.}
+
+[Default 30 FPS v1.0]
+205C84F8 00000002
+
+[20 FPS v1.0]
+205C84F8 00000003
+
+[10 FPS v1.0]
+205C84F8 00000006
+
+[Game Speed∞ v1.0]
+205C8500 000000FF
+{The fastest, but no practical value, like in fast forward movies. And it will freeze.}
+
+[Game Speed∞- v1.0]
+205C8500 00000064
+{ditto.}
+
+[Game Speed++++++ v1.0]
+205C8500 00000032
+{It works normally, but it's still too fast. You can't control it.}
+
+[Game Speed+++++ v1.0]
+205C8500 00000016
+{Very fast, if the equipment is weak, you can try it.}
+
+[Game Speed++++ v1.0]
+205C8500 00000009
+{Faster. If you feel uncomfortable too soon, Then use the following code.}
+
+[Game Speed+++ v1.0]
+205C8500 00000006
+{ditto.}
+
+[Game Speed++ v1.0]
+205C8500 00000003
+{Faster.}
+
+[Game Speed+ v1.0]
+205C8500 00000002
+{A little faster.}
+
+[Default Game Speed v1.0]
+205C8500 00000001
+
+[Game Speed- v1.0]
+205C8500 00000000[60+ FPS v1.0]
+205C84F8 00000000
+{In theory, it is the fastest, but it will affect the (Game Speed) code, leading to failure and freezing.}
+
+[60 FPS v1.0]
+205C84F8 00000001
+{Game Runs Faster.}
+
+[Default 30 FPS v1.0]
+205C84F8 00000002
+
+[20 FPS v1.0]
+205C84F8 00000003
+
+[10 FPS v1.0]
+205C84F8 00000006
+
+[Game Speed∞ v1.0]
+205C8500 000000FF
+{The fastest, but no practical value, like in fast forward movies. And it will freeze.}
+
+[Game Speed∞- v1.0]
+205C8500 00000064
+{ditto.}
+
+[Game Speed++++++ [60+ FPS v1.0]
+205C84F8 00000000
+{In theory, it is the fastest, but it will affect the (Game Speed) code, leading to failure and freezing.}
+
+[60 FPS v1.0]
+205C84F8 00000001
+{Game Runs Faster.}
+
+[Default 30 FPS v1.0]
+205C84F8 00000002
+
+[20 FPS v1.0]
+205C84F8 00000003
+
+[10 FPS v1.0]
+205C84F8 00000006
+
+[Game Speed∞ v1.0]
+205C8500 000000FF
+{The fastest, but no practical value, like in fast forward movies. And it will freeze.}
+
+[Game Speed∞- v1.0]
+205C8500 00000064
+{ditto.}
+
+[Game Speed++++++ v1.0]
+205C8500 00000032
+{It works normally, but it's still too fast. You can't control it.}
+
+[Game Speed+++++ v1.0]
+205C8500 00000016
+{Very fast, if the equipment is weak, you can try it.}
+
+[Game Speed++++ v1.0]
+205C8500 00000009
+{Faster. If you feel uncomfortable too soon, Then use the following code.}
+
+[Game Speed+++ v1.0]
+205C8500 00000006
+{ditto.}
+
+[Game Speed++ v1.0]
+205C8500 00000003
+{Faster.}
+
+[Game Speed+ v1.0]
+205C8500 00000002
+{A little faster.}
+
+[Default Game Speed v1.0]
+205C8500 00000001
+
+[Game Speed- v1.0]
+205C8500 00000000[60+ FPS v1.0]
+205C84F8 00000000
+{In theory, it is the fastest, but it will affect the (Game Speed) code, leading to failure and freezing.}
+
+[60 FPS v1.0]
+205C84F8 00000001
+{Game Runs Faster.}
+
+[Default 30 FPS v1.0]
+205C84F8 00000002
+
+[20 FPS v1.0]
+205C84F8 00000003
+
+[10 FPS v1.0]
+205C84F8 00000006
+
+[Game Speed∞ v1.0]
+205C8500 000000FF
+{The fastest, but no practical value, like in fast forward movies. And it will freeze.}
+
+[Game Speed∞- v1.0]
+205C8500 00000064
+{ditto.}
+
+[Game Speed++++++ v1.0]
+205C8500 00000032
+{It works normally, but it's still too fast. You can't control it.}
+
+[Game Speed+++++ v1.0]
+205C8500 00000016
+{Very fast, if the equipment is weak, you can try it.}
+
+[Game Speed++++ v1.0]
+205C8500 00000009
+{Faster. If you feel uncomfortable too soon, Then use the following code.}
+
+[Game Speed+++ v1.0]
+205C8500 00000006
+{ditto.}
+
+[Game Speed++ v1.0]
+205C8500 00000003
+{Faster.}
+
+[Game Speed+ v1.0]
+205C8500 00000002
+{A little faster.}
+
+[Default Game Speed v1.0]
+205C8500 00000001
+
+[Game Speed- v1.0]
+205C8500 00000000[60+ FPS v1.0]
+205C84F8 00000000
+{In theory, it is the fastest, but it will affect the (Game Speed) code, leading to failure and freezing.}
+
+[60 FPS v1.0]
+205C84F8 00000001
+{Game Runs Faster.}
+
+[Default 30 FPS v1.0]
+205C84F8 00000002
+
+[20 FPS v1.0]
+205C84F8 00000003
+
+[10 FPS v1.0]
+205C84F8 00000006
+
+[Game Speed∞ v1.0]
+205C8500 000000FF
+{The fastest, but no practical value, like in fast forward movies. And it will freeze.}
+
+[Game Speed∞- v1.0]
+205C8500 00000064
+{ditto.}
+
+[Game Speed++++++ [60+ FPS v1.0]
+205C84F8 00000000
+{In theory, it is the fastest, but it will affect the (Game Speed) code, leading to failure and freezing.}
+
+[60 FPS v1.0]
+205C84F8 00000001
+{Game Runs Faster.}
+
+[Default 30 FPS v1.0]
+205C84F8 00000002
+
+[20 FPS v1.0]
+205C84F8 00000003
+
+[10 FPS v1.0]
+205C84F8 00000006
+
+[Game Speed∞ v1.0]
+205C8500 000000FF
+{The fastest, but no practical value, like in fast forward movies. And it will freeze.}
+
+[Game Speed∞- v1.0]
+205C8500 00000064
+{ditto.}
+
+[Game Speed++++++ [60+ FPS v1.0]
+205C84F8 00000000
+{In theory, it is the fastest, but it will affect the (Game Speed) code, leading to failure and freezing.}
+
+[60 FPS v1.0]
+205C84F8 00000001
+{Game Runs Faster.}
+
+[Default 30 FPS v1.0]
+205C84F8 00000002
+
+[20 FPS v1.0]
+205C84F8 00000003
+
+[10 FPS v1.0]
+205C84F8 00000006
+
+[Game Speed∞ v1.0]
+205C8500 000000FF
+{The fastest, but no practical value, like in fast forward movies. And it will freeze.}
+
+[Game Speed∞- v1.0]
+205C8500 00000064
+{ditto.}
+
+[Game Speed++++++ [60+ FPS v1.0]
+205C84F8 00000000
+{In theory, it is the fastest, but it will affect the (Game Speed) code, leading to failure and freezing.}
+
+[60 FPS v1.0]
+205C84F8 00000001
+{Game Runs Faster.}
+
+[Default 30 FPS v1.0]
+205C84F8 00000002
+
+[20 FPS v1.0]
+205C84F8 00000003
+
+[10 FPS v1.0]
+205C84F8 00000006
+
+[Game Speed∞ v1.0]
+205C8500 000000FF
+{The fastest, but no practical value, like in fast forward movies. And it will freeze.}
+
+[Game Speed∞- v1.0]
+205C8500 00000064
+{ditto.}
+
+[Game Speed++++++ v1.0]
+205C8500 00000032
+{It works normally, but it's still too fast. You can't control it.}
+
+[Game Speed+++++ v1.0]
+205C8500 00000016
+{Very fast, if the equipment is weak, you can try it.}
+
+[Game Speed++++ v1.0]
+205C8500 00000009
+{Faster. If you feel uncomfortable too soon, Then use the following code.}
+
+[Game Speed+++ v1.0]
+205C8500 00000006
+{ditto.}
+
+[Game Speed++ v1.0]
+205C8500 00000003
+{Faster.}
+
+[Game Speed+ v1.0]
+205C8500 00000002
+{A little faster.}
+
+[Default Game Speed v1.0]
+205C8500 00000001
+
+[Game Speed- v1.0]
+205C8500 00000000[60+ FPS v1.0]
+205C84F8 00000000
+{In theory, it is the fastest, but it will affect the (Game Speed) code, leading to failure and freezing.}
+
+[60 FPS v1.0]
+205C84F8 00000001
+{Game Runs Faster.}
+
+[Default 30 FPS v1.0]
+205C84F8 00000002
+
+[20 FPS v1.0]
+205C84F8 00000003
+
+[10 FPS v1.0]
+205C84F8 00000006
+
+[Game Speed∞ v1.0]
+205C8500 000000FF
+{The fastest, but no practical value, like in fast forward movies. And it will freeze.}
+
+[Game Speed∞- v1.0]
+205C8500 00000064
+{ditto.}
+
+[Game Speed++++++ v1.0]
+205C8500 00000032
+{It works normally, but it's still too fast. You can't control it.}
+
+[Game Speed+++++ v1.0]
+205C8500 00000016
+{Very fast, if the equipment is weak, you can try it.}
+
+[Game Speed++++ v1.0]
+205C8500 00000009
+{Faster. If you feel uncomfortable too soon, Then use the following code.}
+
+[Game Speed+++ v1.0]
+205C8500 00000006
+{ditto.}
+
+[Game Speed++ v1.0]
+205C8500 00000003
+{Faster.}
+
+[Game Speed+ v1.0]
+205C8500 00000002
+{A little faster.}
+
+[Default Game Speed v1.0]
+205C8500 00000001
+
+[Game Speed- v1.0]
+205C8500 00000000[60+ FPS v1.0]
+205C84F8 00000000
+{In theory, it is the fastest, but it will affect the (Game Speed) code, leading to failure and freezing.}
+
+[60 FPS v1.0]
+205C84F8 00000001
+{Game Runs Faster.}
+
+[Default 30 FPS v1.0]
+205C84F8 00000002
+
+[20 FPS v1.0]
+205C84F8 00000003
+
+[10 FPS v1.0]
+205C84F8 00000006
+
+[Game Speed∞ v1.0]
+205C8500 000000FF
+{The fastest, but no practical value, like in fast forward movies. And it will freeze.}
+
+[Game Speed∞- v1.0]
+205C8500 00000064
+{ditto.}
+
+[Game Speed++++++ [60+ FPS v1.0]
+205C84F8 00000000
+{In theory, it is the fastest, but it will affect the (Game Speed) code, leading to failure and freezing.}
+
+[60 FPS v1.0]
+205C84F8 00000001
+{Game Runs Faster.}
+
+[Default 30 FPS v1.0]
+205C84F8 00000002
+
+[20 FPS v1.0]
+205C84F8 00000003
+
+[10 FPS v1.0]
+205C84F8 00000006
+
+[Game Speed∞ v1.0]
+205C8500 000000FF
+{The fastest, but no practical value, like in fast forward movies. And it will freeze.}
+
+[Game Speed∞- v1.0]
+205C8500 00000064
+{ditto.}
+
+[Game Speed++++++ v1.0]
+205C8500 00000032
+{It works normally, but it's still too fast. You can't control it.}
+
+[Game Speed+++++ v1.0]
+205C8500 00000016
+{Very fast, if the equipment is weak, you can try it.}
+
+[Game Speed++++ v1.0]
+205C8500 00000009
+{Faster. If you feel uncomfortable too soon, Then use the following code.}
+
+[Game Speed+++ v1.0]
+205C8500 00000006
+{ditto.}
+
+[Game Speed++ v1.0]
+205C8500 00000003
+{Faster.}
+
+[Game Speed+ v1.0]
+205C8500 00000002
+{A little faster.}
+
+[Default Game Speed v1.0]
+205C8500 00000001
+
+[Game Speed- v1.0]
+205C8500 00000000[60+ FPS v1.0]
+205C84F8 00000000
+{In theory, it is the fastest, but it will affect the (Game Speed) code, leading to failure and freezing.}
+
+[60 FPS v1.0]
+205C84F8 00000001
+{Game Runs Faster.}
+
+[Default 30 FPS v1.0]
+205C84F8 00000002
+
+[20 FPS v1.0]
+205C84F8 00000003
+
+[10 FPS v1.0]
+205C84F8 00000006
+
+[Game Speed∞ v1.0]
+205C8500 000000FF
+{The fastest, but no practical value, like in fast forward movies. And it will freeze.}
+
+[Game Speed∞- v1.0]
+205C8500 00000064
+{ditto.}
+
+[Game Speed++++++ v1.0]
+205C8500 00000032
+{It works normally, but it's still too fast. You can't control it.}
+
+[Game Speed+++++ v1.0]
+205C8500 00000016
+{Very fast, if the equipment is weak, you can try it.}
+
+[Game Speed++++ v1.0]
+205C8500 00000009
+{Faster. If you feel uncomfortable too soon, Then use the following code.}
+
+[Game Speed+++ v1.0]
+205C8500 00000006
+{ditto.}
+
+[Game Speed++ v1.0]
+205C8500 00000003
+{Faster.}
+
+[Game Speed+ v1.0]
+205C8500 00000002
+{A little faster.}
+
+[Default Game Speed v1.0]
+205C8500 00000001
+
+[Game Speed- v1.0]
+205C8500 00000000[60+ FPS v1.0]
+205C84F8 00000000
+{In theory, it is the fastest, but it will affect the (Game Speed) code, leading to failure and freezing.}
+
+[60 FPS v1.0]
+205C84F8 00000001
+{Game Runs Faster.}
+
+[Default 30 FPS v1.0]
+205C84F8 00000002
+
+[20 FPS v1.0]
+205C84F8 00000003
+
+[10 FPS v1.0]
+205C84F8 00000006
+
+[Game Speed∞ v1.0]
+205C8500 000000FF
+{The fastest, but no practical value, like in fast forward movies. And it will freeze.}
+
+[Game Speed∞- v1.0]
+205C8500 00000064
+{ditto.}
+
+[Game Speed++++++ [60+ FPS v1.0]
+205C84F8 00000000
+{In theory, it is the fastest, but it will affect the (Game Speed) code, leading to failure and freezing.}
+
+[60 FPS v1.0]
+205C84F8 00000001
+{Game Runs Faster.}
+
+[Default 30 FPS v1.0]
+205C84F8 00000002
+
+[20 FPS v1.0]
+205C84F8 00000003
+
+[10 FPS v1.0]
+205C84F8 00000006
+
+[Game Speed∞ v1.0]
+205C8500 000000FF
+{The fastest, but no practical value, like in fast forward movies. And it will freeze.}
+
+[Game Speed∞- v1.0]
+205C8500 00000064
+{ditto.}
+
+[Game Speed++++++ [60+ FPS v1.0]
+205C84F8 00000000
+{In theory, it is the fastest, but it will affect the (Game Speed) code, leading to failure and freezing.}
+
+[60 FPS v1.0]
+205C84F8 00000001
+{Game Runs Faster.}
+
+[Default 30 FPS v1.0]
+205C84F8 00000002
+
+[20 FPS v1.0]
+205C84F8 00000003
+
+[10 FPS v1.0]
+205C84F8 00000006
+
+[Game Speed∞ v1.0]
+205C8500 000000FF
+{The fastest, but no practical value, like in fast forward movies. And it will freeze.}
+
+[Game Speed∞- v1.0]
+205C8500 00000064
+{ditto.}
+
+[Game Speed++++++ v1.0]
+205C8500 00000032
+{It works normally, but it's still too fast. You can't control it.}
+
+[Game Speed+++++ v1.0]
+205C8500 00000016
+{Very fast, if the equipment is weak, you can try it.}
+
+[Game Speed++++ v1.0]
+205C8500 00000009
+{Faster. If you feel uncomfortable too soon, Then use the following code.}
+
+[Game Speed+++ v1.0]
+205C8500 00000006
+{ditto.}
+
+[Game Speed++ v1.0]
+205C8500 00000003
+{Faster.}
+
+[Game Speed+ v1.0]
+205C8500 00000002
+{A little faster.}
+
+[Default Game Speed v1.0]
+205C8500 00000001
+
+[Game Speed- v1.0]
+205C8500 00000000[60+ FPS v1.0]
+205C84F8 00000000
+{In theory, it is the fastest, but it will affect the (Game Speed) code, leading to failure and freezing.}
+
+[60 FPS v1.0]
+205C84F8 00000001
+{Game Runs Faster.}
+
+[Default 30 FPS v1.0]
+205C84F8 00000002
+
+[20 FPS v1.0]
+205C84F8 00000003
+
+[10 FPS v1.0]
+205C84F8 00000006
+
+[Game Speed∞ v1.0]
+205C8500 000000FF
+{The fastest, but no practical value, like in fast forward movies. And it will freeze.}
+
+[Game Speed∞- v1.0]
+205C8500 00000064
+{ditto.}
+
+[Game Speed++++++ v1.0]
+205C8500 00000032
+{It works normally, but it's still too fast. You can't control it.}
+
+[Game Speed+++++ v1.0]
+205C8500 00000016
+{Very fast, if the equipment is weak, you can try it.}
+
+[Game Speed++++ v1.0]
+205C8500 00000009
+{Faster. If you feel uncomfortable too soon, Then use the following code.}
+
+[Game Speed+++ v1.0]
+205C8500 00000006
+{ditto.}
+
+[Game Speed++ v1.0]
+205C8500 00000003
+{Faster.}
+
+[Game Speed+ v1.0]
+205C8500 00000002
+{A little faster.}
+
+[Default Game Speed v1.0]
+205C8500 00000001
+
+[Game Speed- v1.0]
+205C8500 00000000[60+ FPS v1.0]
+205C84F8 00000000
+{In theory, it is the fastest, but it will affect the (Game Speed) code, leading to failure and freezing.}
+
+[60 FPS v1.0]
+205C84F8 00000001
+{Game Runs Faster.}
+
+[Default 30 FPS v1.0]
+205C84F8 00000002
+
+[20 FPS v1.0]
+205C84F8 00000003
+
+[10 FPS v1.0]
+205C84F8 00000006
+
+[Game Speed∞ v1.0]
+205C8500 000000FF
+{The fastest, but no practical value, like in fast forward movies. And it will freeze.}
+
+[Game Speed∞- v1.0]
+205C8500 00000064
+{ditto.}
+
+[Game Speed++++++ [60+ FPS v1.0]
+205C84F8 00000000
+{In theory, it is the fastest, but it will affect the (Game Speed) code, leading to failure and freezing.}
+
+[60 FPS v1.0]
+205C84F8 00000001
+{Game Runs Faster.}
+
+[Default 30 FPS v1.0]
+205C84F8 00000002
+
+[20 FPS v1.0]
+205C84F8 00000003
+
+[10 FPS v1.0]
+205C84F8 00000006
+
+[Game Speed∞ v1.0]
+205C8500 000000FF
+{The fastest, but no practical value, like in fast forward movies. And it will freeze.}
+
+[Game Speed∞- v1.0]
+205C8500 00000064
+{ditto.}
+
+[Game Speed++++++ v1.0]
+205C8500 00000032
+{It works normally, but it's still too fast. You can't control it.}
+
+[Game Speed+++++ v1.0]
+205C8500 00000016
+{Very fast, if the equipment is weak, you can try it.}
+
+[Game Speed++++ v1.0]
+205C8500 00000009
+{Faster. If you feel uncomfortable too soon, Then use the following code.}
+
+[Game Speed+++ v1.0]
+205C8500 00000006
+{ditto.}
+
+[Game Speed++ v1.0]
+205C8500 00000003
+{Faster.}
+
+[Game Speed+ v1.0]
+205C8500 00000002
+{A little faster.}
+
+[Default Game Speed v1.0]
+205C8500 00000001
+
+[Game Speed- v1.0]
+205C8500 00000000[60+ FPS v1.0]
+205C84F8 00000000
+{In theory, it is the fastest, but it will affect the (Game Speed) code, leading to failure and freezing.}
+
+[60 FPS v1.0]
+205C84F8 00000001
+{Game Runs Faster.}
+
+[Default 30 FPS v1.0]
+205C84F8 00000002
+
+[20 FPS v1.0]
+205C84F8 00000003
+
+[10 FPS v1.0]
+205C84F8 00000006
+
+[Game Speed∞ v1.0]
+205C8500 000000FF
+{The fastest, but no practical value, like in fast forward movies. And it will freeze.}
+
+[Game Speed∞- v1.0]
+205C8500 00000064
+{ditto.}
+
+[Game Speed++++++ v1.0]
+205C8500 00000032
+{It works normally, but it's still too fast. You can't control it.}
+
+[Game Speed+++++ v1.0]
+205C8500 00000016
+{Very fast, if the equipment is weak, you can try it.}
+
+[Game Speed++++ v1.0]
+205C8500 00000009
+{Faster. If you feel uncomfortable too soon, Then use the following code.}
+
+[Game Speed+++ v1.0]
+205C8500 00000006
+{ditto.}
+
+[Game Speed++ v1.0]
+205C8500 00000003
+{Faster.}
+
+[Game Speed+ v1.0]
+205C8500 00000002
+{A little faster.}
+
+[Default Game Speed v1.0]
+205C8500 00000001
+
+[Game Speed- v1.0]
+205C8500 00000000[60+ FPS v1.0]
+205C84F8 00000000
+{In theory, it is the fastest, but it will affect the (Game Speed) code, leading to failure and freezing.}
+
+[60 FPS v1.0]
+205C84F8 00000001
+{Game Runs Faster.}
+
+[Default 30 FPS v1.0]
+205C84F8 00000002
+
+[20 FPS v1.0]
+205C84F8 00000003
+
+[10 FPS v1.0]
+205C84F8 00000006
+
+[Game Speed∞ v1.0]
+205C8500 000000FF
+{The fastest, but no practical value, like in fast forward movies. And it will freeze.}
+
+[Game Speed∞- v1.0]
+205C8500 00000064
+{ditto.}
+
+[Game Speed++++++ [60+ FPS v1.0]
+205C84F8 00000000
+{In theory, it is the fastest, but it will affect the (Game Speed) code, leading to failure and freezing.}
+
+[60 FPS v1.0]
+205C84F8 00000001
+{Game Runs Faster.}
+
+[Default 30 FPS v1.0]
+205C84F8 00000002
+
+[20 FPS v1.0]
+205C84F8 00000003
+
+[10 FPS v1.0]
+205C84F8 00000006
+
+[Game Speed∞ v1.0]
+205C8500 000000FF
+{The fastest, but no practical value, like in fast forward movies. And it will freeze.}
+
+[Game Speed∞- v1.0]
+205C8500 00000064
+{ditto.}
+
+[Game Speed++++++ [60+ FPS v1.0]
+205C84F8 00000000
+{In theory, it is the fastest, but it will affect the (Game Speed) code, leading to failure and freezing.}
+
+[60 FPS v1.0]
+205C84F8 00000001
+{Game Runs Faster.}
+
+[Default 30 FPS v1.0]
+205C84F8 00000002
+
+[20 FPS v1.0]
+205C84F8 00000003
+
+[10 FPS v1.0]
+205C84F8 00000006
+
+[Game Speed∞ v1.0]
+205C8500 000000FF
+{The fastest, but no practical value, like in fast forward movies. And it will freeze.}
+
+[Game Speed∞- v1.0]
+205C8500 00000064
+{ditto.}
+
+[Game Speed++++++ [60+ FPS v1.0]
+205C84F8 00000000
+{In theory, it is the fastest, but it will affect the (Game Speed) code, leading to failure and freezing.}
+
+[60 FPS v1.0]
+205C84F8 00000001
+{Game Runs Faster.}
+
+[Default 30 FPS v1.0]
+205C84F8 00000002
+
+[20 FPS v1.0]
+205C84F8 00000003
+
+[10 FPS v1.0]
+205C84F8 00000006
+
+[Game Speed∞ v1.0]
+205C8500 000000FF
+{The fastest, but no practical value, like in fast forward movies. And it will freeze.}
+
+[Game Speed∞- v1.0]
+205C8500 00000064
+{ditto.}
+
+[Game Speed++++++ 

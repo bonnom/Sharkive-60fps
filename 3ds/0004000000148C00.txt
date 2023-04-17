@@ -128,3 +128,42 @@ C0000000 00000006
 0065EE8C 0001896F
 DC000000 00000598
 D2000000 00000000
+[Disable Anti-Aliasing]
+004F4128 00000101
+{Deactivating this cheat will re-enable Anti-Aliasing.}[Disable Anti-Aliasing]
+004F4128 00000101
+{Deactivating this cheat will re-enable Anti-Aliasing.}[Disable Anti-Aliasing]
+004F4128 00000101
+{Deactivating this cheat will re-enable Anti-Aliasing.}[Disable Anti-Aliasing]
+004F4128 00000101
+{Deactivating this cheat will re-enable Anti-Aliasing.}[Disable Anti-Aliasing]
+004F4128 00000101
+{Deactivating this cheat will re-enable Anti-Aliasing.}[Disable Anti-Aliasing]
+004F4128 00000101
+{Deactivating this cheat will re-enable Anti-Aliasing.}[Disable Anti-Aliasing]
+004F4128 00000101
+{Deactivating this cheat will re-enable Anti-Aliasing.}[Disable Anti-Aliasing]
+004F4128 00000101
+{Deactivating this cheat will re-enable Anti-Aliasing.}[Disable Anti-Aliasing]
+004F4128 00000101
+{Deactivating this cheat will re-enable Anti-Aliasing.}[Disable Anti-Aliasing]
+004F4128 00000101
+{Deactivating this cheat will re-enable Anti-Aliasing.}[Disable Anti-Aliasing]
+004F4128 00000101
+{Deactivating this cheat will re-enable Anti-Aliasing.}[Disable Anti-Aliasing]
+004F4128 00000101
+{Deactivating this cheat will re-enable Anti-Aliasing.}[Disable Anti-Aliasing]
+004F4128 00000101
+{Deactivating this cheat will re-enable Anti-Aliasing.}[Disable Anti-Aliasing]
+004F4128 00000101
+{Deactivating this cheat will re-enable Anti-Aliasing.}[Disable Anti-Aliasing]
+004F4128 00000101
+{Deactivating this cheat will re-enable Anti-Aliasing.}[Disable Anti-Aliasing]
+004F4128 00000101
+{Deactivating this cheat will re-enable Anti-Aliasing.}[Disable Anti-Aliasing]
+004F4128 00000101
+{Deactivating this cheat will re-enable Anti-Aliasing.}[Disable Anti-Aliasing]
+004F4128 00000101
+{Deactivating this cheat will re-enable Anti-Aliasing.}[Disable Anti-Aliasing]
+004F4128 00000101
+{Deactivatin

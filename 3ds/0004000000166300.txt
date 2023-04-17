@@ -1,0 +1,111 @@
+[30 FPS]
+005B40B0 00010100
+
+[60 FPS]
+005B40B0 00020200
+{Has a bug that duplicate one screen on another, so you have to go to menu to see the map (you can use the mini map on screen)}[30 FPS]
+005B40B0 00010100
+
+[60 FPS]
+005B40B0 00020200
+{Has a bug that duplicate one screen on another, so you have to go to menu to see the map (you can use the mini map on screen)}[30 FPS]
+005B40B0 00010100
+
+[60 FPS]
+005B40B0 00020200
+{Has a bug that duplicate one screen on another, so you have to go to menu to see the map (you can use the mini map on screen)}[30 FPS]
+005B40B0 00010100
+
+[60 FPS]
+005B40B0 00020200
+{Has a bug that duplicate one screen on another, so you have to go to menu to see the map (you can use the mini map on screen)}[30 FPS]
+005B40B0 00010100
+
+[60 FPS]
+005B40B0 00020200
+{Has a bug that duplicate one screen on another, so you have to go to menu to see the map (you can use the mini map on screen)}[30 FPS]
+005B40B0 00010100
+
+[60 FPS]
+005B40B0 00020200
+{Has a bug that duplicate one screen on another, so you have to go to menu to see the map (you can use the mini map on screen)}[30 FPS]
+005B40B0 00010100
+
+[60 FPS]
+005B40B0 00020200
+{Has a bug that duplicate one screen on another, so you have to go to menu to see the map (you can use the mini map on screen)}[30 FPS]
+005B40B0 00010100
+
+[60 FPS]
+005B40B0 00020200
+{Has a bug that duplicate one screen on another, so you have to go to menu to see the map (you can use the mini map on screen)}[30 FPS]
+005B40B0 00010100
+
+[60 FPS]
+005B40B0 00020200
+{Has a bug that duplicate one screen on another, so you have to go to menu to see the map (you can use the mini map on screen)}[30 FPS]
+005B40B0 00010100
+
+[60 FPS]
+005B40B0 00020200
+{Has a bug that duplicate one screen on another, so you hav[30 FPS]
+005B40B0 00010100
+
+[60 FPS]
+005B40B0 00020200
+{Has a bug that duplicate one screen on another, so you have to go to menu to see the map (you can use the mini map on screen)}[30 FPS]
+005B40B0 00010100
+
+[60 FPS]
+005B40B0 00020200
+{Has a bug that duplicate one screen on another, so you have to go to menu to see the map (you can use the mini map on screen)}[30 FPS]
+005B40B0 00010100
+
+[60 FPS]
+005B40B0 00020200
+{Has a bug that duplicate one screen on another, so you have to go to menu to see the map (you can use the mini map on screen)}[30 FPS]
+005B40B0 00010100
+
+[60 FPS]
+005B40B0 00020200
+{Has a bug that duplicate one screen on another, so you have to go to menu to see the map (you can use the mini map on screen)}[30 FPS]
+005B40B0 00010100
+
+[60 FPS]
+005B40B0 00020200
+{Has a bug that duplicate one screen on another, so you have to go to menu to see the map (you can use the mini map on screen)}[30 FPS]
+005B40B0 00010100
+
+[60 FPS]
+005B40B0 00020200
+{Has a bug that duplicate one screen on another, so you have to go to menu to see the map (you can use the mini map on screen)}[30 FPS]
+005B40B0 00010100
+
+[60 FPS]
+005B40B0 00020200
+{Has a bug that duplicate one screen on another, so you have to go to menu to see the map (you can use the mini map on screen)}[30 FPS]
+005B40B0 00010100
+
+[60 FPS]
+005B40B0 00020200
+{Has a bug that duplicate one screen on another, so you have to go to menu to see the map (you can use the mini map on screen)}[30 FPS]
+005B40B0 00010100
+
+[60 FPS]
+005B40B0 00020200
+{Has a bug that duplicate one screen on another, so you have to go to menu to see the map (you can use the mini map on screen)}[30 FPS]
+005B40B0 00010100
+
+[60 FPS]
+005B40B0 00020200
+{Has a bug that duplicate one screen on another, so you hav[30 FPS]
+005B40B0 00010100
+
+[60 FPS]
+005B40B0 00020200
+{Has a bug that duplicate one screen on another, so you have to go to menu to see the map (you can use the mini map on screen)}[30 FPS]
+005B40B0 00010100
+
+[60 FPS]
+005B40B0 00020200
+{Has a bug that duplicate one screen on another, so you hav

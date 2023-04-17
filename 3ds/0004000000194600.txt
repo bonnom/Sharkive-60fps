@@ -1,0 +1,211 @@
+[Default 20 FPS]
+2023DE5C 00000002
+
+[30 FPS]
+2023DE5C 00000001
+{Will make the game runs faster}
+
+[60 FPS]
+2023DE5C 00000000
+{Will make the game runs even faster}[Default 20 FPS]
+2023DE5C 00000002
+
+[30 FPS]
+2023DE5C 00000001
+{Will make the game runs faster}
+
+[60 FPS]
+2023DE5C 00000000
+{Will make the game runs even faster}[Default 20 FPS]
+2023DE5C 00000002
+
+[30 FPS]
+2023DE5C 00000001
+{Will make the game runs faster}
+
+[60 FPS]
+2023DE5C 00000000
+{Will make the game runs even faster}[Default 20 FPS]
+2023DE5C 00000002
+
+[30 FPS]
+2023DE5C 00000001
+{Will make the game runs faster}
+
+[60 FPS]
+2023DE5C 00000000
+{Will make the game runs even faster}[Default 20 FPS]
+2023DE5C 00000002
+
+[30 FPS]
+2023DE5C 00000001
+{Will make the game runs faster}
+
+[60 FPS]
+2023DE5C 00000000
+{Will make the game runs even faster}[Default 20 FPS]
+2023DE5C 00000002
+
+[30 FPS]
+2023DE5C 00000001
+{Will make the game runs faster}
+
+[60 FPS]
+2023DE5C 00000000
+{Will make the game runs even faster}[Default 20 FPS]
+2023DE5C 00000002
+
+[30 FPS]
+2023DE5C 00000001
+{Will make the game runs faster}
+
+[60 FPS]
+2023DE5C 00000000
+{Will make the game runs even faster}[Default 20 FPS]
+2023DE5C 00000002
+
+[30 FPS]
+2023DE5C 00000001
+{Will make the game runs faster}
+
+[60 FPS]
+2023DE5C 00000000
+{Will make the game runs even faster}[Default 20 FPS]
+2023DE5C 00000002
+
+[30 FPS]
+2023DE5C 00000001
+{Will make the game runs faster}
+
+[60 FPS]
+2023DE5C 00000000
+{Will make the game runs even faster}[Default 20 FPS]
+2023DE5C 00000002
+
+[30 FPS]
+2023DE5C 00000001
+{Will make the game runs faster}
+
+[60 FPS]
+2023DE5C 00000000
+{Will make the game runs even faster}[Default 20 FPS]
+2023DE5C 00000002
+
+[30 FPS]
+2023DE5C 0000[Default 20 FPS]
+2023DE5C 00000002
+
+[30 FPS]
+2023DE5C 00000001
+{Will make the game runs faster}
+
+[60 FPS]
+2023DE5C 00000000
+{Will make the game runs even faster}[Default 20 FPS]
+2023DE5C 00000002
+
+[30 FPS]
+2023DE5C 00000001
+{Will make the game runs faster}
+
+[60 FPS]
+2023DE5C 00000000
+{Will make the game runs even faster}[Default 20 FPS]
+2023DE5C 00000002
+
+[30 FPS]
+2023DE5C 00000001
+{Will make the game runs faster}
+
+[60 FPS]
+2023DE5C 00000000
+{Will make the game runs even faster}[Default 20 FPS]
+2023DE5C 00000002
+
+[30 FPS]
+2023DE5C 00000001
+{Will make the game runs faster}
+
+[60 FPS]
+2023DE5C 00000000
+{Will make the game runs even faster}[Default 20 FPS]
+2023DE5C 00000002
+
+[30 FPS]
+2023DE5C 00000001
+{Will make the game runs faster}
+
+[60 FPS]
+2023DE5C 00000000
+{Will make the game runs even faster}[Default 20 FPS]
+2023DE5C 00000002
+
+[30 FPS]
+2023DE5C 00000001
+{Will make the game runs faster}
+
+[60 FPS]
+2023DE5C 00000000
+{Will make the game runs even faster}[Default 20 FPS]
+2023DE5C 00000002
+
+[30 FPS]
+2023DE5C 00000001
+{Will make the game runs faster}
+
+[60 FPS]
+2023DE5C 00000000
+{Will make the game runs even faster}[Default 20 FPS]
+2023DE5C 00000002
+
+[30 FPS]
+2023DE5C 00000001
+{Will make the game runs faster}
+
+[60 FPS]
+2023DE5C 00000000
+{Will make the game runs even faster}[Default 20 FPS]
+2023DE5C 00000002
+
+[30 FPS]
+2023DE5C 00000001
+{Will make the game runs faster}
+
+[60 FPS]
+2023DE5C 00000000
+{Will make the game runs even faster}[Default 20 FPS]
+2023DE5C 00000002
+
+[30 FPS]
+2023DE5C 00000001
+{Will make the game runs faster}
+
+[60 FPS]
+2023DE5C 00000000
+{Will make the game runs even faster}[Default 20 FPS]
+2023DE5C 00000002
+
+[30 FPS]
+2023DE5C 0000[Default 20 FPS]
+2023DE5C 00000002
+
+[30 FPS]
+2023DE5C 00000001
+{Will make the game runs faster}
+
+[60 FPS]
+2023DE5C 00000000
+{Will make the game runs even faster}[Default 20 FPS]
+2023DE5C 00000002
+
+[30 FPS]
+2023DE5C 00000001
+{Will make the game runs faster}
+
+[60 FPS]
+2023DE5C 00000000
+{Will make the game runs even faster}[Default 20 FPS]
+2023DE5C 00000002
+
+[30 FPS]
+2023DE5C 0000

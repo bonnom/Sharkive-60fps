@@ -7,3 +7,89 @@ B04FF328 00000000
 50000000 0000FF00
 20000078 000000C8
 D2000000 00000000
+[60 FPS]
+20484AC8 00000001
+{drops straight to 30 FPS in some areas using 3ds.}
+
+[Default 30 FPS]
+20484AC8 00000002[60 FPS]
+20484AC8 00000001
+{drops straight to 30 FPS in some areas using 3ds.}
+
+[Default 30 FPS]
+20484AC8 00000002[60 FPS]
+20484AC8 00000001
+{drops straight to 30 FPS in some areas using 3ds.}
+
+[Default 30 FPS]
+20484AC8 00000002[60 FPS]
+20484AC8 00000001
+{drops straight to 30 FPS in some areas using 3ds.}
+
+[Default 30 FPS]
+20484AC8 00000002[60 FPS]
+20484AC8 00000001
+{drops straight to 30 FPS in some areas using 3ds.}
+
+[Default 30 FPS]
+20484AC8 00000002[60 FPS]
+20484AC8 00000001
+{drops straight to 30 FPS in some areas using 3ds.}
+
+[Default 30 FPS]
+20484AC8 00000002[60 FPS]
+20484AC8 00000001
+{drops straight to 30 FPS in some areas using 3ds.}
+
+[Default 30 FPS]
+20484AC8 00000002[60 FPS]
+20484AC8 00000001
+{drops straight to 30 FPS in some areas using 3ds.}
+
+[Default 30 FPS]
+20484AC8 00000002[60 FPS]
+20484AC8 00000001
+{drops straight to 30 FPS in some areas using 3ds.}
+
+[Default 30 FPS]
+20484AC8 00000002[60 FPS]
+20484AC8 00000001
+{drops straight to 30 FPS in some areas using 3ds.}
+
+[Default 30 FPS]
+20484AC8 00000002[60 FPS]
+20484AC8 00000001
+{drops straight to 30 FPS in some areas using 3ds.}
+
+[Default 30 FPS]
+20484AC8 00000002[60 FPS]
+20484AC8 00000001
+{drops straight to 30 FPS in some areas using 3ds.}
+
+[Default 30 FPS]
+20484AC8 00000002[60 FPS]
+20484AC8 00000001
+{drops straight to 30 FPS in some areas using 3ds.}
+
+[Default 30 FPS]
+20484AC8 00000002[60 FPS]
+20484AC8 00000001
+{drops straight to 30 FPS in some areas using 3ds.}
+
+[Default 30 FPS]
+20484AC8 00000002[60 FPS]
+20484AC8 00000001
+{drops straight to 30 FPS in some areas using 3ds.}
+
+[Default 30 FPS]
+20484AC8 00000002[60 FPS]
+20484AC8 00000001
+{drops straight to 30 FPS in some areas using 3ds.}
+
+[Default 30 FPS]
+20484AC8 00000002[60 FPS]
+20484AC8 00000001
+{drops straight to 30 FPS in some areas using 3ds.}
+
+[Default 30 FPS]
+20484AC8 000000

@@ -194,3 +194,114 @@ D3000000 00000000
 D3000000 00000000
 00277A5C E1A04081
 00277A60 E3540064
+[30 FPS]
+004BDEFC 00000002
+
+[60 FPS]
+004BDEFC 00000001
+{Will make the game runs faster (game speed x2).On battle: 55-60 fps, have some drops to 42. Outside of battle: 55-60 fps.}[30 FPS]
+004BDEFC 00000002
+
+[60 FPS]
+004BDEFC 00000001
+{Will make the game runs faster (game speed x2).On battle: 55-60 fps, have some drops to 42. Outside of battle: 55-60 fps.}[30 FPS]
+004BDEFC 00000002
+
+[60 FPS]
+004BDEFC 00000001
+{Will make the game runs faster (game speed x2).On battle: 55-60 fps, have some drops to 42. Outside of battle: 55-60 fps.}[30 FPS]
+004BDEFC 00000002
+
+[60 FPS]
+004BDEFC 00000001
+{Will make the game runs faster (game speed x2).On battle: 55-60 fps, have some drops to 42. Outside of battle: 55-60 fps.}[30 FPS]
+004BDEFC 00000002
+
+[60 FPS]
+004BDEFC 00000001
+{Will make the game runs faster (game speed x2).On battle: 55-60 fps, have some drops to 42. Outside of battle: 55-60 fps.}[30 FPS]
+004BDEFC 00000002
+
+[60 FPS]
+004BDEFC 00000001
+{Will make the game runs faster (game speed x2).On battle: 55-60 fps, have some drops to 42. Outside of battle: 55-60 fps.}[30 FPS]
+004BDEFC 00000002
+
+[60 FPS]
+004BDEFC 00000001
+{Will make the game runs faster (game speed x2).On battle: 55-60 fps, have some drops to 42. Outside of battle: 55-60 fps.}[30 FPS]
+004BDEFC 00000002
+
+[60 FPS]
+004BDEFC 00000001
+{Will make the game runs faster (game speed x2).On battle: 55-60 fps, have some drops to 42. Outside of battle: 55-60 fps.}[30 FPS]
+004BDEFC 00000002
+
+[60 FPS]
+004BDEFC 00000001
+{Will make the game runs faster (game speed x2).On battle: 55-60 fps, have some drops to 42. Outside of battle: 55-60 fps.}[30 FPS]
+004BDEFC 00000002
+
+[60 FPS]
+004BDEFC 00000001
+{Will make the game runs faster (game speed x2).On battle: 55-60 fps, have some[30 FPS]
+004BDEFC 00000002
+
+[60 FPS]
+004BDEFC 00000001
+{Will make the game runs faster (game speed x2).On battle: 55-60 fps, have some drops to 42. Outside of battle: 55-60 fps.}[30 FPS]
+004BDEFC 00000002
+
+[60 FPS]
+004BDEFC 00000001
+{Will make the game runs faster (game speed x2).On battle: 55-60 fps, have some drops to 42. Outside of battle: 55-60 fps.}[30 FPS]
+004BDEFC 00000002
+
+[60 FPS]
+004BDEFC 00000001
+{Will make the game runs faster (game speed x2).On battle: 55-60 fps, have some drops to 42. Outside of battle: 55-60 fps.}[30 FPS]
+004BDEFC 00000002
+
+[60 FPS]
+004BDEFC 00000001
+{Will make the game runs faster (game speed x2).On battle: 55-60 fps, have some drops to 42. Outside of battle: 55-60 fps.}[30 FPS]
+004BDEFC 00000002
+
+[60 FPS]
+004BDEFC 00000001
+{Will make the game runs faster (game speed x2).On battle: 55-60 fps, have some drops to 42. Outside of battle: 55-60 fps.}[30 FPS]
+004BDEFC 00000002
+
+[60 FPS]
+004BDEFC 00000001
+{Will make the game runs faster (game speed x2).On battle: 55-60 fps, have some drops to 42. Outside of battle: 55-60 fps.}[30 FPS]
+004BDEFC 00000002
+
+[60 FPS]
+004BDEFC 00000001
+{Will make the game runs faster (game speed x2).On battle: 55-60 fps, have some drops to 42. Outside of battle: 55-60 fps.}[30 FPS]
+004BDEFC 00000002
+
+[60 FPS]
+004BDEFC 00000001
+{Will make the game runs faster (game speed x2).On battle: 55-60 fps, have some drops to 42. Outside of battle: 55-60 fps.}[30 FPS]
+004BDEFC 00000002
+
+[60 FPS]
+004BDEFC 00000001
+{Will make the game runs faster (game speed x2).On battle: 55-60 fps, have some drops to 42. Outside of battle: 55-60 fps.}[30 FPS]
+004BDEFC 00000002
+
+[60 FPS]
+004BDEFC 00000001
+{Will make the game runs faster (game speed x2).On battle: 55-60 fps, have some[30 FPS]
+004BDEFC 00000002
+
+[60 FPS]
+004BDEFC 00000001
+{Will make the game runs faster (game speed x2).On battle: 55-60 fps, have some drops to 42. Outside of battle: 55-60 fps.}[30 FPS]
+004BDEFC 00000002
+
+[60 FPS]
+004BDEFC 00000001
+{Will make the game runs faster (game speed x2).On battle: 55-60 fps, have some

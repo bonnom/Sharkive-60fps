@@ -1,0 +1,201 @@
+[60 FPS]
+208EA0D0 00000000
+208EA0E4 00000000
+{Only works for Citra / Game runs faster.}
+
+[40 FPS]
+208EA0D0 00000001
+208EA0E4 00000000
+{Only works for Citra / Game slightly runs faster.}
+
+[Default 30 FPS]
+208EA0D0 00000001[60 FPS]
+208EA0D0 00000000
+208EA0E4 00000000
+{Only works for Citra / Game runs faster.}
+
+[40 FPS]
+208EA0D0 00000001
+208EA0E4 00000000
+{Only works for Citra / Game slightly runs faster.}
+
+[Default 30 FPS]
+208EA0D0 00000001[60 FPS]
+208EA0D0 00000000
+208EA0E4 00000000
+{Only works for Citra / Game runs faster.}
+
+[40 FPS]
+208EA0D0 00000001
+208EA0E4 00000000
+{Only works for Citra / Game slightly runs faster.}
+
+[Default 30 FPS]
+208EA0D0 00000001[60 FPS]
+208EA0D0 00000000
+208EA0E4 00000000
+{Only works for Citra / Game runs faster.}
+
+[40 FPS]
+208EA0D0 00000001
+208EA0E4 00000000
+{Only works for Citra / Game slightly runs faster.}
+
+[Default 30 FPS]
+208EA0D0 00000001[60 FPS]
+208EA0D0 00000000
+208EA0E4 00000000
+{Only works for Citra / Game runs faster.}
+
+[40 FPS]
+208EA0D0 00000001
+208EA0E4 00000000
+{Only works for Citra / Game slightly runs faster.}
+
+[Default 30 FPS]
+208EA0D0 00000001[60 FPS]
+208EA0D0 00000000
+208EA0E4 00000000
+{Only works for Citra / Game runs faster.}
+
+[40 FPS]
+208EA0D0 00000001
+208EA0E4 00000000
+{Only works for Citra / Game slightly runs faster.}
+
+[Default 30 FPS]
+208EA0D0 00000001[60 FPS]
+208EA0D0 00000000
+208EA0E4 00000000
+{Only works for Citra / Game runs faster.}
+
+[40 FPS]
+208EA0D0 00000001
+208EA0E4 00000000
+{Only works for Citra / Game slightly runs faster.}
+
+[Default 30 FPS]
+208EA0D0 00000001[60 FPS]
+208EA0D0 00000000
+208EA0E4 00000000
+{Only works for Citra / Game runs faster.}
+
+[40 FPS]
+208EA0D0 00000001
+208EA0E4 00000000
+{Only works for Citra / Game slightly runs faster.}
+
+[Default 30 FPS]
+208EA0D0 00000001[60 FPS]
+208EA0D0 00000000
+208EA0E4 00000000
+{Only works for Citra / Game runs faster.}
+
+[40 FPS]
+208EA0D0 00000001
+208EA0E4 00000000
+{Only [60 FPS]
+208EA0D0 00000000
+208EA0E4 00000000
+{Only works for Citra / Game runs faster.}
+
+[40 FPS]
+208EA0D0 00000001
+208EA0E4 00000000
+{Only works for Citra / Game slightly runs faster.}
+
+[Default 30 FPS]
+208EA0D0 00000001[60 FPS]
+208EA0D0 00000000
+208EA0E4 00000000
+{Only works for Citra / Game runs faster.}
+
+[40 FPS]
+208EA0D0 00000001
+208EA0E4 00000000
+{Only works for Citra / Game slightly runs faster.}
+
+[Default 30 FPS]
+208EA0D0 00000001[60 FPS]
+208EA0D0 00000000
+208EA0E4 00000000
+{Only works for Citra / Game runs faster.}
+
+[40 FPS]
+208EA0D0 00000001
+208EA0E4 00000000
+{Only works for Citra / Game slightly runs faster.}
+
+[Default 30 FPS]
+208EA0D0 00000001[60 FPS]
+208EA0D0 00000000
+208EA0E4 00000000
+{Only works for Citra / Game runs faster.}
+
+[40 FPS]
+208EA0D0 00000001
+208EA0E4 00000000
+{Only works for Citra / Game slightly runs faster.}
+
+[Default 30 FPS]
+208EA0D0 00000001[60 FPS]
+208EA0D0 00000000
+208EA0E4 00000000
+{Only works for Citra / Game runs faster.}
+
+[40 FPS]
+208EA0D0 00000001
+208EA0E4 00000000
+{Only works for Citra / Game slightly runs faster.}
+
+[Default 30 FPS]
+208EA0D0 00000001[60 FPS]
+208EA0D0 00000000
+208EA0E4 00000000
+{Only works for Citra / Game runs faster.}
+
+[40 FPS]
+208EA0D0 00000001
+208EA0E4 00000000
+{Only works for Citra / Game slightly runs faster.}
+
+[Default 30 FPS]
+208EA0D0 00000001[60 FPS]
+208EA0D0 00000000
+208EA0E4 00000000
+{Only works for Citra / Game runs faster.}
+
+[40 FPS]
+208EA0D0 00000001
+208EA0E4 00000000
+{Only works for Citra / Game slightly runs faster.}
+
+[Default 30 FPS]
+208EA0D0 00000001[60 FPS]
+208EA0D0 00000000
+208EA0E4 00000000
+{Only works for Citra / Game runs faster.}
+
+[40 FPS]
+208EA0D0 00000001
+208EA0E4 00000000
+{Only works for Citra / Game slightly runs faster.}
+
+[Default 30 FPS]
+208EA0D0 00000001[60 FPS]
+208EA0D0 00000000
+208EA0E4 00000000
+{Only works for Citra / Game runs faster.}
+
+[40 FPS]
+208EA0D0 00000001
+208EA0E4 00000000
+{Only [60 FPS]
+208EA0D0 00000000
+208EA0E4 00000000
+{Only works for Citra / Game runs faster.}
+
+[40 FPS]
+208EA0D0 00000001
+208EA0E4 00000000
+{Only 

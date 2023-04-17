@@ -360,3 +360,122 @@ D3000000 3075CCF0
 10000000 00000D9B
 10000060 00000D9B
 
+For game version 2.2.0
+
+[Default 30 FPS]
+206FE5A0 00000001
+
+[60 FPS]
+206FE5A0 00000000
+{Will make the game runs faster}For game version 2.2.0
+
+[Default 30 FPS]
+206FE5A0 00000001
+
+[60 FPS]
+206FE5A0 00000000
+{Will make the game runs faster}For game version 2.2.0
+
+[Default 30 FPS]
+206FE5A0 00000001
+
+[60 FPS]
+206FE5A0 00000000
+{Will make the game runs faster}For game version 2.2.0
+
+[Default 30 FPS]
+206FE5A0 00000001
+
+[60 FPS]
+206FE5A0 00000000
+{Will make the game runs faster}For game version 2.2.0
+
+[Default 30 FPS]
+206FE5A0 00000001
+
+[60 FPS]
+206FE5A0 00000000
+{Will make the game runs faster}For game version 2.2.0
+
+[Default 30 FPS]
+206FE5A0 00000001
+
+[60 FPS]
+206FE5A0 00000000
+{Will make the game runs faster}For game version 2.2.0
+
+[Default 30 FPS]
+206FE5A0 00000001
+
+[60 FPS]
+206FE5A0 00000000
+{Will make the game runs faster}For game version 2.2.0
+
+[Default 30 FPS]
+206FE5A0 00000001
+
+[60 FPS]
+206FE5A0 00000000
+{Will make the game runs faster}For game version 2.2.0
+
+[Default 30 FPS]
+206FE5A0 00000001
+
+[60 FPS]
+206FE5A0 00000000
+{Will make the game runs faster}For game version 2.2.0
+
+[Default 30 FPS]
+206FE5A0 00000001
+
+[60 FPS]
+206FE5A0 00000000
+{Will make the game runs faster}For game version 2.2.0
+
+[Default 30 FPS]
+206FE5A0 00000001
+
+[60 FPS]
+206FE5A0 00000000
+{Will make the game runs faster}For game version 2.2.0
+
+[Default 30 FPS]
+206FE5A0 00000001
+
+[60 FPS]
+206FE5A0 00000000
+{Will make the game runs faster}For game version 2.2.0
+
+[Default 30 FPS]
+206FE5A0 00000001
+
+[60 FPS]
+206FE5A0 00000000
+{Will make the game runs faster}For game version 2.2.0
+
+[Default 30 FPS]
+206FE5A0 00000001
+
+[60 FPS]
+206FE5A0 00000000
+{Will make the game runs faster}For game version 2.2.0
+
+[Default 30 FPS]
+206FE5A0 00000001
+
+[60 FPS]
+206FE5A0 00000000
+{Will make the game runs faster}For game version 2.2.0
+
+[Default 30 FPS]
+206FE5A0 00000001
+
+[60 FPS]
+206FE5A0 00000000
+{Will make the game runs faster}For game version 2.2.0
+
+[Default 30 FPS]
+206FE5A0 00000001
+
+[60 FPS]
+206

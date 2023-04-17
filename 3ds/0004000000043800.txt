@@ -2,3 +2,91 @@
 D3000000 08000000
 0000AEDC 0000000A
 D2000000 00000000
+[60 FPS]
+20431959 00000000
+{Gameplay speed is normal but Menus' speed is fast.}
+
+[30 FPS]
+20431959 00000001[60 FPS]
+20431959 00000000
+{Gameplay speed is normal but Menus' speed is fast.}
+
+[30 FPS]
+20431959 00000001[60 FPS]
+20431959 00000000
+{Gameplay speed is normal but Menus' speed is fast.}
+
+[30 FPS]
+20431959 00000001[60 FPS]
+20431959 00000000
+{Gameplay speed is normal but Menus' speed is fast.}
+
+[30 FPS]
+20431959 00000001[60 FPS]
+20431959 00000000
+{Gameplay speed is normal but Menus' speed is fast.}
+
+[30 FPS]
+20431959 00000001[60 FPS]
+20431959 00000000
+{Gameplay speed is normal but Menus' speed is fast.}
+
+[30 FPS]
+20431959 00000001[60 FPS]
+20431959 00000000
+{Gameplay speed is normal but Menus' speed is fast.}
+
+[30 FPS]
+20431959 00000001[60 FPS]
+20431959 00000000
+{Gameplay speed is normal but Menus' speed is fast.}
+
+[30 FPS]
+20431959 00000001[60 FPS]
+20431959 00000000
+{Gameplay speed is normal but Menus' speed is fast.}
+
+[30 FPS]
+20431959 00000001[60 FPS]
+20431959 00000000
+{Gameplay speed is normal but Menus' speed is fast.}
+
+[30 FPS]
+20431959 00000001[60 FPS]
+20431959 00000000
+{Gameplay speed is normal but Menus' speed is fast.}
+
+[30 FPS]
+20431959 00000001[60 FPS]
+20431959 00000000
+{Gameplay speed is normal but Menus' speed is fast.}
+
+[30 FPS]
+20431959 00000001[60 FPS]
+20431959 00000000
+{Gameplay speed is normal but Menus' speed is fast.}
+
+[30 FPS]
+20431959 00000001[60 FPS]
+20431959 00000000
+{Gameplay speed is normal but Menus' speed is fast.}
+
+[30 FPS]
+20431959 00000001[60 FPS]
+20431959 00000000
+{Gameplay speed is normal but Menus' speed is fast.}
+
+[30 FPS]
+20431959 00000001[60 FPS]
+20431959 00000000
+{Gameplay speed is normal but Menus' speed is fast.}
+
+[30 FPS]
+20431959 00000001[60 FPS]
+20431959 00000000
+{Gameplay speed is normal but Menus' speed is fast.}
+
+[30 FPS]
+20431959 00000001[60 FPS]
+20431959 00000000
+{Gameplay speed is normal but Menu

@@ -555,3 +555,395 @@ E8BD801F 003F08E4
 DD000000 00000200
 002E369C EB02457F
 D0000000 00000000
+[3D Effect Permanently Deactivated]
+003B6D90 00000000
+
+[3D Effect Permanently Activated]
+003B6D90 3F800000
+
+[Fast change of view angle/camera]
+0814E10C 00000001
+
+[Normal change of view angle/camera]
+0814E10C 00000002
+
+[No Zoom Out (R+X to Zoom Out)]
+003B78CC 00000000
+D2000000 00000000
+DD000000 00000500
+003B78CC 000000A0
+D2000000 00000000[3D Effect Permanently Deactivated]
+003B6D90 00000000
+
+[3D Effect Permanently Activated]
+003B6D90 3F800000
+
+[Fast change of view angle/camera]
+0814E10C 00000001
+
+[Normal change of view angle/camera]
+0814E10C 00000002
+
+[No Zoom Out (R+X to Zoom Out)]
+003B78CC 00000000
+D2000000 00000000
+DD000000 00000500
+003B78CC 000000A0
+D2000000 00000000[3D Effect Permanently Deactivated]
+003B6D90 00000000
+
+[3D Effect Permanently Activated]
+003B6D90 3F800000
+
+[Fast change of view angle/camera]
+0814E10C 00000001
+
+[Normal change of view angle/camera]
+0814E10C 00000002
+
+[No Zoom Out (R+X to Zoom Out)]
+003B78CC 00000000
+D2000000 00000000
+DD000000 00000500
+003B78CC 000000A0
+D2000000 00000000[3D Effect Permanently Deactivated]
+003B6D90 00000000
+
+[3D Effect Permanently Activated]
+003B6D90 3F800000
+
+[Fast change of view angle/camera]
+0814E10C 00000001
+
+[Normal change of view angle/camera]
+0814E10C 00000002
+
+[No Zoom Out (R+X to Zoom Out)]
+003B78CC 00000000
+D2000000 00000000
+DD000000 00000500
+003B78CC 000000A0
+D2000000 00000000[3D Effect Permanently Deactivated]
+003B6D90 00000000
+
+[3D Effect Permanently Activated]
+003B6D90 3F800000
+
+[Fast change of view angle/camera]
+0814E10C 00000001
+
+[Normal change of view angle/camera]
+0814E10C 00000002
+
+[No Zoom Out (R+X to Zoom Out)]
+003B78CC 00000000
+D2000000 00000000
+DD000000 00000500
+003B78CC 000000A0
+D2000000 00000000[3D Eff[3D Effect Permanently Deactivated]
+003B6D90 00000000
+
+[3D Effect Permanently Activated]
+003B6D90 3F800000
+
+[Fast change of view angle/camera]
+0814E10C 00000001
+
+[Normal change of view angle/camera]
+0814E10C 00000002
+
+[No Zoom Out (R+X to Zoom Out)]
+003B78CC 00000000
+D2000000 00000000
+DD000000 00000500
+003B78CC 000000A0
+D2000000 00000000[3D Effect Permanently Deactivated]
+003B6D90 00000000
+
+[3D Effect Permanently Activated]
+003B6D90 3F800000
+
+[Fast change of view angle/camera]
+0814E10C 00000001
+
+[Normal change of view angle/camera]
+0814E10C 00000002
+
+[No Zoom Out (R+X to Zoom Out)]
+003B78CC 00000000
+D2000000 00000000
+DD000000 00000500
+003B78CC 000000A0
+D2000000 00000000[3D Effect Permanently Deactivated]
+003B6D90 00000000
+
+[3D Effect Permanently Activated]
+003B6D90 3F800000
+
+[Fast change of view angle/camera]
+0814E10C 00000001
+
+[Normal change of view angle/camera]
+0814E10C 00000002
+
+[No Zoom Out (R+X to Zoom Out)]
+003B78CC 00000000
+D2000000 00000000
+DD000000 00000500
+003B78CC 000000A0
+D2000000 00000000[3D Effect Permanently Deactivated]
+003B6D90 00000000
+
+[3D Effect Permanently Activated]
+003B6D90 3F800000
+
+[Fast change of view angle/camera]
+0814E10C 00000001
+
+[Normal change of view angle/camera]
+0814E10C 00000002
+
+[No Zoom Out (R+X to Zoom Out)]
+003B78CC 00000000
+D2000000 00000000
+DD000000 00000500
+003B78CC 000000A0
+D2000000 00000000[3D Effect Permanently Deactivated]
+003B6D90 00000000
+
+[3D Effect Permanently Activated]
+003B6D90 3F800000
+
+[Fast change of view angle/camera]
+0814E10C 00000001
+
+[Normal change of view angle/camera]
+0814E10C 00000002
+
+[No Zoom Out (R+X to Zoom Out)]
+003B78CC 00000000
+D2000000 00000000
+DD000000 00000500
+003B78CC 000000A0
+D2000000 00000000[3D Eff[3D Effect Permanently Deactivated]
+003B6D90 00000000
+
+[3D Effect Permanently Activated]
+003B6D90 3F800000
+
+[Fast change of view angle/camera]
+0814E10C 00000001
+
+[Normal change of view angle/camera]
+0814E10C 00000002
+
+[No Zoom Out (R+X to Zoom Out)]
+003B78CC 00000000
+D2000000 00000000
+DD000000 00000500
+003B78CC 000000A0
+D2000000 00000000[3D Eff[3D Effect Permanently Deactivated]
+003B6D90 00000000
+
+[3D Effect Permanently Activated]
+003B6D90 3F800000
+
+[Fast change of view angle/camera]
+0814E10C 00000001
+
+[Normal change of view angle/camera]
+0814E10C 00000002
+
+[No Zoom Out (R+X to Zoom Out)]
+003B78CC 00000000
+D2000000 00000000
+DD000000 00000500
+003B78CC 000000A0
+D2000000 00000000[3D Effect Permanently Deactivated]
+003B6D90 00000000
+
+[3D Effect Permanently Activated]
+003B6D90 3F800000
+
+[Fast change of view angle/camera]
+0814E10C 00000001
+
+[Normal change of view angle/camera]
+0814E10C 00000002
+
+[No Zoom Out (R+X to Zoom Out)]
+003B78CC 00000000
+D2000000 00000000
+DD000000 00000500
+003B78CC 000000A0
+D2000000 00000000[3D Effect Permanently Deactivated]
+003B6D90 00000000
+
+[3D Effect Permanently Activated]
+003B6D90 3F800000
+
+[Fast change of view angle/camera]
+0814E10C 00000001
+
+[Normal change of view angle/camera]
+0814E10C 00000002
+
+[No Zoom Out (R+X to Zoom Out)]
+003B78CC 00000000
+D2000000 00000000
+DD000000 00000500
+003B78CC 000000A0
+D2000000 00000000[3D Effect Permanently Deactivated]
+003B6D90 00000000
+
+[3D Effect Permanently Activated]
+003B6D90 3F800000
+
+[Fast change of view angle/camera]
+0814E10C 00000001
+
+[Normal change of view angle/camera]
+0814E10C 00000002
+
+[No Zoom Out (R+X to Zoom Out)]
+003B78CC 00000000
+D2000000 00000000
+DD000000 00000500
+003B78CC 000000A0
+D2000000 00000000[3D Effect Permanently Deactivated]
+003B6D90 00000000
+
+[3D Effect Permanently Activated]
+003B6D90 3F800000
+
+[Fast change of view angle/camera]
+0814E10C 00000001
+
+[Normal change of view angle/camera]
+0814E10C 00000002
+
+[No Zoom Out (R+X to Zoom Out)]
+003B78CC 00000000
+D2000000 00000000
+DD000000 00000500
+003B78CC 000000A0
+D2000000 00000000[3D Eff[3D Effect Permanently Deactivated]
+003B6D90 00000000
+
+[3D Effect Permanently Activated]
+003B6D90 3F800000
+
+[Fast change of view angle/camera]
+0814E10C 00000001
+
+[Normal change of view angle/camera]
+0814E10C 00000002
+
+[No Zoom Out (R+X to Zoom Out)]
+003B78CC 00000000
+D2000000 00000000
+DD000000 00000500
+003B78CC 000000A0
+D2000000 00000000[3D Effect Permanently Deactivated]
+003B6D90 00000000
+
+[3D Effect Permanently Activated]
+003B6D90 3F800000
+
+[Fast change of view angle/camera]
+0814E10C 00000001
+
+[Normal change of view angle/camera]
+0814E10C 00000002
+
+[No Zoom Out (R+X to Zoom Out)]
+003B78CC 00000000
+D2000000 00000000
+DD000000 00000500
+003B78CC 000000A0
+D2000000 00000000[3D Effect Permanently Deactivated]
+003B6D90 00000000
+
+[3D Effect Permanently Activated]
+003B6D90 3F800000
+
+[Fast change of view angle/camera]
+0814E10C 00000001
+
+[Normal change of view angle/camera]
+0814E10C 00000002
+
+[No Zoom Out (R+X to Zoom Out)]
+003B78CC 00000000
+D2000000 00000000
+DD000000 00000500
+003B78CC 000000A0
+D2000000 00000000[3D Effect Permanently Deactivated]
+003B6D90 00000000
+
+[3D Effect Permanently Activated]
+003B6D90 3F800000
+
+[Fast change of view angle/camera]
+0814E10C 00000001
+
+[Normal change of view angle/camera]
+0814E10C 00000002
+
+[No Zoom Out (R+X to Zoom Out)]
+003B78CC 00000000
+D2000000 00000000
+DD000000 00000500
+003B78CC 000000A0
+D2000000 00000000[3D Effect Permanently Deactivated]
+003B6D90 00000000
+
+[3D Effect Permanently Activated]
+003B6D90 3F800000
+
+[Fast change of view angle/camera]
+0814E10C 00000001
+
+[Normal change of view angle/camera]
+0814E10C 00000002
+
+[No Zoom Out (R+X to Zoom Out)]
+003B78CC 00000000
+D2000000 00000000
+DD000000 00000500
+003B78CC 000000A0
+D2000000 00000000[3D Eff[3D Effect Permanently Deactivated]
+003B6D90 00000000
+
+[3D Effect Permanently Activated]
+003B6D90 3F800000
+
+[Fast change of view angle/camera]
+0814E10C 00000001
+
+[Normal change of view angle/camera]
+0814E10C 00000002
+
+[No Zoom Out (R+X to Zoom Out)]
+003B78CC 00000000
+D2000000 00000000
+DD000000 00000500
+003B78CC 000000A0
+D2000000 00000000[3D Eff[3D Effect Permanently Deactivated]
+003B6D90 00000000
+
+[3D Effect Permanently Activated]
+003B6D90 3F800000
+
+[Fast change of view angle/camera]
+0814E10C 00000001
+
+[Normal change of view angle/camera]
+0814E10C 00000002
+
+[No Zoom Out (R+X to Zoom Out)]
+003B78CC 00000000
+D2000000 00000000
+DD000000 00000500
+003B78CC 000000A0
+D2000000 00000000[3D Eff

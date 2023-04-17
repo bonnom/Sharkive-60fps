@@ -1,0 +1,417 @@
+[Default 60 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000000
+
+[30 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000001
+
+[Default 60 FPS v1.1]
+20335614 00000000
+
+[30 FPS v1.1]
+20335614 00000001
+
+[Default 60 FPS v1.0&v1.1 Rev1 3dsiso dump]
+20335614 00000000
+
+[30 FPS v1.0&v1.1 Rev1 3dsiso dump]
+20335614 00000001[Default 60 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000000
+
+[30 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000001
+
+[Default 60 FPS v1.1]
+20335614 00000000
+
+[30 FPS v1.1]
+20335614 00000001
+
+[Default 60 FPS v1.0&v1.1 Rev1 3dsiso dump]
+20335614 00000000
+
+[30 FPS v1.0&v1.1 Rev1 3dsiso dump]
+20335614 00000001[Default 60 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000000
+
+[30 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000001
+
+[Default 60 FPS v1.1]
+20335614 00000000
+
+[30 FPS v1.1]
+20335614 00000001
+
+[Default 60 FPS v1.0&v1.1 Rev1 3dsiso dump]
+20335614 00000000
+
+[30 FPS v1.0&v1.1 Rev1 3dsiso dump]
+20335614 00000001[Default 60 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000000
+
+[30 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000001
+
+[Default 60 FPS v1.1]
+20335614 00000000
+
+[30 FPS v1.1]
+20335614 00000001
+
+[Default 60 FPS v1.0&v1.1 Rev1 3dsiso dump]
+20335614 00000000
+
+[30 FPS v1.0&v1.1 Rev1 3dsiso dump]
+20335614 00000001[Default 60 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000000
+
+[30 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000001
+
+[Default 60 FPS v1.1]
+20335614 00000000
+
+[30 FPS v1.1]
+20335614 00000001
+
+[Default 60 FPS v1.0&v1.1 Rev1 3dsiso dump]
+20335614 00000000
+
+[30 FPS v1.0&v1.1 Rev1 3dsiso dump]
+20335614 00000001[Default 60 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000000
+
+[30 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000001
+
+[Default 60 FPS v1.1]
+[Default 60 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000000
+
+[30 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000001
+
+[Default 60 FPS v1.1]
+20335614 00000000
+
+[30 FPS v1.1]
+20335614 00000001
+
+[Default 60 FPS v1.0&v1.1 Rev1 3dsiso dump]
+20335614 00000000
+
+[30 FPS v1.0&v1.1 Rev1 3dsiso dump]
+20335614 00000001[Default 60 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000000
+
+[30 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000001
+
+[Default 60 FPS v1.1]
+20335614 00000000
+
+[30 FPS v1.1]
+20335614 00000001
+
+[Default 60 FPS v1.0&v1.1 Rev1 3dsiso dump]
+20335614 00000000
+
+[30 FPS v1.0&v1.1 Rev1 3dsiso dump]
+20335614 00000001[Default 60 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000000
+
+[30 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000001
+
+[Default 60 FPS v1.1]
+20335614 00000000
+
+[30 FPS v1.1]
+20335614 00000001
+
+[Default 60 FPS v1.0&v1.1 Rev1 3dsiso dump]
+20335614 00000000
+
+[30 FPS v1.0&v1.1 Rev1 3dsiso dump]
+20335614 00000001[Default 60 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000000
+
+[30 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000001
+
+[Default 60 FPS v1.1]
+20335614 00000000
+
+[30 FPS v1.1]
+20335614 00000001
+
+[Default 60 FPS v1.0&v1.1 Rev1 3dsiso dump]
+20335614 00000000
+
+[30 FPS v1.0&v1.1 Rev1 3dsiso dump]
+20335614 00000001[Default 60 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000000
+
+[30 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000001
+
+[Default 60 FPS v1.1]
+20335614 00000000
+
+[30 FPS v1.1]
+20335614 00000001
+
+[Default 60 FPS v1.0&v1.1 Rev1 3dsiso dump]
+20335614 00000000
+
+[30 FPS v1.0&v1.1 Rev1 3dsiso dump]
+20335614 00000001[Default 60 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000000
+
+[30 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000001
+
+[Default 60 FPS v1.1]
+[Default 60 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000000
+
+[30 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000001
+
+[Default 60 FPS v1.1]
+20335614 00000000
+
+[30 FPS v1.1]
+20335614 00000001
+
+[Default 60 FPS v1.0&v1.1 Rev1 3dsiso dump]
+20335614 00000000
+
+[30 FPS v1.0&v1.1 Rev1 3dsiso dump]
+20335614 00000001[Default 60 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000000
+
+[30 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000001
+
+[Default 60 FPS v1.1]
+[Default 60 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000000
+
+[30 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000001
+
+[Default 60 FPS v1.1]
+20335614 00000000
+
+[30 FPS v1.1]
+20335614 00000001
+
+[Default 60 FPS v1.0&v1.1 Rev1 3dsiso dump]
+20335614 00000000
+
+[30 FPS v1.0&v1.1 Rev1 3dsiso dump]
+20335614 00000001[Default 60 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000000
+
+[30 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000001
+
+[Default 60 FPS v1.1]
+20335614 00000000
+
+[30 FPS v1.1]
+20335614 00000001
+
+[Default 60 FPS v1.0&v1.1 Rev1 3dsiso dump]
+20335614 00000000
+
+[30 FPS v1.0&v1.1 Rev1 3dsiso dump]
+20335614 00000001[Default 60 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000000
+
+[30 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000001
+
+[Default 60 FPS v1.1]
+20335614 00000000
+
+[30 FPS v1.1]
+20335614 00000001
+
+[Default 60 FPS v1.0&v1.1 Rev1 3dsiso dump]
+20335614 00000000
+
+[30 FPS v1.0&v1.1 Rev1 3dsiso dump]
+20335614 00000001[Default 60 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000000
+
+[30 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000001
+
+[Default 60 FPS v1.1]
+20335614 00000000
+
+[30 FPS v1.1]
+20335614 00000001
+
+[Default 60 FPS v1.0&v1.1 Rev1 3dsiso dump]
+20335614 00000000
+
+[30 FPS v1.0&v1.1 Rev1 3dsiso dump]
+20335614 00000001[Default 60 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000000
+
+[30 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000001
+
+[Default 60 FPS v1.1]
+20335614 00000000
+
+[30 FPS v1.1]
+20335614 00000001
+
+[Default 60 FPS v1.0&v1.1 Rev1 3dsiso dump]
+20335614 00000000
+
+[30 FPS v1.0&v1.1 Rev1 3dsiso dump]
+20335614 00000001[Default 60 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000000
+
+[30 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000001
+
+[Default 60 FPS v1.1]
+[Default 60 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000000
+
+[30 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000001
+
+[Default 60 FPS v1.1]
+20335614 00000000
+
+[30 FPS v1.1]
+20335614 00000001
+
+[Default 60 FPS v1.0&v1.1 Rev1 3dsiso dump]
+20335614 00000000
+
+[30 FPS v1.0&v1.1 Rev1 3dsiso dump]
+20335614 00000001[Default 60 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000000
+
+[30 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000001
+
+[Default 60 FPS v1.1]
+20335614 00000000
+
+[30 FPS v1.1]
+20335614 00000001
+
+[Default 60 FPS v1.0&v1.1 Rev1 3dsiso dump]
+20335614 00000000
+
+[30 FPS v1.0&v1.1 Rev1 3dsiso dump]
+20335614 00000001[Default 60 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000000
+
+[30 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000001
+
+[Default 60 FPS v1.1]
+20335614 00000000
+
+[30 FPS v1.1]
+20335614 00000001
+
+[Default 60 FPS v1.0&v1.1 Rev1 3dsiso dump]
+20335614 00000000
+
+[30 FPS v1.0&v1.1 Rev1 3dsiso dump]
+20335614 00000001[Default 60 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000000
+
+[30 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000001
+
+[Default 60 FPS v1.1]
+20335614 00000000
+
+[30 FPS v1.1]
+20335614 00000001
+
+[Default 60 FPS v1.0&v1.1 Rev1 3dsiso dump]
+20335614 00000000
+
+[30 FPS v1.0&v1.1 Rev1 3dsiso dump]
+20335614 00000001[Default 60 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000000
+
+[30 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000001
+
+[Default 60 FPS v1.1]
+20335614 00000000
+
+[30 FPS v1.1]
+20335614 00000001
+
+[Default 60 FPS v1.0&v1.1 Rev1 3dsiso dump]
+20335614 00000000
+
+[30 FPS v1.0&v1.1 Rev1 3dsiso dump]
+20335614 00000001[Default 60 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000000
+
+[30 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000001
+
+[Default 60 FPS v1.1]
+[Default 60 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000000
+
+[30 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000001
+
+[Default 60 FPS v1.1]
+20335614 00000000
+
+[30 FPS v1.1]
+20335614 00000001
+
+[Default 60 FPS v1.0&v1.1 Rev1 3dsiso dump]
+20335614 00000000
+
+[30 FPS v1.0&v1.1 Rev1 3dsiso dump]
+20335614 00000001[Default 60 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000000
+
+[30 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000001
+
+[Default 60 FPS v1.1]
+[Default 60 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000000
+
+[30 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000001
+
+[Default 60 FPS v1.1]
+20335614 00000000
+
+[30 FPS v1.1]
+20335614 00000001
+
+[Default 60 FPS v1.0&v1.1 Rev1 3dsiso dump]
+20335614 00000000
+
+[30 FPS v1.0&v1.1 Rev1 3dsiso dump]
+20335614 00000001[Default 60 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000000
+
+[30 FPS v1.0 Rev0 3dsiso dump]
+20333614 00000001
+
+[Default 60 FPS v1.1]

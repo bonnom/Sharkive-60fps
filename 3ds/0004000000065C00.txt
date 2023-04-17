@@ -15,3 +15,179 @@
 
 [Infinite HP: Girl]
 080922E4 000009C4
+Both working on english-patched and non-patched CIA or Cart.
+
+[30 FPS]
+08059434 0000001E
+
+[60 FPS]
+08059434 0000003C
+{Bugs, only works Occasionally}Both working on english-patched and non-patched CIA or Cart.
+
+[30 FPS]
+08059434 0000001E
+
+[60 FPS]
+08059434 0000003C
+{Bugs, only works Occasionally}Both working on english-patched and non-patched CIA or Cart.
+
+[30 FPS]
+08059434 0000001E
+
+[60 FPS]
+08059434 0000003C
+{Bugs, only works Occasionally}Both working on english-patched and non-patched CIA or Cart.
+
+[30 FPS]
+08059434 0000001E
+
+[60 FPS]
+08059434 0000003C
+{Bugs, only works Occasionally}Both working on english-patched and non-patched CIA or Cart.
+
+[30 FPS]
+08059434 0000001E
+
+[60 FPS]
+08059434 0000003C
+{Bugs, only works Occasionally}Both working on english-patched and non-patched CIA or Cart.
+
+[30 FPS]
+08059434 0000001E
+
+[60 FPS]
+08059434 0000003C
+{Bugs, only works Occasionally}Both working on english-patched and non-patched CIA or Cart.
+
+[30 FPS]
+08059434 0000001E
+
+[60 FPS]
+08059434 0000003C
+{Bugs, only works Occasionally}Both working on english-patched and non-patched CIA or Cart.
+
+[30 FPS]
+08059434 0000001E
+
+[60 FPS]
+08059434 0000003C
+{Bugs, only works Occasionally}Both working on english-patched and non-patched CIA or Cart.
+
+[30 FPS]
+08059434 0000001E
+
+[60 FPS]
+08059434 0000003C
+{Bugs, only works Occasionally}Both working on english-patched and non-patched CIA or Cart.
+
+[30 FPS]
+08059434 0000001E
+
+[60 FPS]
+08059434 0000003C
+{Bugs, only works Occasionally}Both working on english-patched and non-patched CIA or Cart.
+
+[30 FPS]
+08059434 0000001E
+
+[60 FPS]
+08059434 0000003C
+{Bugs, only works OBoth working on english-patched and non-patched CIA or Cart.
+
+[30 FPS]
+08059434 0000001E
+
+[60 FPS]
+08059434 0000003C
+{Bugs, only works Occasionally}Both working on english-patched and non-patched CIA or Cart.
+
+[30 FPS]
+08059434 0000001E
+
+[60 FPS]
+08059434 0000003C
+{Bugs, only works Occasionally}Both working on english-patched and non-patched CIA or Cart.
+
+[30 FPS]
+08059434 0000001E
+
+[60 FPS]
+08059434 0000003C
+{Bugs, only works Occasionally}Both working on english-patched and non-patched CIA or Cart.
+
+[30 FPS]
+08059434 0000001E
+
+[60 FPS]
+08059434 0000003C
+{Bugs, only works Occasionally}Both working on english-patched and non-patched CIA or Cart.
+
+[30 FPS]
+08059434 0000001E
+
+[60 FPS]
+08059434 0000003C
+{Bugs, only works Occasionally}Both working on english-patched and non-patched CIA or Cart.
+
+[30 FPS]
+08059434 0000001E
+
+[60 FPS]
+08059434 0000003C
+{Bugs, only works Occasionally}Both working on english-patched and non-patched CIA or Cart.
+
+[30 FPS]
+08059434 0000001E
+
+[60 FPS]
+08059434 0000003C
+{Bugs, only works Occasionally}Both working on english-patched and non-patched CIA or Cart.
+
+[30 FPS]
+08059434 0000001E
+
+[60 FPS]
+08059434 0000003C
+{Bugs, only works Occasionally}Both working on english-patched and non-patched CIA or Cart.
+
+[30 FPS]
+08059434 0000001E
+
+[60 FPS]
+08059434 0000003C
+{Bugs, only works Occasionally}Both working on english-patched and non-patched CIA or Cart.
+
+[30 FPS]
+08059434 0000001E
+
+[60 FPS]
+08059434 0000003C
+{Bugs, only works Occasionally}Both working on english-patched and non-patched CIA or Cart.
+
+[30 FPS]
+08059434 0000001E
+
+[60 FPS]
+08059434 0000003C
+{Bugs, only works OBoth working on english-patched and non-patched CIA or Cart.
+
+[30 FPS]
+08059434 0000001E
+
+[60 FPS]
+08059434 0000003C
+{Bugs, only works Occasionally}Both working on english-patched and non-patched CIA or Cart.
+
+[30 FPS]
+08059434 0000001E
+
+[60 FPS]
+08059434 0000003C
+{Bugs, only works Occasionally}Both working on english-patched and non-patched CIA or Cart.
+
+[30 FPS]
+08059434 0000001E
+
+[60 FPS]
+08059434 0000003C
+{Bugs, only works O

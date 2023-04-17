@@ -20,3 +20,129 @@ D3000000 10000000
 
 [999 silver lunares coins]
 00720EC8 000003E7
+[Default 30 FPS]
+20745D29 00000002
+
+[60 FPS]
+20745D29 00000001
+{Bugs,Only works on certain areas + Makes the game runs faster + Graphical glitches}[Default 30 FPS]
+20745D29 00000002
+
+[60 FPS]
+20745D29 00000001
+{Bugs,Only works on certain areas + Makes the game runs faster + Graphical glitches}[Default 30 FPS]
+20745D29 00000002
+
+[60 FPS]
+20745D29 00000001
+{Bugs,Only works on certain areas + Makes the game runs faster + Graphical glitches}[Default 30 FPS]
+20745D29 00000002
+
+[60 FPS]
+20745D29 00000001
+{Bugs,Only works on certain areas + Makes the game runs faster + Graphical glitches}[Default 30 FPS]
+20745D29 00000002
+
+[60 FPS]
+20745D29 00000001
+{Bugs,Only works on certain areas + Makes the game runs faster + Graphical glitches}[Default 30 FPS]
+20745D29 00000002
+
+[60 FPS]
+20745D29 00000001
+{Bugs,Only works on certain areas + Makes the game runs faster + Graphical glitches}[Default 30 FPS]
+20745D29 00000002
+
+[60 FPS]
+20745D29 00000001
+{Bugs,Only works on certain areas + Makes the game runs faster + Graphical glitches}[Default 30 FPS]
+20745D29 00000002
+
+[60 FPS]
+20745D29 00000001
+{Bugs,Only works on certain areas + Makes the game runs faster + Graphical glitches}[Default 30 FPS]
+20745D29 00000002
+
+[60 FPS]
+20745D29 00000001
+{Bugs,Only works on certain areas + Makes the game runs faster + Graphical glitches}[Default 30 FPS]
+20745D29 00000002
+
+[60 FPS]
+20745D29 00000001
+{Bugs,Only works on certain areas + Makes the game runs faster + Graphical glitches}[Default 30 FPS]
+20745D29 00000002
+
+[60 FPS]
+20745D29 00000001
+{Bugs,Only works on certain areas + Makes the game runs faster + Graphical glit[Default 30 FPS]
+20745D29 00000002
+
+[60 FPS]
+20745D29 00000001
+{Bugs,Only works on certain areas + Makes the game runs faster + Graphical glitches}[Default 30 FPS]
+20745D29 00000002
+
+[60 FPS]
+20745D29 00000001
+{Bugs,Only works on certain areas + Makes the game runs faster + Graphical glitches}[Default 30 FPS]
+20745D29 00000002
+
+[60 FPS]
+20745D29 00000001
+{Bugs,Only works on certain areas + Makes the game runs faster + Graphical glitches}[Default 30 FPS]
+20745D29 00000002
+
+[60 FPS]
+20745D29 00000001
+{Bugs,Only works on certain areas + Makes the game runs faster + Graphical glitches}[Default 30 FPS]
+20745D29 00000002
+
+[60 FPS]
+20745D29 00000001
+{Bugs,Only works on certain areas + Makes the game runs faster + Graphical glitches}[Default 30 FPS]
+20745D29 00000002
+
+[60 FPS]
+20745D29 00000001
+{Bugs,Only works on certain areas + Makes the game runs faster + Graphical glitches}[Default 30 FPS]
+20745D29 00000002
+
+[60 FPS]
+20745D29 00000001
+{Bugs,Only works on certain areas + Makes the game runs faster + Graphical glitches}[Default 30 FPS]
+20745D29 00000002
+
+[60 FPS]
+20745D29 00000001
+{Bugs,Only works on certain areas + Makes the game runs faster + Graphical glitches}[Default 30 FPS]
+20745D29 00000002
+
+[60 FPS]
+20745D29 00000001
+{Bugs,Only works on certain areas + Makes the game runs faster + Graphical glitches}[Default 30 FPS]
+20745D29 00000002
+
+[60 FPS]
+20745D29 00000001
+{Bugs,Only works on certain areas + Makes the game runs faster + Graphical glitches}[Default 30 FPS]
+20745D29 00000002
+
+[60 FPS]
+20745D29 00000001
+{Bugs,Only works on certain areas + Makes the game runs faster + Graphical glit[Default 30 FPS]
+20745D29 00000002
+
+[60 FPS]
+20745D29 00000001
+{Bugs,Only works on certain areas + Makes the game runs faster + Graphical glitches}[Default 30 FPS]
+20745D29 00000002
+
+[60 FPS]
+20745D29 00000001
+{Bugs,Only works on certain areas + Makes the game runs faster + Graphical glitches}[Default 30 FPS]
+20745D29 00000002
+
+[60 FPS]
+20745D29 00000001
+{Bugs,Only works on certain areas + Makes the game runs faster + Graphical glit

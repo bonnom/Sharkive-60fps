@@ -21,3 +21,99 @@ D1000000 00000000
 
 [Paola Max EXP]
 080CE34C 0098967F
+[Default 30 FPS]
+20EE3668 0000001E
+
+[60 FPS]
+20EE3668 00000014
+{Will make the game runs faster}[Default 30 FPS]
+20EE3668 0000001E
+
+[60 FPS]
+20EE3668 00000014
+{Will make the game runs faster}[Default 30 FPS]
+20EE3668 0000001E
+
+[60 FPS]
+20EE3668 00000014
+{Will make the game runs faster}[Default 30 FPS]
+20EE3668 0000001E
+
+[60 FPS]
+20EE3668 00000014
+{Will make the game runs faster}[Default 30 FPS]
+20EE3668 0000001E
+
+[60 FPS]
+20EE3668 00000014
+{Will make the game runs faster}[Default 30 FPS]
+20EE3668 0000001E
+
+[60 FPS]
+20EE3668 00000014
+{Will make the game runs faster}[Default 30 FPS]
+20EE3668 0000001E
+
+[60 FPS]
+20EE3668 00000014
+{Will make the game runs faster}[Default 30 FPS]
+20EE3668 0000001E
+
+[60 FPS]
+20EE3668 00000014
+{Will make the game runs faster}[Default 30 FPS]
+20EE3668 0000001E
+
+[60 FPS]
+20EE3668 00000014
+{Will make the game runs faster}[Default 30 FPS]
+20EE3668 0000001E
+
+[60 FPS]
+20EE3668 00000014
+{Will make the game runs faster}[Default 30 FPS]
+20EE3668 0000001E
+
+[60 FPS]
+20EE3668 00000014
+{Will make the game runs faster}[Default 30 FPS]
+20EE3668 0000001E
+
+[60 FPS]
+20EE3668 00000014
+{Will make the game runs faster}[Default 30 FPS]
+20EE3668 0000001E
+
+[60 FPS]
+20EE3668 00000014
+{Will make the game runs faster}[Default 30 FPS]
+20EE3668 0000001E
+
+[60 FPS]
+20EE3668 00000014
+{Will make the game runs faster}[Default 30 FPS]
+20EE3668 0000001E
+
+[60 FPS]
+20EE3668 00000014
+{Will make the game runs faster}[Default 30 FPS]
+20EE3668 0000001E
+
+[60 FPS]
+20EE3668 00000014
+{Will make the game runs faster}[Default 30 FPS]
+20EE3668 0000001E
+
+[60 FPS]
+20EE3668 00000014
+{Will make the game runs faster}[Default 30 FPS]
+20EE3668 0000001E
+
+[60 FPS]
+20EE3668 00000014
+{Will make the game runs faster}[Default 30 FPS]
+20EE3668 0000001E
+
+[60 FPS]
+20EE3668 00000014
+{Will make 
