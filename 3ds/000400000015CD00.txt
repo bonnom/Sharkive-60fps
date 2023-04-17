@@ -38,3 +38,4 @@ DD000000 00000300
 08270052 001E0000
 D2000000 00000000
 {After loading the game, press the (L + R) key at the same time.}
+

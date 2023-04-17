@@ -5573,9 +5573,6 @@ B0D4BF48 00000000
 D2000000 00000000
 {FSAA_2D::OFF|mDitherDisplay0::OFF|NoAADisplay1::ON}
 
-Codes for v1.2.0 that works on
-patched and non-patched;
-
 [Default Rendering for v1.2.0]
 60D30170 00000000
 B0D30170 00000000
@@ -5686,9 +5683,6 @@ D2000000 00000000
 B0D30170 00000000
 006854A0 42700000
 D2000000 00000000
-
-Codes for v1.4.0 that works on
-patched and non-patched;
 
 [Default Rendering for v1.4.0]
 60D3A040 00000000

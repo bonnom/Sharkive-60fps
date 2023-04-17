@@ -1,5 +1,3 @@
-For Non-Patched;
-
 [60 FPS for 3DS]
 08C15270 42700000
 
@@ -15,8 +13,6 @@ For Non-Patched;
 [Disable AA]
 0818DFE0 001F412A
 {will disable 3D slider.}
-
-For English Patched;
 
 [60 FPS]
 D3000000 08000000

@@ -810,7 +810,6 @@ B0DD5348 00000000
 B0000014 00000000
 10002220 00000384
 D2000000 00000000
-For Non-Patched v1.0.0
 
 [20 FPS v1.0.0]
 087F97B0 41A00000
@@ -855,8 +854,6 @@ For Non-Patched v1.0.0
 08136A70 008F432A
 {Disable AA, No Dithering, Disable AA (2nd Screen)}
 
-For Non-Patched v1.3.0
-
 [20 FPS v1.3.0]
 087E24E0 41A00000
 
@@ -899,3 +896,4 @@ For Non-Patched v1.3.0
 [Trinity Disabler v1.3.0]
 081387A0 008F432A
 {Disable AA, No Dithering, Disable AA (2nd Screen)}
+

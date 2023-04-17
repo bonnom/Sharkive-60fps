@@ -1,6 +1,3 @@
-Only tested on 
-English Patched 2.0.1 (CIA)
-
 [60 FPS]
 D3000000 08000000
 008FD890 42700000

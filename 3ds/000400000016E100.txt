@@ -1,5 +1,3 @@
-For patch 1.3.0
-
 [Default 200 FPS cap]
 60BBA194 00000000
 B0BBA194 00000000

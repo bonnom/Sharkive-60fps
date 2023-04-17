@@ -1,5 +1,3 @@
-For Non-Patched;
-
 [60 FPS v1.0]
 0044A96C 42700000
 
@@ -29,8 +27,6 @@ For Non-Patched;
 [30 FPS v1.2]
 0044A924 41F00000
 {Also works on Rev 2}
-
-For ENG-Patched;
 
 [60 FPS v1.0 (ENG-Patched)]
 D3000000 00000000

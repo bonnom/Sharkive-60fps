@@ -1,5 +1,3 @@
-For Rev 0, Rev 1
-
 [60 FPS v1.0]
 00433244 42700000
 
@@ -17,5 +15,3 @@ For Rev 0, Rev 1
 
 [30 FPS v2.0]
 0044739C 41F00000
-
-*Pay attention to this game, most scenes, only 30fps at most

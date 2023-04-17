@@ -371,8 +371,6 @@ DD000000 00000210
 207CF354 00000003
 {Game Runs Faster.}
 
-Tested on game version 1.6 + English Patched by NanashiFinal13;
-
 [15 fps v1.6.0]
 007F8954 00000004
 

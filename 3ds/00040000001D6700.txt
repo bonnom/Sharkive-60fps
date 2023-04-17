@@ -1,5 +1,3 @@
-Confirmed working on all Versions;
-
 [30 fps]
 0092B614 00000201
 

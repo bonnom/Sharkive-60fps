@@ -37,8 +37,6 @@
 [Game Speed+ v1.2]
 1085879A 00004000
 
-For Game Rev1 & Rev2
-
 [60 FPS v1.0&v1.2]
 20857BCD 00000001
 

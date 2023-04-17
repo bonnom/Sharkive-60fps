@@ -225,7 +225,6 @@ D2000000 00000000
 
 [Get Money & Momento After Battle x64 v1.0]
 0020CE14 E0821301
-Only tested on Undub;
 
 [60 FPS]
 20394C2C 00000000

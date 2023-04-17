@@ -24,7 +24,6 @@ D1000000 00000000
 
 [Rainbow Egg x1]
 005865D7 00000001
-For both v1.0 and v1.1 Non-Patched
 
 [60 FPS]
 08063B8C 00000001
@@ -32,8 +31,6 @@ For both v1.0 and v1.1 Non-Patched
 
 [30 FPS]
 08063B8C 00000002
-
-For ENG-Patched
 
 [60 FPS v1.1 (ENG-Patched)]
 D3000000 08000000
