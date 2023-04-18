@@ -71,3 +71,5 @@ All the cheats submitters and reporters.
 All Luma3DS contributors.
 
 All Atmosphere contributors.
+
+All 3ds 60fps cheats are from [GBAtemp forum post](https://gbatemp.net/threads/60-fps-patches-cheat-codes-releases-and-discussion.550527/)
